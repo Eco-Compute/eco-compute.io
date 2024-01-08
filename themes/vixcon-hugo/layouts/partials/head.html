@@ -11,7 +11,7 @@
   <meta property="og:title" content="EcoCompute - The first engineering conference on sustainability in hardware & software">
   <meta property="og:url" content="https://www.eco-compute.io/">
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
-  <meta property="og:image" content="https://www.eco-compute.io/images/teaser_img.png">
+  <meta property="og:image" content="{{ .Site.BaseURL }}{{ with .Params.socialmedia_preview }}{{ . }}{{ else }}images/teaser_img.png{{ end }}">
 
 
 
