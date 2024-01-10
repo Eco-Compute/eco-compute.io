@@ -3,7 +3,7 @@ title: "Code of Conduct"
 date: 2019-09-10T13:51:25+06:00
 draft: false
 description: "Code of Conduct for the EcoCompute Conference 2024 in Munich, Germany"
-bg_image : "images/bg/cta-bg.jpg"
+bg_image : "images/bg/cta-bg.webp"
 ---
 
 Everybody who participates in EcoCompute in one way or another is required to conform to this Code of Conduct (CoC). This includes attendees, speakers, sponsors, organizers, volunteers, and event staff.

@@ -32,8 +32,8 @@ event:
   enable : true
   title_outline : "ECOCOMPUTE"
   title : "Let's make digital sustainable"
-  image_back : "images/about/h1-gallery-img-7.jpg"
-  image_front : "images/about/main-home-img-1.jpg"
+  image_back : "images/about/h1-gallery-img-7.webp"
+  image_front : "images/about/main-home-img-1.webp"
   content : "EcoCompute brings together software developers, hardware designer and data center professionals in order to create a sustainable digital future.
     <br><br>
     We want to bring all three worlds together to reduce implementation hurdles to get sustainability for digital infrastructures into action.
@@ -125,30 +125,30 @@ sponsor:
     ############################ sponsor group loop
 #    - title : "Gold Sponsors"
 #      sponsor:
-#        - logo : "images/clients/RS.png"
+#        - logo : "images/clients/RS.webp"
 #          link : "https://www.rohde-schwarz.com"
 
     - title : "Organising Partners"
       sponsor:
-        - logo : "images/clients/RS.png"
+        - logo : "images/clients/RS.webp"
           link : "https://www.rohde-schwarz.com"
 
-        - logo : "images/clients/HTW.png"
+        - logo : "images/clients/HTW.webp"
           link : "https://www.htw-berlin.de/"
 
-        - logo : "images/clients/SDIA.png"
+        - logo : "images/clients/SDIA.webp"
           link : "https://sdialliance.org/"
 
-        - logo : "images/clients/bluehands.png"
+        - logo : "images/clients/bluehands.webp"
           link : "#"
 
-        - logo : "images/clients/uba.png"
+        - logo : "images/clients/uba.webp"
           link : "https://www.bluehands.de/"
 
         - logo : "images/clients/Green-Web-Foundation-logo.webp"
           link : "https://www.thegreenwebfoundation.org/"
 
-        - logo : "images/clients/gcb.png"
+        - logo : "images/clients/gcb.webp"
           link : "https://www.green-coding.berlin"
 
     ############################ sponsor group loop
@@ -171,7 +171,7 @@ sponsor:
 venue:
   enable : true
   title : "Venue location"
-  image : "images/bg/cta-bg.jpg"
+  image : "images/bg/cta-bg.webp"
   date : "April 25 - 26"
   location : "Munich, Germany - Exact location TBA in Q1 2024"
   button:

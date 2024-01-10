@@ -86,7 +86,7 @@ link = "plugins/syotimer/syotimer.min.js"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo-2.png"
+logo = "images/logo-2.webp"
 home = "Home"
 # Meta data
 description = "EcoCompute is the first engineering conference on sustainability in hardware & software"
@@ -125,7 +125,7 @@ enable = false
 #gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 #map_latitude = "51.5223477"
 #map_longitude = "-0.1622023"
-#map_marker = "images/marker.png"
+#map_marker = "images/marker.webp"
 
 
 ############################# social icon ############################

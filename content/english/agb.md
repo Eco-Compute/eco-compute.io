@@ -3,7 +3,7 @@ title: "AGB"
 date: 2023-12-10T13:51:25+06:00
 draft: false
 description: "AGB"
-bg_image : "images/bg/cta-bg.jpg"
+bg_image : "images/bg/cta-bg.webp"
 ---
 
 ## ALLGEMEINE GESCHÄFTSBEDINGUNGEN (AGB)

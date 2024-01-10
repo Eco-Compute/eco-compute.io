@@ -22,7 +22,7 @@ schedule:
           ### Linux Power Management Analysis for Embedded Systems
           "
         - time : "10:00 - 11:00"
-          image : "images/logo-2.png"
+          image : "images/logo-2.webp"
           speaker_link: "#"
           speaker_name: "TBA"
           content : "
@@ -38,12 +38,12 @@ schedule:
           ### The Blue Angel for Software as a sustainability label for software
           "
         - time : "12:00 - 13:00"
-          image : "images/logo-2.png"
+          image : "images/logo-2.webp"
           content : "
           ### Lunch
           "
         - time : "13:00 - 14:00"
-          image : "images/teams/ArneTR.jpg"
+          image : "images/teams/ArneTR.webp"
           speaker_link: "/speaker/arne-tarara"
           speaker_name: "Arne Tarara"
           designation: "CEO & Software Developer"
@@ -52,7 +52,7 @@ schedule:
           ### Energy saving techniques for modern cloud and on-prem software
           "
         - time : "14:00 - 15:00"
-          image : "images/teams/chris.jpg"
+          image : "images/teams/chris.webp"
           speaker_link: "/speaker/chris-adams"
           speaker_name: "Chris Adams"
           designation: "Executive Director"
@@ -61,7 +61,7 @@ schedule:
           ### Reducing front-end carbon consumption through grid carbon awareness
           "
         - time : ""
-          image : "images/about/big-data.png"
+          image : "images/about/big-data.webp"
           content : "
           ### More speakers in Track 1 - TBA in Q1 2024
           "
@@ -79,7 +79,7 @@ schedule:
           ### Make your code greener using AI
           "
         - time : "TBA"
-          image : "images/teams/marina.jpg"
+          image : "images/teams/marina.webp"
           speaker_link: "/speaker/marina-koehn"
           speaker_name: "Marina Köhn"
           designation: "Researcher"
@@ -106,12 +106,12 @@ schedule:
           ### TBA
           "
         - time : "18:00"
-          image : "images/logo-2.png"
+          image : "images/logo-2.webp"
           content : "
           ### Conference Dinner & Networking
           "
         - time : ""
-          image : "images/about/big-data.png"
+          image : "images/about/big-data.webp"
           content : "
           ### More speakers in Track 2 TBA in Q1 2024
           "
@@ -123,18 +123,18 @@ schedule:
       schedule_items:
         # schedule loop item
         - time : "09:00 - 11:00"
-          image : "images/about/big-data.png"
+          image : "images/about/big-data.webp"
           content : "
           ### Talks - TBA
           "
         # schedule loop item
         - time : "11:00 - 12:00"
-          image : "images/logo-2.png"
+          image : "images/logo-2.webp"
           content : "
           ### Lunch
           "
         - time : "12:00 - 15:00"
-          image : "images/teams/ArneTR.jpg"
+          image : "images/teams/ArneTR.webp"
           speaker_link: "/speaker/arne-tarara"
           speaker_name: "Arne Tarara"
           designation: "CEO & Software Developer"
@@ -161,7 +161,7 @@ schedule:
           ### Reducing power consumption through OS level settings in embedded systems
           "
         - time : "12:00 - 15:00"
-          image : "images/about/big-data.png"
+          image : "images/about/big-data.webp"
           content : "
           ### More Workshops TBA
           "

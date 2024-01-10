@@ -3,7 +3,7 @@ title: "Datenschutz"
 date: 2019-09-10T13:51:25+06:00
 draft: false
 description: "Datenschutz"
-bg_image : "images/bg/cta-bg.jpg"
+bg_image : "images/bg/cta-bg.webp"
 ---
 
 <h3 id="1-datenschutz-auf-einen-blick">1. DATENSCHUTZ AUF EINEN BLICK</h3>

@@ -17,7 +17,7 @@ pricing:
       style : "1"
       price : "150 EUR"
       icon : "tf-ion-android-bulb"
-      bg_image : "images/bg/page-header.jpg"
+      bg_image : "images/bg/page-header.webp"
       services:
         - "Confirmed Reservation"
         - "Payment in Q1/2024"
@@ -35,7 +35,7 @@ pricing:
       style : "2"
       price : "200 EUR"
       icon : "tf-ion-play"
-      bg_image : "images/bg/page-header.jpg"
+      bg_image : "images/bg/page-header.webp"
       services:
         - "Two Days Ticket"
         - "Coffee & Lunch"
@@ -51,7 +51,7 @@ pricing:
       style : "3"
       price : "Individual"
       icon : "tf-ion-briefcase"
-      bg_image : "images/bg/page-header.jpg"
+      bg_image : "images/bg/page-header.webp"
       services:
         - "Two Days Ticket"
         - "Coffee & Lunch"

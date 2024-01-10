@@ -3,7 +3,7 @@ title: "Max Schulze"
 date: 2023-12-05T13:51:25+06:00
 draft: false
 description: "Max Schulze"
-bg_image : "images/bg/cta-bg.jpg"
+bg_image : "images/bg/cta-bg.webp"
 image : "images/teams/max.webp"
 company: "SDIA"
 designation : "Director"

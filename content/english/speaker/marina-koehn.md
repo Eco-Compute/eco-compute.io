@@ -3,8 +3,8 @@ title: "Marina Köhn"
 date: 2023-12-05T13:51:25+06:00
 draft: false
 description: "Marina Köhn"
-bg_image : "images/bg/cta-bg.jpg"
-image : "images/teams/marina.jpg"
+bg_image : "images/bg/cta-bg.webp"
+image : "images/teams/marina.webp"
 company: "Umweltbundesamt"
 designation : "Researcher"
 type : "speaker"

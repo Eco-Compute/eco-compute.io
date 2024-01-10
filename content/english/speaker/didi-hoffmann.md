@@ -3,7 +3,7 @@ title: "Geerd-Dietger Hoffmann"
 date: 2023-12-05T13:51:25+06:00
 draft: false
 description: "Geerd-Dietger Hoffmann"
-bg_image : "images/bg/cta-bg.jpg"
+bg_image : "images/bg/cta-bg.webp"
 image : "images/teams/didi.webp"
 company: "Green Coding Solutions"
 designation : "Head of Engineering"

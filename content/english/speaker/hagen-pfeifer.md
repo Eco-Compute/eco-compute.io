@@ -3,7 +3,7 @@ title: "Hagen Pfeifer"
 date: 2023-12-05T13:51:25+06:00
 draft: false
 description: "Hagen Pfeifer"
-bg_image : "images/bg/cta-bg.jpg"
+bg_image : "images/bg/cta-bg.webp"
 image : "images/teams/hagen.webp"
 company: "Rohde & Schwarz"
 designation : "Chief Software Architect"
