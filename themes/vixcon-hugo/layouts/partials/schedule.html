@@ -43,7 +43,11 @@
                 <h4 class="time text-color">{{ . }}</h4>
                 {{ end }}
                 <div class="content">
-                  {{ .content | markdownify }}
+                  {{ if .talk_link }}
+                      <a href="{{ .talk_link }}">{{ .content | markdownify }}</a>
+                  {{ else }}
+                      {{ .content | markdownify }}
+                  {{ end }}
                   <div class="speaker-info">
                     <div class="mb-0 mt-3"><a href="{{ .speaker_link }}">{{ .speaker_name }}</a></div>
                     <p>{{ with .designation }}{{ . }}{{ end }}{{ with .company }} | {{ . }}{{ end }}</p>
