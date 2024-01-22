@@ -1,13 +1,18 @@
 ---
 title: "Linux Power Management Analysis for Embedded Systems"
-date: 2023-12-05T13:51:25+06:00
+date: 2024-01-20T13:51:25+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Hagen Pfeifer"
+speaker_company: "Rohde & Schwarz"
 speaker_image : "images/teams/hagen.webp"
 speaker_link: "speaker/hagen-pfeifer/"
+talk_room: "TBA"
+talk_date: 25.04.2024 09:00 AM
+
 type : "talk"
 ---
+
 This presentation will discuss in detail the pitfalls from software design to
 implementation of a Linux embedded product in order to develop a power
 efficient device. The topic will be approached from an analytical point of

@@ -11,16 +11,18 @@
           <img src="{{ . | absURL }}" alt="" class="img-fluid" loading="lazy">
         </div>
         {{ end }}
-        <a href="{{ .Params.speaker_link }}">{{.Params.speaker_name  }}</a>
       </div>
       <div class="col-lg-10 col-md-7">
         <div class="speaker-single-wrap">
-          <!-- <div class="speaker-header mb-4">
-            <h2>{{ .Title }}</h2>
-            <span class="text-color">{{ .Params.Designation }}</span>
-          </div> -->
+            <h2>Talk Infos</h2>
+            <div class="text-color">Speaker:  <a href="{{ absURL .Params.speaker_link }}">{{.Params.speaker_name  }}</a></div>
+            <div class="text-color">Company affiliation: {{ .Params.speaker_company }}</div>
+            <div class="text-color">Time: {{ .Params.talk_date  }}</div>
+            <div class="text-color">Room: {{ .Params.talk_room }}</div>
+            <hr>
+            <h3>Talk Details</h2>
+            <div class="content">{{ .Content }}</div>
 
-          <div class="content">{{ .Content }}</div>
         </div>
       </div>
     </div>
