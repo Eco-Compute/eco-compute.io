@@ -75,6 +75,23 @@
 	}
 }
 
+.talk-table {
+
+	.content-img {
+		flex-basis: 20%;
+		img {
+			border-radius: 100%;
+			@media screen {
+				width: 100px;
+			}
+		}
+	}
+
+	li {
+		box-shadow: 0 15px 38px 0 rgba(0, 0, 0, 0.1);
+	}
+}
+
 .text-color-2 {
 	color: $secondary-color;
 }

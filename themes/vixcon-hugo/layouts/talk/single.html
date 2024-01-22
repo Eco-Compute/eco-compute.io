@@ -1,0 +1,58 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<section class="speaker-single section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-2 col-md-5 mb-5 mb-md-0">
+        {{ with .Params.speaker_image }}
+        <div class="content-img text-lg-right">
+          <img src="{{ . | absURL }}" alt="" class="img-fluid" loading="lazy">
+        </div>
+        {{ end }}
+      </div>
+      <div class="col-lg-10 col-md-7">
+        <div class="speaker-single-wrap">
+            <h2>Talk Infos</h2>
+            <div class="text-color">Speaker:  <a href="{{ absURL .Params.speaker_link }}">{{.Params.speaker_name  }}</a></div>
+            <div class="text-color">Company affiliation: {{ .Params.speaker_company }}</div>
+            <div class="text-color">Time: {{ .Params.talk_date  }}</div>
+            <div class="text-color">Room: {{ .Params.talk_room }}</div>
+            <hr>
+            <h3>Talk Details</h2>
+            <div class="content">{{ .Content }}</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!--
+<section class="section bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <div class="mb-5">
+          <h2>{{ i18n "professional_skills" }}</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      {{ range .Params.skill }}
+      <div class="col-lg-4 col-md-6 mb-5">
+        <div class="skill-item">
+          <i class="{{ .icon }}"></i>
+          <h4 class="mb-3">{{ .title | markdownify }}</h4>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+-->
+
+{{ end }}
