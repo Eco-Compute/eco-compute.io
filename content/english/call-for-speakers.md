@@ -23,6 +23,8 @@ Here are some examples of topics that we deem matching to the conference topic, 
 - Identification of problems why sustainability features/techniques are not used in tech companies and the cloud
 - Identification of problems why sustainabilty / efficiency features in hardware are not taken up by software
 - New hardware / hardware-features / software / tools to save resources (energy, CO2, extended hardware refresh cycles)
+- Saving energy through thermal management / energy monitoring / power converters / SoC power management / battery management (e.g. optimizing heat dissipation, material selection, power rail measurement, NPUs, network adapters)
+- Expertise in AI models that focus on techniques contributing to the minimization of carbon emissions
 
 **We accept talks in English and German.**
 
