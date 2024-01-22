@@ -18,7 +18,7 @@ schedule:
           speaker_name: "Hagen Pfeifer"
           designation: "Chief Software Architect"
           company: "Rohde & Schwarz"
-          talk_link: "/talk/linux-power-management-analysisfor-embedded-systems/"
+          talk_link: "/talk/linux-power-management-analysis-for-embedded-systems/"
           content : "
           ### Linux Power Management Analysis for Embedded Systems
           "
