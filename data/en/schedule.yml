@@ -49,6 +49,7 @@ schedule:
           speaker_name: "Arne Tarara"
           designation: "CEO & Software Developer"
           company: "Green Coding Solutions"
+          talk_link: "/talk/energy-saving-techniques-for-modern-cloud-and-on-prem-software/"
           content : "
           ### Energy saving techniques for modern cloud and on-prem software
           "
