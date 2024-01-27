@@ -135,21 +135,27 @@ sponsor:
 
         - logo : "images/clients/HTW.webp"
           link : "https://www.htw-berlin.de/"
+          background: "#fff"
 
         - logo : "images/clients/SDIA.webp"
           link : "https://sdialliance.org/"
 
         - logo : "images/clients/bluehands.webp"
-          link : "#"
+          link : "https://www.bluehands.de/"
+          background: "#fff"
 
         - logo : "images/clients/uba.webp"
-          link : "https://www.bluehands.de/"
+          link : "https://www.umweltbundesamt.de/"
+          background: "#fff"
 
         - logo : "images/clients/Green-Web-Foundation-logo.webp"
           link : "https://www.thegreenwebfoundation.org/"
+          background: "#fff"
+
 
         - logo : "images/clients/gcb.webp"
-          link : "https://www.green-coding.berlin"
+          link : "https://www.green-coding.io"
+          background: "#2b3e50"
 
     ############################ sponsor group loop
    # - title : "Platinum Sponsors"
