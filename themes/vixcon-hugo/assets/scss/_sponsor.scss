@@ -19,33 +19,18 @@
 		display: block;
 	}
 
-    line-height: 100px;
+    line-height: 150px;
 	float: left;
-	width: 15%;
-	height: 115px;
-	border:1px solid rgba(255, 255, 255, 0.05);
-	padding: 20px;
+	width: 200px;
+	border:3px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    margin: 10px;
+	padding: 10px;
 	text-align: center;
 
 	&:hover {
 		opacity: 1;
 		background: $black;
-	}
-
-	@include desktop {
-		width: 20%;
-	}
-
-	@include tablet {
-		width: 30%;
-	}
-
-	@include mobile {
-		width: 40%;
-	}
-
-	@include mobile-xs {
-		width: 50%;
 	}
 }
 
