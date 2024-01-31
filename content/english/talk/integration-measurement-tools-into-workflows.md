@@ -1,0 +1,22 @@
+---
+title: "Integrating energy measurement tools into software development workflows"
+date: 2024-01-25T00:00:00+01:00
+draft: false
+bg_image : "images/bg/cta-bg.webp"
+speaker_name: "Verena Majuntke"
+speaker_company: "HTW Berlin"
+speaker_image : "images/teams/verena.webp"
+speaker_link: "speaker/verena-majuntke/"
+talk_room: "TBA"
+talk_date: 25.04.2024 10:00
+
+type : "talk"
+---
+
+In my presentation, I'll provide insights into the latest research and tools in software sustainability. 
+
+The aim is to raise awareness among software development teams about the importance of sustainable practices. 
+
+I will discuss how these tools can be integrated into workflows, enabling continuous evaluation and improvement of software sustainability. 
+
+This approach will guide teams in consistently measuring their software's sustainability and identifying effective strategies for improvement.
