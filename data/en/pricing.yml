@@ -27,8 +27,8 @@ pricing:
         - "Workshops included"
         - "Sustainable conference baggie"
       button:
-        label : "Get now"
-        link : "tickets"
+        label : "Closed"
+        link : "#"
 
     # pricing table loop
     - title : "Regular"
@@ -43,13 +43,13 @@ pricing:
         - "Workshops included"
         - "Sustainable conference baggie<br><br>"
       button:
-        label : "Opens Q1/2024"
+        label : "Opens 10th Feb 2024"
         link : ""
 
     # pricing table loop
     - title : "Company"
       style : "3"
-      price : "Individual"
+      price : "Enterprise"
       icon : "tf-ion-briefcase"
       bg_image : "images/bg/page-header.webp"
       services:
