@@ -10,7 +10,11 @@ socialmedia_preview: "images/social-media-previews/call-for-speakers.webp"
 
 ## Call for Speakers: Share Your Expertise!
 
-#### Call for speakers is open until **31.01.2024**
+{{< alert >}}
+The call for Call for Speakers for <b>software-only</b> related talks is <b>closed</b> as of 31.01.2024 ❌
+<br>We are still accepting <b>hardware</b> ✅ and / or <b>datacenter</b> ✅ related talks. 
+<br>Also, if you have been invited by us individually to submit a talk please still use the form. 
+{{</ alert >}}
 
 We're excited to invite dynamic and knowledgeable speakers to submit their talks for our upcoming conference. This is your opportunity to inspire, engage, and impart wisdom to a diverse audience eager for new insights and perspectives.
 
@@ -28,8 +32,14 @@ Here are some examples of topics that we deem matching to the conference topic, 
 
 **We accept talks in English and German.**
 
-<div class="alert alert-info d-none" role="alert" id="form-status">asd
+<div class="alert alert-info d-none" role="alert" id="form-status">
 </div>
+
+{{< alert >}}
+The call for Call for Speakers for <b>software-only</b> related talks is <b>closed</b> as of 31.01.2024 ❌
+<br>We are still accepting <b>hardware</b> ✅ and / or <b>datacenter</b> ✅ related talks. 
+<br>Also, if you have been invited by us individually to submit a talk please still use the form. 
+{{</ alert >}}
 
 <form
   id="speaker-form"
