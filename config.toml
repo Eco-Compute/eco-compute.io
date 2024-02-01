@@ -67,7 +67,7 @@ link = "plugins/syotimer/syotimer.min.js"
     [[menu.main]]
     parent = "More"
     name = "Tickets"
-    URL = "tickets"
+    URL = "#pricing"
 
     [[menu.main]]
     parent = "More"
@@ -109,7 +109,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.navigation_button]
 enable = true
 label = "Get your Ticket"
-link = "tickets"
+link = "#pricing"
 
 
 # Subscription
