@@ -64,7 +64,7 @@
 
         {{ if .Site.Params.navigation_button.enable }}
         {{ "<!-- get start btn -->" | safeHTML }}
-        <a href="{{ .Site.Params.navigation_button.link | absLangURL }}"
+        <a href="{{ .Site.Params.navigation_button.link }}"
           class="btn btn-secondary btn-rounded mt-3 mt-lg-0">{{ .Site.Params.navigation_button.label }}</a>
         {{ end }}
       </div>
