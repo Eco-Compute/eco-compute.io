@@ -32,8 +32,6 @@ Here are some examples of topics that we deem matching to the conference topic, 
 
 **We accept talks in English and German.**
 
-<div class="alert alert-info d-none" role="alert" id="form-status">
-</div>
 
 {{< alert >}}
 The call for Call for Speakers for <b>software-only</b> related talks is <b>closed</b> as of 31.01.2024 ❌
@@ -116,6 +114,10 @@ The call for Call for Speakers for <b>software-only</b> related talks is <b>clos
 </div>
 
 </form>
+
+<div class="alert alert-info d-none" role="alert" id="form-status">
+</div>
+
 
 <script>
   var form = document.getElementById("speaker-form");
