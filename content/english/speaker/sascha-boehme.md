@@ -1,12 +1,12 @@
 ---
-title: "Chris Adams"
-date: 2023-12-05T13:51:25+06:00
+title: "Sascha Böhme"
+date: 2024-02-06T13:51:25+06:00
 draft: false
-description: "Chris Adams"
+description: "Sascha Böhme"
 bg_image : "images/bg/cta-bg.webp"
-image : "images/teams/chris-adams.webp"
-company: "Green Web Foundation"
-designation : "Executive Director"
+image : "images/teams/sascha-boehme.webp"
+company: "QAware GmbH"
+designation : "Software Architect"
 type : "speaker"
 # social:
 #   # social site loop
@@ -31,6 +31,4 @@ type : "speaker"
 #    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit #turpis, a porttitor tellus sollicitudin at."
 ---
 
-Chris Adams is the Executive Director of the Green Web Foundation, an organiser of ClimateAction.tech, a community for technology professionals taking climate action, and an editor of Branch Magazine.
-
-An environmentally focussed tech generalist, he has spent the last 15 years working in tech startups, blue chip companies and government, as a user researcher, product manager, developer, and sysadmin.
+Sascha Böhme is a software architect at QAware. He has developed applications and microservices in Java for over ten years. Throughout these years, he has strived to reduce complexity in development and operations, which was complemented by reducing the ecological footprint in recent years.

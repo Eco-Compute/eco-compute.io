@@ -52,6 +52,9 @@
                     <div class="mb-0 mt-3"><a href="{{ .speaker_link }}">{{ .speaker_name }}</a></div>
                     <p>{{ with .designation }}{{ . }}{{ end }}{{ with .company }} | {{ . }}{{ end }}</p>
                   </div>
+                  {{ range .labels }}
+                      <span class="talk-label">{{.}}</span>
+                  {{end}}
                 </div>
                 {{ with .image }}
                 <div class="content-img text-lg-right">

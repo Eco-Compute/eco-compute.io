@@ -4,7 +4,7 @@ date: 2023-12-05T13:51:25+06:00
 draft: false
 description: "Arne Tarara"
 bg_image : "images/bg/cta-bg.webp"
-image : "images/teams/ArneTR.webp"
+image : "images/teams/arne-tarara.webp"
 company: "Green Coding Solutions GmbH"
 designation : "CEO & Software Developer"
 type : "speaker"

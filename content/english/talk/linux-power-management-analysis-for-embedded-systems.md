@@ -1,14 +1,14 @@
 ---
-title: "Linux Power Management Analysis for Embedded Systems"
+title: "Linux Power Management Analysis for Embedded Systems 🇬🇧"
 date: 2024-01-20T13:51:25+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Hagen Pfeifer"
 speaker_company: "Rohde & Schwarz"
-speaker_image : "images/teams/hagen.webp"
+speaker_image : "images/teams/hagen-pfeifer.webp"
 speaker_link: "speaker/hagen-pfeifer/"
 talk_room: "TBA"
-talk_date: 25.04.2024 09:00 AM
+talk_date: "25.04.2024 09:00"
 
 type : "talk"
 ---

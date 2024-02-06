@@ -1,13 +1,13 @@
 ---
-title: "Chris Adams"
-date: 2023-12-05T13:51:25+06:00
+title: "Ghazal Aakel & Eric Jochum"
+date: 2024-02-06T13:51:25+06:00
 draft: false
-description: "Chris Adams"
+description: "Ghazal Aakel & Eric Jochum"
 bg_image : "images/bg/cta-bg.webp"
-image : "images/teams/chris-adams.webp"
-company: "Green Web Foundation"
-designation : "Executive Director"
-type : "speaker"
+image : "images/teams/ghazal-aakel-and-eric-jochum.webp"
+company: "metafinanz Informationssysteme GmbH"
+designation: "Sustainabilty Consultants"
+type: "speaker"
 # social:
 #   # social site loop
 #   - icon : "tf-ion-social-linkedin"
@@ -31,6 +31,12 @@ type : "speaker"
 #    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit #turpis, a porttitor tellus sollicitudin at."
 ---
 
-Chris Adams is the Executive Director of the Green Web Foundation, an organiser of ClimateAction.tech, a community for technology professionals taking climate action, and an editor of Branch Magazine.
+## Bio Ghazal Aakel
+Eight years of expertise in business enablement, software quality and test management across varied domains and industries, complemented by over one year of dedicated experience as a Green IT professional.
 
-An environmentally focussed tech generalist, he has spent the last 15 years working in tech startups, blue chip companies and government, as a user researcher, product manager, developer, and sysadmin.
+Co-author of the Maturity Model Integrated for Green IT (MMIGIT).
+
+## Bio Eric Jochum
+Experienced in international project management for more than 20 years for several consulting companies.
+
+Co-author of the Maturity Model Integrated for Green IT (MMIGIT). Convinced climate saver, happy to be able to support this professionally in his job.

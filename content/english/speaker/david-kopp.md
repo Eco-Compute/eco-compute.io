@@ -1,12 +1,12 @@
 ---
-title: "Chris Adams"
-date: 2023-12-05T13:51:25+06:00
+title: "David Kopp"
+date: 2024-02-06T13:51:25+06:00
 draft: false
-description: "Chris Adams"
+description: "David Kopp"
 bg_image : "images/bg/cta-bg.webp"
-image : "images/teams/chris-adams.webp"
-company: "Green Web Foundation"
-designation : "Executive Director"
+image : "images/teams/david-kopp.webp"
+company: "University of Stuttgart"
+designation : "Msc. Student"
 type : "speaker"
 # social:
 #   # social site loop
@@ -31,6 +31,4 @@ type : "speaker"
 #    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit #turpis, a porttitor tellus sollicitudin at."
 ---
 
-Chris Adams is the Executive Director of the Green Web Foundation, an organiser of ClimateAction.tech, a community for technology professionals taking climate action, and an editor of Branch Magazine.
-
-An environmentally focussed tech generalist, he has spent the last 15 years working in tech startups, blue chip companies and government, as a user researcher, product manager, developer, and sysadmin.
+I'm a student at the University of Stuttgart, studying Software Engineering M.Sc. Personally I'm interested in sustainability, animal rights, trail running and evidence-based discussions in general. In my professional life as a (future) software developer I'm looking for ways to play a positive role in the social-environmental transformation. During my master's thesis, I explored the topic of energy efficiency of different software architecture styles in cloud-based environments.

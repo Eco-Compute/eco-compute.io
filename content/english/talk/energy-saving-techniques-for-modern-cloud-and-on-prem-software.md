@@ -1,11 +1,11 @@
 ---
-title: "Energy saving techniques for modern cloud and on-prem software"
+title: "Energy saving techniques for modern cloud and on-prem software 🇬🇧"
 date: 2024-01-25T00:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Arne Tarara"
 speaker_company: "Green Coding Solutions GmbH"
-speaker_image : "images/teams/ArneTR.webp"
+speaker_image : "images/teams/arne-tarara.webp"
 speaker_link: "speaker/arne-tarara/"
 talk_room: "TBA"
 talk_date: 25.04.2024 13:00

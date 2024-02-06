@@ -229,3 +229,18 @@ h3#track-1, h3#track-2 {
   border: 1px solid #EDD;
   color: #A66;
 }
+
+.talk-label {
+  pointer-events: none;
+  background-color: #EFF4FF;
+  border: none;
+  color: #2557D6;
+  padding: 3px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 13px;
+  margin-left: -1px;
+  margin-bottom: 10px;
+  border-radius: 100px;
+}
