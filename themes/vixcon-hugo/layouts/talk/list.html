@@ -16,7 +16,7 @@
           </div>
           {{ with .Params.speaker_image }}
           <div class="content-img text-lg-right">
-            <img src="{{ . | absURL }}" alt="" class="img-fluid" loading="lazy">
+            <img src="{{ . | relURL }}" alt="" class="img-fluid" loading="lazy">
           </div>
           {{ end }}
         </li>
@@ -45,7 +45,7 @@
       <div class="col-lg-4 col-sm-6">
         <div class="speaker-block mb-5">
           <div class="img-block">
-            <img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="img-fluid" loading="lazy">
+            <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" class="img-fluid" loading="lazy">
             <ul class="list-inline speaker-social">
               {{ range .Params.Social }}
               <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
@@ -82,7 +82,7 @@
       <div class="col-lg-4 col-sm-6">
         <div class="speaker-block style-2 mb-5">
           <div class="img-block">
-            <img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="img-fluid rounded-circle" loading="lazy">
+            <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" class="img-fluid rounded-circle" loading="lazy">
             <ul class="list-inline speaker-social">
               {{ range .Params.Social }}
               <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
