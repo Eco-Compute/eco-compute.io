@@ -22,9 +22,9 @@
         {{ range .sponsor }}
         <div class="client-item" {{ with .background }}style="background: {{.}}" {{end}}>
           {{ if and (ne .link "") (ne .link "#") }}
-          <a href="{{ .link }}"><img src="{{ .logo | absURL }}" alt="" class="img-fluid" loading="lazy"></a>
+          <a href="{{ .link }}"><img src="{{ .logo | relURL }}" alt="" class="img-fluid" loading="lazy"></a>
           {{ else }}
-          <img src="{{ .logo | absURL }}" alt="" class="img-fluid" loading="lazy">
+          <img src="{{ .logo | relURL }}" alt="" class="img-fluid" loading="lazy">
           {{ end }}
         </div>
         {{ end }}
