@@ -48,12 +48,12 @@ schedule:
           designation: "Research Associate for Green IT"
           company: "Umweltbundesamt"
           content : "
-          ### The Blue Angel for Software as a sustainability label for software
+          ### Reducing hardware obsolescence through target Green IT strategies
           "
           labels:
             - 🇬🇧
-            - Software
-            - Certifcations
+            - Hardware
+            - Sustainability strategies
         - time : "11:30 - 12:00"
           image : "images/teams/-.webp"
           speaker_link: "/speaker/abhishek-gupta"
@@ -242,11 +242,11 @@ schedule:
         - time : "13:45 - 14:30"
           image : "images/teams/marina.webp"
           speaker_link: "/speaker/marina-koehn"
-          speaker_name: "Marina Köhn"
-          designation: "Researcher"
-          company: "Umweltbundesamt"
+          speaker_name: "Free Slot 45 Minutes"
+          designation: "Free Slot 45 Minutes"
+          company: "Free Slot 45 Minutes"
           content : "
-          ### Nachhaltigkeit bei Rechenzentren
+          ### Free Slot 45 Minutes
           "
         - time : "14:30 - 15:00"
           image : "images/teams/max-schulze-small.webp"
@@ -260,7 +260,7 @@ schedule:
           "
        labels:
             - 🇬🇧
-            - Sustainability
+            - Sustainability strategies
         - time : "15:00 - 15:30"
           image : "images/teams/..webp"
           speaker_link: "/speaker/max-schulze"
