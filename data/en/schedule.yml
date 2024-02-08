@@ -249,14 +249,18 @@ schedule:
           ### Nachhaltigkeit bei Rechenzentren
           "
         - time : "14:30 - 15:00"
-          image : "images/teams/max.webp"
+          image : "images/teams/max-schulze-small.webp"
           speaker_link: "/speaker/max-schulze"
           speaker_name: "Max Schulze"
           designation: "Director"
           company: "SDIA"
+          talk_link: "/talk/the-role-of-values-in-our-digital-future/"
           content : "
-          ### Werte in unserer digitalen Zukunft - welche Werte wollen wir priorisieren und wie kommen Sie in unsere digitalen Produkte?
+          ### The Role of Values in Our Digital Future - What's important to us and how do we embed values in our digital products?
           "
+       labels:
+            - 🇬🇧
+            - Sustainability
         - time : "15:00 - 15:30"
           image : "images/teams/..webp"
           speaker_link: "/speaker/max-schulze"

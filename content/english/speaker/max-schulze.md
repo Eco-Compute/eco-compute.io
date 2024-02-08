@@ -31,4 +31,8 @@ type : "speaker"
 #    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit #turpis, a porttitor tellus sollicitudin at."
 ---
 
-To come
+Max Schulze is the Founder of the Sustainable Digital Infrastructure Alliance (SDIA). 
+
+With a background as a software engineer and a cloud expert, Max brings his experience in measuring the digital economy's footprint and advancing the SDIA’s roadmap towards making it sustainable and future-proof. 
+
+Throughout his career, he has dedicated himself to the well-being of people and the planet as he is committed to creating a positive future for the next generation.
