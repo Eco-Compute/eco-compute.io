@@ -166,21 +166,25 @@ schedule:
           "
           bg_color: "coal"
         - time : "09:00 - 09:45"
-          image : "images/teams/-.webp"
+          image : "images/teams/max-koerbaecher-small.webp"
           speaker_link: "/speaker/max-koerbaecher"
           speaker_name: "Max Körbächer"
           designation: "Founder / Cloud Native Advocate"
           company: "Liquid Reply"
+          talk_link: "/talk/green-cloud-computing-from-top-to-bottom/"
           content : "
           ### Green Cloud Computing - from top to bottom
           "
+          labels:
+            - 🇬🇧
+            - Cloud
         - time : "09:45 - 10:30"
           image : "images/teams/verena.webp"
           speaker_link: "/speaker/verena-majuntke"
           speaker_name: "Verena Majuntke"
-          talk_link: "/talk/where-is-the-green-mindset/"
           designation: "Professor - Software Engineering"
           company: "HTW Berlin"
+          talk_link: "/talk/where-is-the-green-mindset/"
           content : "
           ### Where is the green in the mindset? Improving awareness for green coding  in the software development process
           "
@@ -258,7 +262,7 @@ schedule:
           content : "
           ### The Role of Values in Our Digital Future - What's important to us and how do we embed values in our digital products?
           "
-       labels:
+          labels:
             - 🇬🇧
             - Sustainability strategies
         - time : "15:00 - 15:30"
@@ -354,7 +358,7 @@ schedule:
           designation: "Chief Software Architect"
           company: "Rohde & Schwarz"
           content : "
-          ### Reducing power consumption through OS level settings in embedded systems
+          ### Reducing power consumption through OS level settings in Linux systems
           "
         - time : "12:00 - 15:00"
           image : "images/teams/verena-majuntke-small.webp"
