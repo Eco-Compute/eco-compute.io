@@ -41,7 +41,7 @@ pricing:
         - "Coffee & Lunch ☕️ 🥙"
         - "Workshops 👩‍💻🧑🏾‍💻"
         - "Sustainable Conference Baggie 🌱"
-        - "Conference Dinner 🍝 (extra)"
+        - "Conference Dinner 🍝 (limited addon)"
         - "See our <a href='/grants'><u>grants page</u></a> for reduced price options<br><br>"
       button:
         label : "Get Ticket"
@@ -58,7 +58,7 @@ pricing:
         - "Coffee & Lunch ☕️ 🥙"
         - "Workshops included 👩‍💻🧑🏾‍💻"
         - "Sustainable Conference Baggie 🌱"
-        - "Conference Dinner 🍝 (extra)"
+        - "Conference Dinner 🍝 (limited addon)"
         - "Discounts for multiple tickets 😍"
         - "Sponsoring opportunities 🥳"
 
