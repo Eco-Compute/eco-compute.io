@@ -12,66 +12,7 @@ schedule:
           ### Track 1
           "
           bg_color: "coal"
-        - time : "09:00 - 10:00"
-          image : "images/teams/hagen-pfeifer-small.webp"
-          speaker_link: "/speaker/hagen-pfeifer"
-          speaker_name: "Hagen Pfeifer"
-          designation: "Chief Software Architect"
-          company: "Rohde & Schwarz"
-          talk_link: "/talk/linux-power-management-analysis-for-embedded-systems/"
-          content : "
-          ### Linux Power Management Analysis for Embedded Systems
-          "
-          labels:
-            - 🇬🇧
-            - Hardware
-            - OS
-            - Reduction / Optimizations
-        - time : "10:00 - 10:45"
-          image : "images/logo-2.webp"
-          speaker_link: "#"
-          speaker_name: "TBA"
-          content : "
-          ### Keynote Panel: Current challenges in bringing energy saving techniques into application
-          "
-        - time : "10:45 - 11:00"
-          image : "images/logo-2.webp"
-          speaker_link: "#"
-          speaker_name: ""
-          content : "
-          ### Coffee Break
-          "
-        - time : "11:00 - 11:30"
-          image : "images/teams/anna-zagorski-small.webp"
-          speaker_link: "/speaker/anna-zagorski"
-          speaker_name: "Anna Zagorski"
-          designation: "Research Associate for Green IT"
-          company: "Umweltbundesamt"
-          content : "
-          ### Reducing hardware obsolescence through target Green IT strategies
-          "
-          labels:
-            - 🇬🇧
-            - Hardware
-            - Sustainability strategies
-        - time : "11:30 - 12:00"
-          image : "images/teams/-.webp"
-          speaker_link: "/speaker/abhishek-gupta"
-          speaker_name: "Abhishek Gupta"
-          designation: "Director for Responsible AI"
-          company: "Green Software Foundation"
-          content : "
-          ### Navigating the Ecological and Social Footprints of AI: Pathways to Sustainability
-          "
-          labels:
-            - 🇬🇧
-            - AI
-        - time : "12:00 - 13:00"
-          image : "images/logo-2.webp"
-          content : "
-          ### Lunch
-          "
-        - time : "13:00 - 14:00"
+        - time : "09:00 - 09:45"
           image : "images/teams/arne-tarara-small.webp"
           speaker_link: "/speaker/arne-tarara"
           speaker_name: "Arne Tarara"
@@ -86,6 +27,70 @@ schedule:
             - Software
             - Measuring
             - Reduction / Optimizations
+        - time : "09:45 - 10:30"
+          image : "images/teams/hagen-pfeifer-small.webp"
+          speaker_link: "/speaker/hagen-pfeifer"
+          speaker_name: "Hagen Pfeifer"
+          designation: "Chief Software Architect"
+          company: "Rohde & Schwarz"
+          talk_link: "/talk/linux-power-management-analysis-for-embedded-systems/"
+          content : "
+          ### Linux Power Management Analysis for Embedded Systems
+          "
+          labels:
+            - 🇬🇧
+            - Hardware
+            - OS
+            - Reduction / Optimizations
+        - time : "10:30 - 10:45"
+          image : "images/logo-2.webp"
+          speaker_link: "#"
+          speaker_name: ""
+          content : "
+          ### Coffee Break
+          "
+        - time : "10:45 - 11:30"
+          image : "images/teams/max-koerbaecher-small.webp"
+          speaker_link: "/speaker/max-koerbaecher"
+          speaker_name: "Max Körbächer"
+          designation: "Founder / Cloud Native Advocate"
+          company: "Liquid Reply"
+          talk_link: "/talk/green-cloud-computing-from-top-to-bottom/"
+          content : "
+          ### Green Cloud Computing - from top to bottom
+          "
+          labels:
+            - 🇬🇧
+            - Cloud
+
+        - time : "11:30 - 12:00"
+          image : "images/teams/anna-zagorski-small.webp"
+          speaker_link: "/speaker/anna-zagorski"
+          speaker_name: "Anna Zagorski"
+          designation: "Research Associate for Green IT"
+          company: "Umweltbundesamt"
+          content : "
+          ### Reducing hardware obsolescence through target Green IT strategies
+          "
+          labels:
+            - 🇬🇧
+            - Hardware
+            - Sustainability strategies
+        - time : "12:00 - 13:00"
+          image : "images/logo-2.webp"
+          content : "
+          ### Lunch
+          "
+        - time : "13:00 - 13:45"
+          image : "images/teams/adity-manglik.webp"
+          speaker_link: "/speaker/aditya-manglik"
+          speaker_name: "Aditya Manglik"
+          designation: "Graduate student"
+          company: "ETH Zürich"
+          talk_link: "/talk/carbon-measurement-and-attribution-linux-kernel"
+          content : "
+          ### Carbon measurement and attribution for processes and hardware devices in the Linux kernel
+          "
 #        - time : "14:00 - 15:00"
 #          image : "images/teams/chris.webp"
 #          speaker_link: "/speaker/chris-adams"
@@ -95,7 +100,7 @@ schedule:
 #          content : "
 #          ### Reducing front-end carbon consumption through grid carbon awareness
 #          "
-        - time : "14:00 - 14:45"
+        - time : "13:45 - 14:30"
           image : "images/teams/andreas-brunnert-small.webp"
           speaker_link: "/speaker/andreas-brunnert"
           speaker_name: "Andreas Brunnert"
@@ -110,7 +115,7 @@ schedule:
             - Software
             - Measuring
             - Reduction / Optimizations
-        - time : "14:45 - 15:30"
+        - time : "14:30 - 15:15"
           image : "images/teams/petteri-kivimaeki-small.webp"
           speaker_link: "/speaker/petteri-kivimaeki"
           speaker_name: "Petteri Kivimäki"
@@ -123,12 +128,12 @@ schedule:
             - 🇬🇧
             - Measuring
             - Sofware Life Cycle Assessment
-        - time : "15:30 - 16:00"
+        - time : "15:15 - 15:45"
           image : "images/logo-2.webp"
           content : "
           ### Coffee & Cakes - Networking
           "
-        - time : "16:00 - 16:30"
+        - time : "15:45 - 16:15"
           image : "images/teams/david-kopp-small.webp"
           speaker_link: "/speaker/david-kopp"
           speaker_name: "David Kopp"
@@ -142,7 +147,7 @@ schedule:
             - 🇩🇪
             - Software
             - Measuring
-        - time : "16:30 - 17:15"
+        - time : "16:15 - 17:00"
           image : "images/teams/yelle-lieder-small.webp"
           speaker_link: "/speaker/yelle-lieder"
           speaker_name: "Yelle Lieder"
@@ -156,7 +161,14 @@ schedule:
             - 🇬🇧
             - AI
             - Measuring
-        - time : "18:00"
+        - time : "17:00 - 18:00"
+          image : "images/logo-2.webp"
+          speaker_link: "#"
+          speaker_name: "Open Networking"
+          content : "
+          ### Open Networking
+          "
+        - time : "18:30"
           image : "images/logo-2.webp"
           content : "
           ### Conference Dinner & Networking
@@ -166,20 +178,23 @@ schedule:
           "
           bg_color: "coal"
         - time : "09:00 - 09:45"
-          image : "images/teams/max-koerbaecher-small.webp"
-          speaker_link: "/speaker/max-koerbaecher"
-          speaker_name: "Max Körbächer"
-          designation: "Founder / Cloud Native Advocate"
-          company: "Liquid Reply"
-          talk_link: "/talk/green-cloud-computing-from-top-to-bottom/"
+          image : "#"
+          speaker_link: "#"
+          speaker_name: "TBD Feb'24"
+          designation: "Hardware Talk"
+          company: "ARM"
           content : "
-          ### Green Cloud Computing - from top to bottom
+          ### Energy efficient Microprocessors - Talk details will be released Feb'24
           "
+          labels:
+            - 🇬🇧
+            - Hardware
+            - Measuring
           labels:
             - 🇬🇧
             - Cloud
         - time : "09:45 - 10:30"
-          image : "images/teams/verena.webp"
+          image : "images/teams/verena-majuntke-small.webp"
           speaker_link: "/speaker/verena-majuntke"
           speaker_name: "Verena Majuntke"
           designation: "Professor - Software Engineering"
@@ -201,58 +216,15 @@ schedule:
           "
         - time : "10:45 - 11:30"
           image : "images/teams/..webp"
-          speaker_link: "/speaker/marina-koehn"
-          speaker_name: "Hardware Talk"
-          designation: "Hardware Talk"
-          company: "ARM"
+          speaker_link: "#"
+          speaker_name: "TBD Feb'24"
+          designation: ""
+          company: "TBD Feb'24"
           content : "
-          ### Hardware Talk 1 - Siemens - Reserved
+          ### Talk details will be released Feb'24
           "
-          labels:
-            - 🇬🇧
-            - Hardware
-            - Measuring
+
         - time : "11:30 - 12:00"
-          image : "images/teams/..webp"
-          speaker_link: "/speaker/marina-koehn"
-          speaker_name: "Hardware Talk"
-          designation: "Hardware Talk"
-          company: "Siemens"
-          content : "
-          ### Hardware Talk 2 - ARM - Reserved
-          "
-          labels:
-            - 🇬🇧
-            - Hardware
-            - Measuring
-        - time : "11:00 - 12:00"
-          image : "images/logo-2.webp"
-          content : "
-          ### Lunch
-          "
-        - time : "13:00 - 13:45"
-          image : "images/teams/..webp"
-          speaker_link: "/speaker/marina-koehn"
-          speaker_name: "Hardware Talk"
-          designation: "Hardware Talk"
-          company: "Siemens"
-          content : "
-          ### Hardware Talk 3 - Intel - Reserved
-          "
-          labels:
-            - 🇬🇧
-            - Hardware
-            - Measuring
-        - time : "13:45 - 14:30"
-          image : "images/teams/marina.webp"
-          speaker_link: "/speaker/marina-koehn"
-          speaker_name: "Free Slot 45 Minutes"
-          designation: "Free Slot 45 Minutes"
-          company: "Free Slot 45 Minutes"
-          content : "
-          ### Free Slot 45 Minutes
-          "
-        - time : "14:30 - 15:00"
           image : "images/teams/max-schulze-small.webp"
           speaker_link: "/speaker/max-schulze"
           speaker_name: "Max Schulze"
@@ -265,39 +237,83 @@ schedule:
           labels:
             - 🇬🇧
             - Sustainability strategies
-        - time : "15:00 - 15:30"
-          image : "images/teams/..webp"
-          speaker_link: "/speaker/max-schulze"
-          speaker_name: "Free Slot 30 Mins"
-          designation: "Free Slot 30 Mins"
-          company: "Free Slot 30 Mins"
+        - time : "12:00 - 13:00"
+          image : "images/logo-2.webp"
           content : "
-          ### Free Slot 30 Mins
+          ### Lunch
           "
-        - time : "15:30 - 16:00"
+        - time : "13:00 - 13:45"
+          image : "images/teams/..webp"
+          speaker_link: "/speaker/marina-koehn"
+          speaker_name: "Hardware Talk"
+          designation: "TBD Feb'24"
+          company: "Intel"
+          content : "
+          ### Talk details will be released Feb'24
+          "
+          labels:
+            - 🇬🇧
+            - Hardware
+            - Measuring
+        - time : "13:45 - 14:30"
+          image : "images/teams/jochen-joswig-small.webp"
+          speaker_link: "/speaker/jochen-joswing"
+          speaker_name: "Jochen Joswig"
+          designation: "Senior Software Engineer"
+          company: "MaibornWolff GmbH"
+          talk_link: "/talk/devsusops-integrating-sustainability/"
+          content : "
+          ### DevSusOps - integrate sustainability into every step of the DevOps-Cycle
+          "
+        - time : "14:30 - 15:15"
+          image : "images/teams/..webp"
+          speaker_link: "#"
+          speaker_name: "TBD Feb'24"
+          designation: ""
+          company: "Siemens"
+          content : "
+          ### ECO:DIGIT - Talk details will be released Feb'24
+          "
+          labels:
+            - 🇬🇧
+            - Hardware
+            - Measuring
+        - time : "15:15 - 15:45"
           image : "images/logo-2.webp"
           content : "
           ### Coffee & Cakes - Networking
           "
-        - time : "16:00 - 16:45"
+        - time : "15:45 - 16:15"
           image : "images/teams/..webp"
+          speaker_link: "#"
+          speaker_name: "TBD Feb'24"
+          designation: ""
+          company: "TBD Feb'24"
+          content : "
+          ### Talk details will be released Feb'24
+          "
+        - time : "16:15 - 17:00"
+          image : "images/teams/anita-schuettler.webp"
           speaker_link: "/speaker/anita-schuettler"
           speaker_name: "Anita Schüttler"
-          designation: "Sustainability Lead"
+          designation: "Head of Sustainability"
           company: "neuland - Büro für Informatik GmbH"
+          talk_link: "/talk/real-projects-real-problems-to-solve/"
           content : "
-          ### Sustainability in Shop Systems
+          ### Real projects - real problems to solve
           "
-        - time : "16:45 - 17:15"
-          image : "images/teams/..webp"
-          speaker_link: "/speaker/max-schulze"
-          speaker_name: "Free Slot 30 Mins"
-          designation: "Free Slot 30 Mins"
-          company: "Free Slot 30 Mins"
+          labels:
+            - 🇬🇧
+            - Implementation
+            - Client Project
+        - time : "17:00 - 18:00"
+          image : "images/logo-2.webp"
+          speaker_link: "#"
+          speaker_name: "Open Networking"
           content : "
-          ### Free Slot 30 Mins
+          ### Open Networking
           "
-        - time : "18:00"
+        - time : "18:30"
           image : "images/logo-2.webp"
           content : "
           ### Conference Dinner & Networking
@@ -337,6 +353,19 @@ schedule:
             - AI
             - Optimizations
             - Measuring
+        - time : "10:30 - 11:00"
+          image : "#"
+          speaker_link: "#"
+          speaker_name: "TBC Feb'24"
+          designation: ""
+          company: "TBC Feb'24"
+          content : "
+          ### Sustainability planning for companies
+          "
+          labels:
+            - 🇬🇧
+            - Corporate Planning
+            - Carbon Accounting
         - time : "11:00 - 12:00"
           image : "images/logo-2.webp"
           content : "

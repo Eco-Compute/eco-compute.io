@@ -31,7 +31,7 @@ The grant selection process is designed with several key objectives:
   - Caregivers.
   - Individuals dealing with trauma or substance abuse recovery.
 
-The application deadline is Feb 15th 2024, 23:59 UTC. We aim to notify applicants shortly after the application period ends. Please note, to be considered for a grant, applications must be submitted by the deadline. Speakers are automatically entitled to a ticket.
+The application deadline is March 25th 2024, 23:59 UTC. We aim to notify applicants shortly after the application period ends. Please note, to be considered for a grant, applications must be submitted by the deadline. Speakers are automatically entitled to a ticket.
 
 ## Encouragement to Apply
 
@@ -45,4 +45,4 @@ We understand some might hesitate to apply, wondering if they should. Remember:
 
 For inquiries, please contact us at info@eco-compute.io.
 
-Remember, the application window closes on Feb 15th 2024, 23:59 UTC!
+Remember, the application window closes on March 25th 2024, 23:59 UTC!
