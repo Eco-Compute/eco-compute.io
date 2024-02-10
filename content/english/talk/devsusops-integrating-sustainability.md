@@ -4,7 +4,7 @@ date: 2024-01-25T00:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Jochen Joswig"
-speaker_company: "MaibornWolff Gmb"
+speaker_company: "MaibornWolff GmbH"
 speaker_image : "images/teams/jochen-joswig.webp"
 speaker_link: "speaker/jochen-joswig/"
 talk_room: "Track 2"

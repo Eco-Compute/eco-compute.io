@@ -125,6 +125,7 @@ schedule:
           speaker_name: "Petteri Kivimäki"
           designation: "CTO"
           company: "Nordic Institute for Interoperability Solutions (NIIS)"
+          talk_link: "/talk/evaluating-the-environmental-footprint-of-x-road/"
           content : "
           ### Evaluating the environmental footprint of X-Road
           "

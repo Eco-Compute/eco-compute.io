@@ -5,7 +5,7 @@ draft: false
 description: "Jochen Joswig"
 bg_image : "images/bg/cta-bg.webp"
 image: "images/teams/jochen-joswig.webp"
-company: "MaibornWolff Gmb"
+company: "MaibornWolff GmbH"
 designation : "Senior Software Engineer"
 type : "speaker"
 # social:

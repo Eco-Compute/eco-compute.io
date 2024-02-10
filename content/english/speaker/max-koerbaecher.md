@@ -1,5 +1,5 @@
 ---
-title: "Max Schulze"
+title: "Max Körbächer"
 date: 2023-12-05T13:51:25+06:00
 draft: false
 description: "Max Körbächer"
