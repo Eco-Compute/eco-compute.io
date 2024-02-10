@@ -1,7 +1,7 @@
 ---
 title: "Chris Adams"
 date: 2023-12-05T13:51:25+06:00
-draft: false
+draft: true
 description: "Chris Adams"
 bg_image : "images/bg/cta-bg.webp"
 image : "images/teams/chris-adams.webp"

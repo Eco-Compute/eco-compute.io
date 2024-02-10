@@ -8,7 +8,7 @@ speaker_company: "Adesso SE"
 speaker_image : "images/teams/yelle-lieder.webp"
 speaker_link: "speaker/yelle-lieder/"
 talk_room: "Track 1"
-talk_date: "25.04.2024 16:30"
+talk_date: "25.04.2024 16:15"
 type : "talk"
 ---
 

@@ -7,8 +7,8 @@ speaker_name: "Arne Tarara"
 speaker_company: "Green Coding Solutions GmbH"
 speaker_image : "images/teams/arne-tarara.webp"
 speaker_link: "speaker/arne-tarara/"
-talk_room: "TBA"
-talk_date: 25.04.2024 13:00
+talk_room: "Track 1"
+talk_date: "25.04.2024 09:00"
 
 type : "talk"
 ---

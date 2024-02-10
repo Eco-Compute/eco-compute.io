@@ -7,8 +7,8 @@ speaker_name: "Anita Schüttler"
 speaker_company: "neuland - Büro für Informatik GmbH"
 speaker_image : "images/teams/anita-schuettler.webp"
 speaker_link: "speaker/anita-schuettler/"
-talk_room: "Track 1"
-talk_date: "26.04.2024 09:00"
+talk_room: "Track 2"
+talk_date: "25.04.2024 16:15"
 type : "talk"
 ---
 

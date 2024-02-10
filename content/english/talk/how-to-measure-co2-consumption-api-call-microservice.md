@@ -8,7 +8,7 @@ speaker_company: "RETIT GmbH"
 speaker_image : "images/teams/andreas-brunnert.webp"
 speaker_link: "speaker/andreas-brunnert/"
 talk_room: "Track 1"
-talk_date: "25.04.2024 16:00"
+talk_date: "25.04.2024 13:45"
 type : "talk"
 ---
 

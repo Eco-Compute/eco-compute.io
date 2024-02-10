@@ -8,7 +8,7 @@ speaker_company: "Nordic Institute for Interoperability Solutions (NIIS)"
 speaker_image : "images/teams/petteri-kivimaeki.webp"
 speaker_link: "speaker/petteri-kivimaeki/"
 talk_room: "Track 1"
-talk_date: 25.04.2024 13:00
+talk_date: "25.04.2024 14:30"
 
 type : "talk"
 ---

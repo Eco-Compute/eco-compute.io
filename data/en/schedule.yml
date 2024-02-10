@@ -62,7 +62,6 @@ schedule:
           labels:
             - 🇬🇧
             - Cloud
-
         - time : "11:30 - 12:00"
           image : "images/teams/anna-zagorski-small.webp"
           speaker_link: "/speaker/anna-zagorski"
@@ -91,6 +90,11 @@ schedule:
           content : "
           ### Carbon measurement and attribution for processes and hardware devices in the Linux kernel
           "
+          labels:
+            - 🇬🇧
+            - Software
+            - OS / Kernel
+            - Measurement
 #        - time : "14:00 - 15:00"
 #          image : "images/teams/chris.webp"
 #          speaker_link: "/speaker/chris-adams"
@@ -189,7 +193,7 @@ schedule:
           labels:
             - 🇬🇧
             - Hardware
-            - Measuring
+            - Energy
           labels:
             - 🇬🇧
             - Cloud
@@ -223,7 +227,6 @@ schedule:
           content : "
           ### Talk details will be released Feb'24
           "
-
         - time : "11:30 - 12:00"
           image : "images/teams/max-schulze-small.webp"
           speaker_link: "/speaker/max-schulze"
@@ -336,7 +339,8 @@ schedule:
           "
           labels:
             - 🇬🇧
-            - AI
+            - Software
+            - Cloud
             - Measuring
         - time : "09:45 - 10:30"
           image : "images/teams/ghazal-aakel-and-eric-jochum-small.webp"

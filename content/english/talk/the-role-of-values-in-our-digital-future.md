@@ -8,7 +8,7 @@ speaker_company: "SDIA"
 speaker_image : "images/teams/max-schulze.webp"
 speaker_link: "speaker/max-schulze/"
 talk_room: "Track 2"
-talk_date: "25.04.2024 14:30"
+talk_date: "25.04.2024 11:30"
 type : "talk"
 ---
 

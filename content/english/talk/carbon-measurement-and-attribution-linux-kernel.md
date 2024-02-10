@@ -7,7 +7,7 @@ speaker_name: "Aditya Manglik"
 speaker_company: "ETH Zürich"
 speaker_image : "images/teams/aditya-manglik.webp"
 speaker_link: "speaker/aditya-manglik/"
-talk_room: "Track 2"
+talk_room: "Track 1"
 talk_date: "25.04.2024 13:00"
 
 type : "talk"
