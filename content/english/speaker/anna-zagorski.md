@@ -4,7 +4,7 @@ date: 2023-12-05T13:51:25+06:00
 draft: false
 description: "Anna Zagorski"
 bg_image : "images/bg/cta-bg.webp"
-image : "images/teams/anna.webp"
+image: "images/teams/anna-zagorski.webp"
 company: "Umweltbundesamt"
 designation : "Research Associate for Green IT"
 type : "speaker"

@@ -4,7 +4,7 @@ date: 2023-12-05T13:51:25+06:00
 draft: false
 description: "Verena Majuntke"
 bg_image : "images/bg/cta-bg.webp"
-image : "images/teams/verena.webp"
+image : "images/teams/verena-majuntke.webp"
 company: "HTW Berlin"
 designation : "Professor - Software Engineering"
 type : "speaker"

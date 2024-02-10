@@ -71,6 +71,11 @@ link = "plugins/syotimer/syotimer.min.js"
 
     [[menu.main]]
     parent = "More"
+    name = "Grants / Reduced Tickets"
+    URL = "grants"
+
+    [[menu.main]]
+    parent = "More"
     name = "Code of Conduct"
     URL = "codeofconduct"
 

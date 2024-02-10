@@ -152,18 +152,44 @@ sponsor:
           link : "https://www.thegreenwebfoundation.org/"
           background: "#fff"
 
+        - logo : "images/clients/gi.webp"
+          link : "https://gi.de/"
+          background: "#fff"
+
 
         - logo : "images/clients/gcb.webp"
           link : "https://www.green-coding.io"
           background: "#2b3e50"
 
     ############################ sponsor group loop
-   # - title : "Platinum Sponsors"
-   #   sponsor:
-   #     # sponcor loop
-   #     - logo : "images/clients/client-img-6.png"
-   #       link : "https://examplesite.org"
+    - title : "Diamond Sponsors 💎"
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/RS.webp"
+          link : "https://www.rohde-schwarz.com"
 
+        - logo : "images/clients/gcb.webp"
+          link : "https://www.green-coding.io"
+          background: "#2b3e50"
+
+    - title : "Gold Sponsors 🏅"
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/RS.webp"
+          link : "https://www.rohde-schwarz.com"
+
+    - title : "Silver Sponsors 🥈"
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/RS.webp"
+          link : "https://www.rohde-schwarz.com"
+
+
+    - title : "Bronze Sponsors 🥉"
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/RS.webp"
+          link : "https://www.rohde-schwarz.com"
 
   # call to action in sponsor
   sponsorship:

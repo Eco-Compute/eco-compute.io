@@ -2,7 +2,7 @@ schedule:
   enable : true
   title_outline : "schedule"
   title : "Talks & Workshops"
-  content : "The conference will feature 2 tracks with talks and a workshop track on day two. The schedule is TBA in Q1 2024"
+  content : "The conference will feature 2 tracks with talks and a workshop track on day two"
   schedule_tab:
     ################# tab itam loop ################
     - title : "Day 1 - Talks"
@@ -12,39 +12,8 @@ schedule:
           ### Track 1
           "
           bg_color: "coal"
-        - time : "09:00 - 10:00"
-          image : "images/teams/hagen.webp"
-          speaker_link: "/speaker/hagen-pfeifer"
-          speaker_name: "Hagen Pfeifer"
-          designation: "Chief Software Architect"
-          company: "Rohde & Schwarz"
-          talk_link: "/talk/linux-power-management-analysis-for-embedded-systems/"
-          content : "
-          ### Linux Power Management Analysis for Embedded Systems
-          "
-        - time : "10:00 - 11:00"
-          image : "images/logo-2.webp"
-          speaker_link: "#"
-          speaker_name: "TBA"
-          content : "
-          ### Keynote Panel: Current challenges in bringing energy saving techniques into application
-          "
-        - time : "11:00 - 12:00"
-          image : "images/teams/anna.webp"
-          speaker_link: "/speaker/anna-zagorski"
-          speaker_name: "Anna Zagorski"
-          designation: "Research Associate for Green IT"
-          company: "Umweltbundesamt"
-          content : "
-          ### The Blue Angel for Software as a sustainability label for software
-          "
-        - time : "12:00 - 13:00"
-          image : "images/logo-2.webp"
-          content : "
-          ### Lunch
-          "
-        - time : "13:00 - 14:00"
-          image : "images/teams/ArneTR.webp"
+        - time : "09:00 - 09:45"
+          image : "images/teams/arne-tarara-small.webp"
           speaker_link: "/speaker/arne-tarara"
           speaker_name: "Arne Tarara"
           designation: "CEO & Software Developer"
@@ -53,70 +22,301 @@ schedule:
           content : "
           ### Energy saving techniques for modern cloud and on-prem software
           "
-        - time : "14:00 - 15:00"
-          image : "images/teams/chris.webp"
-          speaker_link: "/speaker/chris-adams"
-          speaker_name: "Chris Adams"
-          designation: "Executive Director"
-          company: "The Green Web Foundation"
+          labels:
+            - 🇬🇧
+            - Software
+            - Measuring
+            - Reduction / Optimizations
+        - time : "09:45 - 10:30"
+          image : "images/teams/hagen-pfeifer-small.webp"
+          speaker_link: "/speaker/hagen-pfeifer"
+          speaker_name: "Hagen Pfeifer"
+          designation: "Chief Software Architect"
+          company: "Rohde & Schwarz"
+          talk_link: "/talk/linux-power-management-analysis-for-embedded-systems/"
           content : "
-          ### Reducing front-end carbon consumption through grid carbon awareness
+          ### Linux Power Management Analysis for Embedded Systems
           "
-        - time : ""
-          image : "images/about/big-data.webp"
+          labels:
+            - 🇬🇧
+            - Hardware
+            - OS
+            - Reduction / Optimizations
+        - time : "10:30 - 10:45"
+          image : "images/logo-2.webp"
+          speaker_link: "#"
+          speaker_name: ""
           content : "
-          ### More speakers in Track 1 - TBA in Q1 2024
+          ### Coffee Break
+          "
+        - time : "10:45 - 11:30"
+          image : "images/teams/max-koerbaecher-small.webp"
+          speaker_link: "/speaker/max-koerbaecher"
+          speaker_name: "Max Körbächer"
+          designation: "Founder / Cloud Native Advocate"
+          company: "Liquid Reply"
+          talk_link: "/talk/green-cloud-computing-from-top-to-bottom/"
+          content : "
+          ### Green Cloud Computing - from top to bottom
+          "
+          labels:
+            - 🇬🇧
+            - Cloud
+
+        - time : "11:30 - 12:00"
+          image : "images/teams/anna-zagorski-small.webp"
+          speaker_link: "/speaker/anna-zagorski"
+          speaker_name: "Anna Zagorski"
+          designation: "Research Associate for Green IT"
+          company: "Umweltbundesamt"
+          content : "
+          ### Reducing hardware obsolescence through target Green IT strategies
+          "
+          labels:
+            - 🇬🇧
+            - Hardware
+            - Sustainability strategies
+        - time : "12:00 - 13:00"
+          image : "images/logo-2.webp"
+          content : "
+          ### Lunch
+          "
+        - time : "13:00 - 13:45"
+          image : "images/teams/adity-manglik.webp"
+          speaker_link: "/speaker/aditya-manglik"
+          speaker_name: "Aditya Manglik"
+          designation: "Graduate student"
+          company: "ETH Zürich"
+          talk_link: "/talk/carbon-measurement-and-attribution-linux-kernel"
+          content : "
+          ### Carbon measurement and attribution for processes and hardware devices in the Linux kernel
+          "
+#        - time : "14:00 - 15:00"
+#          image : "images/teams/chris.webp"
+#          speaker_link: "/speaker/chris-adams"
+#          speaker_name: "Chris Adams"
+#          designation: "Executive Director"
+#          company: "The Green Web Foundation"
+#          content : "
+#          ### Reducing front-end carbon consumption through grid carbon awareness
+#          "
+        - time : "13:45 - 14:30"
+          image : "images/teams/andreas-brunnert-small.webp"
+          speaker_link: "/speaker/andreas-brunnert"
+          speaker_name: "Andreas Brunnert"
+          designation: "Prof. Computer Science / Mathematics"
+          company: "RETIT GmbH"
+          talk_link: "/talk/how-to-measure-co2-consumption-api-call-microservice/"
+          content : "
+          ### How to measure CO2 consumption for every API call of your microservices
+          "
+          labels:
+            - 🇬🇧
+            - Software
+            - Measuring
+            - Reduction / Optimizations
+        - time : "14:30 - 15:15"
+          image : "images/teams/petteri-kivimaeki-small.webp"
+          speaker_link: "/speaker/petteri-kivimaeki"
+          speaker_name: "Petteri Kivimäki"
+          designation: "CTO"
+          company: "Nordic Institute for Interoperability Solutions (NIIS)"
+          content : "
+          ### Evaluating the environmental footprint of X-Road
+          "
+          labels:
+            - 🇬🇧
+            - Measuring
+            - Sofware Life Cycle Assessment
+        - time : "15:15 - 15:45"
+          image : "images/logo-2.webp"
+          content : "
+          ### Coffee & Cakes - Networking
+          "
+        - time : "15:45 - 16:15"
+          image : "images/teams/david-kopp-small.webp"
+          speaker_link: "/speaker/david-kopp"
+          speaker_name: "David Kopp"
+          designation: "Msc. student"
+          company: "University of Stuttgart"
+          talk_link: "/talk/energieeffizienz-backend-architektur-monolith-vs-microservices/"
+          content : "
+          ### Energieeffizienz verschiedener Backend-Architekturstile: Monolith vs. Microservices
+          "
+          labels:
+            - 🇩🇪
+            - Software
+            - Measuring
+        - time : "16:15 - 17:00"
+          image : "images/teams/yelle-lieder-small.webp"
+          speaker_link: "/speaker/yelle-lieder"
+          speaker_name: "Yelle Lieder"
+          designation: "Technology & Sustainablity Consultant"
+          company: "Adesso SE"
+          talk_link: "/talk/green-ai-case-study-decarbonizing-ai-system/"
+          content : "
+          ### Green AI - Case-Study: Decarbonising an AI system
+          "
+          labels:
+            - 🇬🇧
+            - AI
+            - Measuring
+        - time : "17:00 - 18:00"
+          image : "images/logo-2.webp"
+          speaker_link: "#"
+          speaker_name: "Open Networking"
+          content : "
+          ### Open Networking
+          "
+        - time : "18:30"
+          image : "images/logo-2.webp"
+          content : "
+          ### Conference Dinner & Networking
           "
         - content : "
           ### Track 2
           "
           bg_color: "coal"
-        - time : "09:00 - 10:00"
-          image : "images/teams/didi.webp"
-          speaker_link: "/speaker/didi-hoffmann"
-          speaker_name: "Didi Hoffmann"
-          designation: "Head of Engineering"
-          company: "Green Coding Solutions"
+        - time : "09:00 - 09:45"
+          image : "#"
+          speaker_link: "#"
+          speaker_name: "TBD Feb'24"
+          designation: "Hardware Talk"
+          company: "ARM"
           content : "
-          ### Make your code greener using AI
+          ### Energy efficient Microprocessors - Talk details will be released Feb'24
           "
-        - time : "10:00 - 11:00"
-          image : "images/teams/verena.webp"
+          labels:
+            - 🇬🇧
+            - Hardware
+            - Measuring
+          labels:
+            - 🇬🇧
+            - Cloud
+        - time : "09:45 - 10:30"
+          image : "images/teams/verena-majuntke-small.webp"
           speaker_link: "/speaker/verena-majuntke"
           speaker_name: "Verena Majuntke"
-          talk_link: "/talk/where-is-the-green-mindset/"
           designation: "Professor - Software Engineering"
           company: "HTW Berlin"
+          talk_link: "/talk/where-is-the-green-mindset/"
           content : "
           ### Where is the green in the mindset? Improving awareness for green coding  in the software development process
           "
-        - time : "TBA"
-          image : "images/teams/marina.webp"
-          speaker_link: "/speaker/marina-koehn"
-          speaker_name: "Marina Köhn"
-          designation: "Researcher"
-          company: "Umweltbundesamt"
+          labels:
+            - 🇬🇧
+            - Software
+            - Measuring
+        - time : "10:30 - 10:45"
+          image : "images/logo-2.webp"
+          speaker_link: "#"
+          speaker_name: ""
           content : "
-          ### TBA
+          ### Coffee Break
           "
-        - time : "TBA"
-          image : "images/teams/max.webp"
+        - time : "10:45 - 11:30"
+          image : "images/teams/..webp"
+          speaker_link: "#"
+          speaker_name: "TBD Feb'24"
+          designation: ""
+          company: "TBD Feb'24"
+          content : "
+          ### Talk details will be released Feb'24
+          "
+
+        - time : "11:30 - 12:00"
+          image : "images/teams/max-schulze-small.webp"
           speaker_link: "/speaker/max-schulze"
           speaker_name: "Max Schulze"
           designation: "Director"
           company: "SDIA"
+          talk_link: "/talk/the-role-of-values-in-our-digital-future/"
           content : "
-          ### TBA
+          ### The Role of Values in Our Digital Future - What's important to us and how do we embed values in our digital products?
           "
-        - time : "18:00"
+          labels:
+            - 🇬🇧
+            - Sustainability strategies
+        - time : "12:00 - 13:00"
+          image : "images/logo-2.webp"
+          content : "
+          ### Lunch
+          "
+        - time : "13:00 - 13:45"
+          image : "images/teams/..webp"
+          speaker_link: "/speaker/marina-koehn"
+          speaker_name: "Hardware Talk"
+          designation: "TBD Feb'24"
+          company: "Intel"
+          content : "
+          ### Talk details will be released Feb'24
+          "
+          labels:
+            - 🇬🇧
+            - Hardware
+            - Measuring
+        - time : "13:45 - 14:30"
+          image : "images/teams/jochen-joswig-small.webp"
+          speaker_link: "/speaker/jochen-joswing"
+          speaker_name: "Jochen Joswig"
+          designation: "Senior Software Engineer"
+          company: "MaibornWolff GmbH"
+          talk_link: "/talk/devsusops-integrating-sustainability/"
+          content : "
+          ### DevSusOps - integrate sustainability into every step of the DevOps-Cycle
+          "
+        - time : "14:30 - 15:15"
+          image : "images/teams/..webp"
+          speaker_link: "#"
+          speaker_name: "TBD Feb'24"
+          designation: ""
+          company: "Siemens"
+          content : "
+          ### ECO:DIGIT - Talk details will be released Feb'24
+          "
+          labels:
+            - 🇬🇧
+            - Hardware
+            - Measuring
+        - time : "15:15 - 15:45"
+          image : "images/logo-2.webp"
+          content : "
+          ### Coffee & Cakes - Networking
+          "
+        - time : "15:45 - 16:15"
+          image : "images/teams/..webp"
+          speaker_link: "#"
+          speaker_name: "TBD Feb'24"
+          designation: ""
+          company: "TBD Feb'24"
+          content : "
+          ### Talk details will be released Feb'24
+          "
+        - time : "16:15 - 17:00"
+          image : "images/teams/anita-schuettler.webp"
+          speaker_link: "/speaker/anita-schuettler"
+          speaker_name: "Anita Schüttler"
+          designation: "Head of Sustainability"
+          company: "neuland - Büro für Informatik GmbH"
+          talk_link: "/talk/real-projects-real-problems-to-solve/"
+          content : "
+          ### Real projects - real problems to solve
+          "
+          labels:
+            - 🇬🇧
+            - Implementation
+            - Client Project
+        - time : "17:00 - 18:00"
+          image : "images/logo-2.webp"
+          speaker_link: "#"
+          speaker_name: "Open Networking"
+          content : "
+          ### Open Networking
+          "
+        - time : "18:30"
           image : "images/logo-2.webp"
           content : "
           ### Conference Dinner & Networking
-          "
-        - time : ""
-          image : "images/about/big-data.webp"
-          content : "
-          ### More speakers in Track 2 TBA in Q1 2024
           "
 
 
@@ -124,47 +324,77 @@ schedule:
     - title : "Day 2 - Talks & Workshops"
       date_time : "26 April, 2024 [09:00 - 13:00]"
       schedule_items:
-        # schedule loop item
-        - time : "09:00 - 11:00"
-          image : "images/about/big-data.webp"
+        - time : "09:00 - 09:45"
+          image : "images/teams/sascha-boehme-small.webp"
+          speaker_link: "/speaker/sascha-boehme"
+          speaker_name: "Sasche Böhme"
+          designation: "Software Architect"
+          company: "QAware GmbH"
+          talk_link: "/talk/fast-and-frugal-microservices-at-race/"
           content : "
-          ### Talks - TBA
+          ### The Fast and the Frugal: Microservices at Race
           "
-        # schedule loop item
+          labels:
+            - 🇬🇧
+            - AI
+            - Measuring
+        - time : "09:45 - 10:30"
+          image : "images/teams/ghazal-aakel-and-eric-jochum-small.webp"
+          speaker_link: "/speaker/ghazal-aakel-and-eric-jochum"
+          speaker_name: "Ghazal Aakel & Eric Jochum"
+          designation: "Software Architect"
+          company: "metafinanz Informationssysteme GmbH"
+          talk_link: "/talk/optimizing-for-sustainability/"
+          content : "
+          ### Optimizing for Sustainability: Demonstrating Advanced Scanning, Energy Consumption Analysis, and AI-Driven Enhancement of IT Applications
+          "
+          labels:
+            - 🇬🇧
+            - AI
+            - Optimizations
+            - Measuring
+        - time : "10:30 - 11:00"
+          image : "#"
+          speaker_link: "#"
+          speaker_name: "TBC Feb'24"
+          designation: ""
+          company: "TBC Feb'24"
+          content : "
+          ### Sustainability planning for companies
+          "
+          labels:
+            - 🇬🇧
+            - Corporate Planning
+            - Carbon Accounting
         - time : "11:00 - 12:00"
           image : "images/logo-2.webp"
           content : "
           ### Lunch
           "
         - time : "12:00 - 15:00"
-          image : "images/teams/ArneTR.webp"
+          image : "images/teams/arne-tarara-small.webp"
           speaker_link: "/speaker/arne-tarara"
           speaker_name: "Arne Tarara"
           designation: "CEO & Software Developer"
           company: "Green Coding Solutions"
           content : "
-          ### Automated certifications for Green Software with the Blue Angel for Software
+          ### Automated measurement and green optimizations for software (SCI / Blue Angel for Software / CI/CD )
           "
         - time : "12:00 - 15:00"
-          image : "images/teams/didi.webp"
-          speaker_link: "/speaker/didi-hoffmann"
-          speaker_name: "Didi Hoffmann"
-          designation: "Head of Engineering"
-          company: "Green Coding Solutions"
-          content : "
-          ### Performance Engineering and Green Coding techniques for modern containerized applications
-          "
-        - time : "12:00 - 15:00"
-          image : "images/teams/hagen.webp"
+          image : "images/teams/hagen-pfeifer-small.webp"
           speaker_link: "/speaker/hagen-pfeifer"
           speaker_name: "Hagen Pfeifer"
           designation: "Chief Software Architect"
           company: "Rohde & Schwarz"
           content : "
-          ### Reducing power consumption through OS level settings in embedded systems
+          ### Reducing power consumption through OS level settings in Linux systems
           "
         - time : "12:00 - 15:00"
-          image : "images/about/big-data.webp"
+          image : "images/teams/verena-majuntke-small.webp"
+          speaker_link: "/speaker/hagen-pfeifer"
+          speaker_name: "Verena Majuntke / Anita Schüttler"
+          designation: "Prof. Software Engineering / Sustainability Lead "
+          company: "HTW Berlin / neuland – Büro für Informatik GmbH"
           content : "
-          ### More Workshops TBA
+          ### Bringing Green Coding to Education - How can we educate developers?
           "

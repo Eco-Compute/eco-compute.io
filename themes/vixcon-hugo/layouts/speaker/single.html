@@ -6,7 +6,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-5 mb-5 mb-md-0">
-        <img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="img-fluid w-100" loading="lazy">
+        <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100" loading="lazy">
       </div>
       <div class="col-lg-6 col-md-7">
         <div class="speaker-single-wrap">
