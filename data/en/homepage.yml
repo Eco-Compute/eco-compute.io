@@ -172,24 +172,24 @@ sponsor:
           link : "https://www.green-coding.io"
           background: "#2b3e50"
 
-    - title : "Gold Sponsors 🏅"
-      sponsor:
-        # sponcor loop
-        - logo : "images/clients/RS.webp"
-          link : "https://www.rohde-schwarz.com"
+    # - title : "Gold Sponsors 🏅"
+    #   sponsor:
+    #     # sponcor loop
+    #     - logo : "images/clients/RS.webp"
+    #       link : "https://www.rohde-schwarz.com"
 
-    - title : "Silver Sponsors 🥈"
-      sponsor:
-        # sponcor loop
-        - logo : "images/clients/RS.webp"
-          link : "https://www.rohde-schwarz.com"
+    # - title : "Silver Sponsors 🥈"
+    #   sponsor:
+    #     # sponcor loop
+    #     - logo : "images/clients/RS.webp"
+    #       link : "https://www.rohde-schwarz.com"
 
 
-    - title : "Bronze Sponsors 🥉"
-      sponsor:
-        # sponcor loop
-        - logo : "images/clients/RS.webp"
-          link : "https://www.rohde-schwarz.com"
+    # - title : "Bronze Sponsors 🥉"
+    #   sponsor:
+    #     # sponcor loop
+    #     - logo : "images/clients/RS.webp"
+    #       link : "https://www.rohde-schwarz.com"
 
   # call to action in sponsor
   sponsorship:
