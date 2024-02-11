@@ -6,7 +6,7 @@ description: "Yelle Lieder"
 bg_image : "images/bg/cta-bg.webp"
 image : "images/teams/yelle-lieder.webp"
 company: "Adesso SE"
-designation : "Technology & Sustainablity Consultant"
+designation : "Green IT Lead"
 type : "speaker"
 # social:
 #   # social site loop
@@ -31,4 +31,4 @@ type : "speaker"
 #    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit #turpis, a porttitor tellus sollicitudin at."
 ---
 
-Yelle Lieder is a computer scientist and works as a consultant for technology and sustainability at adesso SE. He supports customers in achieving their sustainability goals in the areas of sustainability data, sustainable processes and systems as well as sustainability innovations.
+Yelle Lieder is Green IT Lead at adesso. As part of the CIO Advisory Competence Centre, he focuses on strategies for measuring and reducing the environmental impact of IT systems and on the use of technology to achieve sustainability goals.

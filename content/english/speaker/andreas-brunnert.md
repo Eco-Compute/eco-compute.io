@@ -6,7 +6,7 @@ description: "Andreas Brunnert"
 bg_image : "images/bg/cta-bg.webp"
 image : "images/teams/andreas-brunnert.webp"
 company: "RETIT GmbH"
-designation : "Professor - Computer Science / Mathematics"
+designation : "Prof. Computer Science / Founder | HM / RETIT GmbH"
 type : "speaker"
 # social:
 #   # social site loop

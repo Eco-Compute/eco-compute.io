@@ -8,7 +8,7 @@ speaker_company: "Msc. student University of Stuttgart"
 speaker_image : "images/teams/david-kopp.webp"
 speaker_link: "speaker/david-kopp/"
 talk_room: "Track 1"
-talk_date: "25.04.2024 09:45"
+talk_date: "25.04.2024 15:45"
 type : "talk"
 ---
 
