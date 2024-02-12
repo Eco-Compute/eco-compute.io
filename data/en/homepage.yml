@@ -4,7 +4,7 @@ banner:
   title : "EcoCompute Conference 2024"
   bg_image: "images/banner/banner-2.webp"
   date_time : "April 25 - 26"
-  location : "Munich, Germany"
+  location : "House of Communication, Munich, Germany"
 
 ############################# tagline ################################
 tagline:
@@ -203,13 +203,13 @@ sponsor:
 venue:
   enable : true
   title : "Venue location"
-  image : "images/bg/cta-bg.webp"
+  image : "images/bg/house-of-communication.webp"
   date : "April 25 - 26"
-  location : "Munich, Germany - Exact location TBA in Q1 2024"
+  location : "[House of Communication, Munich, Germany](https://maps.app.goo.gl/zaYBdx5Gst9Pt5VG8)"
   button:
-    enable : false
+    enable : true
     label : "View Map location"
-    link : "contact"
+    link : "https://maps.app.goo.gl/zaYBdx5Gst9Pt5VG8"
 
 ############################### Blog ######################################
 blog:
