@@ -31,4 +31,6 @@ type : "speaker"
 #    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit #turpis, a porttitor tellus sollicitudin at."
 ---
 
-To come
+Anna Zagorski is a research associate for Green IT at the Federal Environment Agency. 
+
+Her research topics are sustainable software, green coding, networked devices and sustainable digital infrastructures.

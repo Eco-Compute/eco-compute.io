@@ -68,6 +68,7 @@ schedule:
           speaker_name: "Anna Zagorski"
           designation: "Research Associate for Green IT"
           company: "Umweltbundesamt"
+          talk_link: "/talk/reducing-hardware-obsolescence-through-green-it/"
           content : "
           ### Reducing hardware obsolescence through target Green IT strategies
           "
