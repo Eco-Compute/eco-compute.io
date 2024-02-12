@@ -326,7 +326,7 @@ schedule:
 
     ################# tab itam loop ################
     - title : "Day 2 - Talks & Workshops"
-      date_time : "26 April, 2024 [09:00 - 13:00]"
+      date_time : "26 April, 2024 [09:00 - 15:00]"
       schedule_items:
         - time : "09:00 - 09:45"
           image : "images/teams/sascha-boehme-small.webp"
