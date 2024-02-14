@@ -53,7 +53,7 @@ cta:
   button:
     enable : true
     label : "get your ticket"
-    link : "#pricing"
+    link : "/#pricing"
 
 ############################# Feature ###########################
 feature:
