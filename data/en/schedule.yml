@@ -82,7 +82,7 @@ schedule:
           ### Lunch
           "
         - time : "13:00 - 13:45"
-          image : "images/teams/adity-manglik.webp"
+          image : "images/teams/aditya-manglik-small.webp"
           speaker_link: "/speaker/aditya-manglik"
           speaker_name: "Aditya Manglik"
           designation: "Graduate student"
