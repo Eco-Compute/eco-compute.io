@@ -25,7 +25,7 @@ feature:
   button:
     enable : true
     label : "get ticket"
-    link : "tickets"
+    link : "/#pricing"
 
   feature_item:
     # feature item loop
