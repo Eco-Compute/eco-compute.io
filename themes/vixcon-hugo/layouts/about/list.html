@@ -44,7 +44,7 @@
           <h2 class="mt-3 mb-4 text-md title">{{ .title | markdownify }}</h2>
           {{ if .button.enable }}
           {{ with .button }}
-          <a href="{{ .link | absURL }}" class="btn btn-secondary btn-rounded my-4">{{ .label }}</a>
+          <a href="{{ .link }}" class="btn btn-secondary btn-rounded my-4">{{ .label }}</a>
           {{ end }}
           {{ end }}
         </div>
