@@ -7,13 +7,14 @@ bg_image : "images/bg/cta-bg.webp"
 ---
 
 
-## Presse Akkreditierung
+## Presseakkreditierung
 
-Sie möchten über die erste Tech-Konferenz zur digitalen Nachhaltigkeit in Hardware und Software berichten?
+Für eine Presseakkreditierung sind BerichterstatterInnen aus allen Medienbereichen (Print, Online, TV, Radio, Web-TV, Foto) willkommen.
 
-Bitte nutzen Sie das untenstehende Formular oder kontaktieren Sie uns via E-Mail an [info@eco-compute.io](mailto:info@eco-compute.io). 
+Sie möchten die erste Tech-Konferenz zur digitalen Nachhaltigkeit in Hardware und Software besuchen und eventuell darüber berichten?
 
-Für Journalisten bieten wir eine begrenzte Menge an kostenlosen Tickets an.
+Bitte nutzen Sie das untenstehende Formular oder kontaktieren Sie uns via E-Mail an info@eco-compute.io. 
+Für weitere Informationen und Anfragen steht Ihnen auch Petra Rulsch als Ansprechpartnerin zur Verfügung.
 
 Wir melden uns schnellstmöglich zurück.
 
