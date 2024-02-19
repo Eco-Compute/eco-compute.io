@@ -57,11 +57,16 @@ link = "plugins/syotimer/syotimer.min.js"
   URL = "speakers"
   weight = 4
 
-
   [[menu.main]]
   weight = 5
+  name = "Press"
+  URL = "press"
+
+  [[menu.main]]
+  weight = 6
   name = "More"
   hasChildren = true
+
 
 
     [[menu.main]]
@@ -84,10 +89,12 @@ link = "plugins/syotimer/syotimer.min.js"
     name = "FAQ"
     URL = "faq"
 
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 6
+    [[menu.main]]
+    parent = "More"
+    name = "Contact"
+    URL = "contact"
+
+
 
 #################### default parameters ################################
 [params]

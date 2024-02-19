@@ -13,7 +13,7 @@ invoices in Q1 2024
 
 We have a limited amount of [Grant Tickets](/grants/) available.
 
-<div class="alert alert-info d-none" role="alert" id="form-status">asd
+<div class="alert alert-info d-none" role="alert" id="form-status">
 </div>
 
 <form id="ticket-form" action="https://formspree.io/f/xyyqrdoa" method="POST">
