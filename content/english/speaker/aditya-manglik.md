@@ -1,12 +1,12 @@
 ---
-title: "Anna Zagorski"
+title: "Aditya Manglik"
 date: 2023-12-05T13:51:25+06:00
 draft: false
-description: "Anna Zagorski"
+description: "Aditya Manglik"
 bg_image : "images/bg/cta-bg.webp"
-image: "images/teams/anna-zagorski.webp"
-company: "Umweltbundesamt"
-designation : "Research Associate for Green IT"
+image: "images/teams/aditya-manglik.webp"
+company: "ETH Zurüch"
+designation : "Student"
 type : "speaker"
 
 ---
