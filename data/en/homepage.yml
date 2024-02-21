@@ -129,6 +129,10 @@ partners:
 
     - title : "Organizers"
       partner:
+        - logo : "images/clients/gcb.webp"
+          link : "https://www.green-coding.io"
+          background: "#2b3e50"
+
         - logo : "images/clients/RS.webp"
           link : "https://www.rohde-schwarz.com"
 
@@ -144,9 +148,6 @@ partners:
           link : "https://gi.de/"
           background: "#fff"
 
-        - logo : "images/clients/gcb.webp"
-          link : "https://www.green-coding.io"
-          background: "#2b3e50"
 
     - title : "Content & Network Partners"
       partner:
