@@ -163,6 +163,10 @@ partners:
           link : "https://www.thegreenwebfoundation.org/"
           background: "#fff"
 
+        - logo : "images/clients/lfca.webp"
+          link : "https://www.lfca.earth/"
+          background: "#fff"
+
 
 
 ######################### sponsor ############################
