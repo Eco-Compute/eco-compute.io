@@ -247,18 +247,18 @@ schedule:
           ### Lunch
           "
         - time : "13:00 - 13:45"
-          image : "images/teams/..webp"
-          speaker_link: "/speaker/marina-koehn"
-          speaker_name: "Hardware Talk"
-          designation: "TBD Feb'24"
-          company: "Intel"
+          image : "images/teams/didi-hoffmann.webp"
+          speaker_link: "/speaker/didi-hoffmann"
+          speaker_name: "Didi Hoffmann"
+          designation: "CTO"
+          company: "Green Coding Solutions GmbH"
           content : "
-          ### Talk details will be released Feb'24
+          ### Aggregating detailed carbon data across services - Carbon DB
           "
           labels:
             - 🇬🇧
-            - Hardware
             - Measuring
+            - Software Life Cycle
         - time : "13:45 - 14:30"
           image : "images/teams/jochen-joswig-small.webp"
           speaker_link: "/speaker/jochen-joswing"
