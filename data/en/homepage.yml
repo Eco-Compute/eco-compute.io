@@ -206,11 +206,13 @@ sponsor:
     #       link : "https://www.rohde-schwarz.com"
 
 
-    # - title : "Bronze Sponsors 🥉"
-    #   sponsor:
-    #     # sponcor loop
-    #     - logo : "images/clients/RS.webp"
-    #       link : "https://www.rohde-schwarz.com"
+    - title : "Bronze Sponsors 🥉"
+      css_class: "bronze"
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/peerigon.webp"
+          link : "https://www.peerigon.com/"
+          background: "#fff"
 
   # call to action in sponsor
   sponsorship:
