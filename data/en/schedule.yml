@@ -288,13 +288,13 @@ schedule:
           ### Coffee & Cakes - Networking
           "
         - time : "15:45 - 16:15"
-          image : "images/teams/..webp"
-          speaker_link: "#"
-          speaker_name: "TBD Feb'24"
-          designation: ""
-          company: "TBD Feb'24"
+          image : "images/teams/arne-tarara.webp"
+          speaker_link: "/speaker/arne-tarara"
+          speaker_name: "Arne Tarara"
+          designation: "CEO"
+          company: "Green Coding Solutions GmbH"
           content : "
-          ### Talk details will be released Feb'24
+          ### Setting up reliable and reproducible carbon benchmarking clusters
           "
         - time : "16:15 - 17:00"
           image : "images/teams/anita-schuettler.webp"
