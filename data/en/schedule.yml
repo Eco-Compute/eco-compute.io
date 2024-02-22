@@ -185,20 +185,19 @@ schedule:
           bg_color: "coal"
         - time : "09:00 - 09:45"
           image : "#"
-          speaker_link: "#"
-          speaker_name: "TBD Feb'24"
-          designation: "Hardware Talk"
-          company: "ARM"
+          speaker_link: "/speaker/ludwig-kuerzinger"
+          speaker_name: "Ludwig Kürzinger"
+          designation: "-"
+          company: "Ingenics Digital GmbH"
+          talk_link: "/talk/energy-efficient-ai-signal-processing-embedded/"
           content : "
-          ### Energy efficient Microprocessors - Talk details will be released Feb'24
+          ### Energy-Efficient AI and Signal Processing in Embedded Systems
           "
           labels:
             - 🇬🇧
             - Hardware
             - Energy
-          labels:
-            - 🇬🇧
-            - Cloud
+            - AI
         - time : "09:45 - 10:30"
           image : "images/teams/verena-majuntke-small.webp"
           speaker_link: "/speaker/verena-majuntke"
@@ -224,10 +223,10 @@ schedule:
           image : "images/teams/..webp"
           speaker_link: "#"
           speaker_name: "TBD Feb'24"
-          designation: ""
-          company: "TBD Feb'24"
+          designation: "Hardware Talk"
+          company: "ARM"
           content : "
-          ### Talk details will be released Feb'24
+          ### Energy efficient Microprocessors - Talk details will be released Feb'24
           "
         - time : "11:30 - 12:00"
           image : "images/teams/max-schulze-small.webp"
