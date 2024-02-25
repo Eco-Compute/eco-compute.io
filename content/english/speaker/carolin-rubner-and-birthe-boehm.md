@@ -5,7 +5,7 @@ draft: false
 description: "Carolin Rubner & Birthe Böhm"
 bg_image : "images/bg/cta-bg.webp"
 image : "images/teams/carolin-rubner-and-birthe-boehm.webp"
-company: "Siemens"
+company: "Siemens AG"
 designation : "Head of Research Group"
 type : "speaker"
 
