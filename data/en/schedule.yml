@@ -360,17 +360,18 @@ schedule:
             - Measuring
         - time : "10:30 - 11:00"
           image : "#"
-          speaker_link: "#"
-          speaker_name: "TBC Feb'24"
-          designation: ""
-          company: "TBC Feb'24"
+          speaker_link: "/speaker/carolin-rubner-and-birthe-boehm"
+          speaker_name: "Carolin Rubner & Birthe Böhm"
+          designation: "Head of Research Group"
+          company: "Siemens"
+          talk_link: "/talk/sustainable-software-engineering/"
           content : "
-          ### Sustainability planning for companies
+          ### Sustainable Software Engineering
           "
           labels:
             - 🇬🇧
-            - Corporate Planning
-            - Carbon Accounting
+            - Software
+            - Frameworks
         - time : "11:00 - 12:00"
           image : "images/logo-2.webp"
           content : "
