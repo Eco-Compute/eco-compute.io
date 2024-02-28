@@ -157,7 +157,7 @@ partners:
 
         - logo : "images/clients/uba.webp"
           link : "https://www.umweltbundesamt.de/"
-          background: "#fff"
+          background: "#5EAD35"
 
         - logo : "images/clients/Green-Web-Foundation-logo.webp"
           link : "https://www.thegreenwebfoundation.org/"
