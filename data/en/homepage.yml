@@ -122,11 +122,6 @@ partners:
   enable :  true
   partner_group:
     ############################ sponsor group loop
-#    - title : "Gold Sponsors"
-#      sponsor:
-#        - logo : "images/clients/RS.webp"
-#          link : "https://www.rohde-schwarz.com"
-
     - title : "Organizers"
       partner:
         - logo : "images/clients/gcb.webp"
@@ -176,13 +171,6 @@ sponsor:
   title : "Amazing Partners & Sponsors"
   sponsor_group:
     ############################ sponsor group loop
-#    - title : "Gold Sponsors"
-#      sponsor:
-#        - logo : "images/clients/RS.webp"
-#          link : "https://www.rohde-schwarz.com"
-
-
-    ############################ sponsor group loop
     - title : "Diamond Sponsors 💎"
       sponsor:
         # sponcor loop
@@ -192,6 +180,16 @@ sponsor:
         - logo : "images/clients/gcb.webp"
           link : "https://www.green-coding.io"
           background: "#2b3e50"
+
+    ############################ sponsor group loop
+    - title : "Gold Sponsors 🏅"
+      css_class: "gold"
+      sponsor:
+        - logo : "images/clients/envite.webp"
+          link : "https://envite.de"
+          background: "#fff"
+
+
 
     # - title : "Gold Sponsors 🏅"
     #   sponsor:
