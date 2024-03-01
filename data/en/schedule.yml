@@ -184,7 +184,7 @@ schedule:
           "
           bg_color: "coal"
         - time : "09:00 - 09:45"
-          image : "#"
+          image : "images/teams/ludwig-kuerzinger-small.webp"
           speaker_link: "/speaker/ludwig-kuerzinger"
           speaker_name: "Ludwig Kürzinger"
           designation: "-"
