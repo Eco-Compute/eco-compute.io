@@ -4,7 +4,7 @@ date: 2024-01-25T00:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Carolin Rubner & Birthe Böhm"
-speaker_company: "Adesso SE"
+speaker_company: "Siemens AG"
 speaker_image : "images/teams/carolin-rubner-and-birthe-boehm.webp"
 speaker_link: "speaker/carolin-rubner-and-birthe-boehm/"
 talk_room: "Track 1"
