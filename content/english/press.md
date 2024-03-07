@@ -6,6 +6,16 @@ description: "Press accreditation for the EcoCompute Conference 2024 in Munich, 
 bg_image : "images/bg/cta-bg.webp"
 ---
 
+## Pressemeldung
+
+Für die Kommunikation in journalistischen Kanälen nutzen Sie gerne unsere Pressemeldung.
+
+<a href="/files/PM_EcoCompute_Start.pdf" class="btn btn-hero btn-rounded ">Download Pressemeldung</a>
+
+<br>
+<br>
+<br>
+<br>
 
 ## Presseakkreditierung
 
