@@ -130,6 +130,7 @@ partners:
 
         - logo : "images/clients/RS.webp"
           link : "https://www.rohde-schwarz.com"
+          background: "#fff"
 
         - logo : "images/clients/HTW.webp"
           link : "https://www.htw-berlin.de/"
