@@ -83,6 +83,6 @@
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
-<script defer data-domain="eco-compute.io" src="https://plausible.io/js/script.js"></script>
+<script defer data-domain="eco-compute.io" src="https://plausible.io/js/script.outbound-links.js"></script>
 
 
