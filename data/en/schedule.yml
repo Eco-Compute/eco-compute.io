@@ -222,11 +222,11 @@ schedule:
         - time : "10:45 - 11:30"
           image : "images/teams/..webp"
           speaker_link: "#"
-          speaker_name: "TBD Feb'24"
+          speaker_name: "TBD"
           designation: "Hardware Talk"
           company: "ARM"
           content : "
-          ### Energy efficient Microprocessors - Talk details will be released Feb'24
+          ### Energy efficient Microprocessors
           "
         - time : "11:30 - 12:00"
           image : "images/teams/max-schulze-small.webp"
