@@ -270,18 +270,19 @@ schedule:
           ### DevSusOps - integrate sustainability into every step of the DevOps-Cycle
           "
         - time : "14:30 - 15:15"
-          image : "images/teams/..webp"
-          speaker_link: "#"
-          speaker_name: "TBD Feb'24"
-          designation: ""
-          company: "Siemens"
+          image : "images/teams/carsten-windler-small.webp"
+          speaker_link: "/speaker/carsten-windler"
+          speaker_name: "Carsten Windler"
+          designation: "Principal Engineer"
+          company: "Plan A"
+          talk_link: "/talk/navigating-the-green-path/"
           content : "
-          ### ECO:DIGIT - Talk details will be released Feb'24
+          ### Navigating the Green Path: Plan A's Journey to Sustainable IT
           "
           labels:
             - 🇬🇧
-            - Hardware
-            - Measuring
+            - Software
+            - Cloud Carbon Footprint
         - time : "15:15 - 15:45"
           image : "images/logo-2.webp"
           content : "
