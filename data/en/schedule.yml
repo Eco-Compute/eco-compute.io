@@ -359,7 +359,7 @@ schedule:
             - Optimizations
             - Measuring
         - time : "10:30 - 11:00"
-          image : "#"
+          image : "images/teams/carolin-rubner-and-birthe-boehm-small.webp"
           speaker_link: "/speaker/carolin-rubner-and-birthe-boehm"
           speaker_name: "Carolin Rubner & Birthe Böhm"
           designation: "Head of Research Group"
