@@ -5,7 +5,7 @@ draft: false
 description: "Aditya Manglik"
 bg_image : "images/bg/cta-bg.webp"
 image: "images/teams/aditya-manglik.webp"
-company: "ETH Zurüch"
+company: "ETH Zürich"
 designation : "Student"
 type : "speaker"
 
