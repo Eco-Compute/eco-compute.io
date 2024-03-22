@@ -12,6 +12,10 @@ schedule:
           ### Track 1
           "
           bg_color: "coal"
+        - time : "08:00 - 09:00"
+          content : "
+          ### Doors open & registration
+          "
         - time : "09:00 - 09:45"
           image : "images/teams/arne-tarara-small.webp"
           speaker_link: "/speaker/arne-tarara"
@@ -183,6 +187,10 @@ schedule:
           ### Track 2
           "
           bg_color: "coal"
+        - time : "08:00 - 09:00"
+          content : "
+          ### Doors open & registration
+          "
         - time : "09:00 - 09:45"
           image : "images/teams/ludwig-kuerzinger-small.webp"
           speaker_link: "/speaker/ludwig-kuerzinger"
@@ -329,6 +337,10 @@ schedule:
     - title : "Day 2 - Talks & Workshops"
       date_time : "26 April, 2024 [09:00 - 15:00]"
       schedule_items:
+        - time : "08:00 - 09:00"
+          content : "
+          ### Doors open & registration
+          "
         - time : "09:00 - 09:45"
           image : "images/teams/sascha-boehme-small.webp"
           speaker_link: "/speaker/sascha-boehme"
