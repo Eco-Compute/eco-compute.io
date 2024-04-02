@@ -297,13 +297,14 @@ schedule:
           ### Coffee & Cakes - Networking
           "
         - time : "15:45 - 16:15"
-          image : "images/teams/arne-tarara.webp"
-          speaker_link: "/speaker/arne-tarara"
-          speaker_name: "Arne Tarara"
-          designation: "CEO"
-          company: "Green Coding Solutions GmbH"
+          image : "images/teams/christian-binder.webp"
+          speaker_link: "/speaker/christian-binder"
+          speaker_name: "Christian Binder"
+          designation: "Principal Technical Program manager"
+          company: "-"
+          talk_link: "/talk/carbon-aware-computing-insights-from-ubs/"
           content : "
-          ### Setting up reliable and reproducible carbon benchmarking clusters
+          ### Carbon Aware Computing – Insights from the UBS project which created the GSF Carbon Aware SDK
           "
         - time : "16:15 - 17:00"
           image : "images/teams/anita-schuettler.webp"
