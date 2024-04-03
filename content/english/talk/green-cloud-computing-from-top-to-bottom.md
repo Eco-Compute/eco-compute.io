@@ -4,7 +4,7 @@ date: 2024-01-25T00:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Max Körbächer"
-speaker_company: "RETIT GmbH"
+speaker_company: "Liquid Reply GmbH"
 speaker_image : "images/teams/max-koerbaecher.webp"
 speaker_link: "speaker/max-koerbaecher/"
 talk_room: "Track 1"
