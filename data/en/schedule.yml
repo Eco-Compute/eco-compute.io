@@ -254,14 +254,15 @@ schedule:
           content : "
           ### Lunch
           "
-        - time : "13:00 - 13:45"
-          image : "images/teams/didi-hoffmann-small.webp"
-          speaker_link: "/speaker/didi-hoffmann"
-          speaker_name: "Didi Hoffmann"
-          designation: "CTO"
-          company: "Green Coding Solutions GmbH"
+        - time : "13:00 - 13:30"
+          image : "images/teams/moritz-boelter-small.webp"
+          speaker_link: "/speaker/moritz-boelter"
+          speaker_name: "Moritz Bölter"
+          designation: "IT Consultant Greening of IT"
+          company: "Lufthansa Industry Solutions"
+          talk_link: "/talk/determine-software-emissions/"
           content : "
-          ### Aggregating detailed carbon data across services - Carbon DB
+          ### Determine software emissions
           "
           labels:
             - 🇬🇧
@@ -300,8 +301,8 @@ schedule:
           image : "images/teams/christian-binder-small.webp"
           speaker_link: "/speaker/christian-binder"
           speaker_name: "Christian Binder"
-          designation: "Principal Technical Program manager"
-          company: "-"
+          designation: "Technical Program Management"
+          company: "Ex-Microsoft"
           talk_link: "/talk/carbon-aware-computing-insights-from-ubs/"
           content : "
           ### Carbon Aware Computing – Insights from the UBS project which created the GSF Carbon Aware SDK

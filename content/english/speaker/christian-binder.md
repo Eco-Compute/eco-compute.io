@@ -5,8 +5,8 @@ draft: false
 description: "Christian Binder"
 bg_image : "images/bg/cta-bg.webp"
 image : "images/teams/christian-binder.webp"
-company: "-"
-designation : "Principal Technical Program manager"
+company: "Ex-Microsoft"
+designation : "Technical Program Management"
 type : "speaker"
 
 ---
