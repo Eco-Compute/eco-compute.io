@@ -300,8 +300,8 @@ schedule:
           image : "images/teams/christian-binder-small.webp"
           speaker_link: "/speaker/christian-binder"
           speaker_name: "Christian Binder"
-          designation: "Principal Technical Program manager"
-          company: "-"
+          designation: "Technical Program Management"
+          company: "Ex-Microsoft"
           talk_link: "/talk/carbon-aware-computing-insights-from-ubs/"
           content : "
           ### Carbon Aware Computing – Insights from the UBS project which created the GSF Carbon Aware SDK
