@@ -254,14 +254,15 @@ schedule:
           content : "
           ### Lunch
           "
-        - time : "13:00 - 13:45"
-          image : "images/teams/didi-hoffmann-small.webp"
-          speaker_link: "/speaker/didi-hoffmann"
-          speaker_name: "Didi Hoffmann"
-          designation: "CTO"
-          company: "Green Coding Solutions GmbH"
+        - time : "13:00 - 13:30"
+          image : "images/teams/moritz-boelter-small.webp"
+          speaker_link: "/speaker/moritz-boelter"
+          speaker_name: "Moritz Bölter"
+          designation: "IT Consultant Greening of IT"
+          company: "Lufthansa Industry Solutions"
+          talk_link: "/talk/determine-software-emissions/"
           content : "
-          ### Aggregating detailed carbon data across services - Carbon DB
+          ### Determine software emissions
           "
           labels:
             - 🇬🇧
