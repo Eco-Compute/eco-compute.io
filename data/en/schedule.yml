@@ -255,7 +255,7 @@ schedule:
           ### Lunch
           "
         - time : "13:00 - 13:45"
-          image : "images/teams/didi-hoffmann.webp"
+          image : "images/teams/didi-hoffmann-small.webp"
           speaker_link: "/speaker/didi-hoffmann"
           speaker_name: "Didi Hoffmann"
           designation: "CTO"
@@ -297,7 +297,7 @@ schedule:
           ### Coffee & Cakes - Networking
           "
         - time : "15:45 - 16:15"
-          image : "images/teams/christian-binder.webp"
+          image : "images/teams/christian-binder-small.webp"
           speaker_link: "/speaker/christian-binder"
           speaker_name: "Christian Binder"
           designation: "Principal Technical Program manager"
@@ -307,7 +307,7 @@ schedule:
           ### Carbon Aware Computing – Insights from the UBS project which created the GSF Carbon Aware SDK
           "
         - time : "16:15 - 17:00"
-          image : "images/teams/anita-schuettler.webp"
+          image : "images/teams/anita-schuettler-small.webp"
           speaker_link: "/speaker/anita-schuettler"
           speaker_name: "Anita Schüttler"
           designation: "Head of Sustainability"
