@@ -58,21 +58,22 @@
             {{ .sub_title | markdownify }}
           </div>
         </div>
-        <div id="simple-timer" class="syotimer col-lg-9"><form action="https://eco-compue.us18.list-manage.com//subscribe" method="GET">
-            <input type="hidden" value="7eb6781b02678aa80dc546030" name="u">
-            <input type="hidden" value="e4a346eaa3" name="id">
-            <div class="form-row">
-                <div class="col-lg-8">
-                    <div class="form-group">
-                        <input class="form-control" type="text" name="MERGE0" id="MERGE0" placeholder="email address">
+        <div id="simple-timer" class="syotimer col-lg-9">
+            <form action="https://eco-compue.us18.list-manage.com/subscribe" method="GET">
+                <input type="hidden" value="7eb6781b02678aa80dc546030" name="u">
+                <input type="hidden" value="e4a346eaa3" name="id">
+                <div class="form-row">
+                    <div class="col-lg-8">
+                        <div class="form-group">
+                            <input class="form-control" type="text" name="EMAIL" placeholder="email address">
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="form-group">
+                            <button type="submit" id="contact-submit" class="btn btn-hero btn-rounded form-control" value="get-updates">{{ .button | markdownify }}</button>
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="form-group">
-                        <button type="submit" id="contact-submit" class="btn btn-hero btn-rounded form-control" value="get-updates">{{ .button | markdownify }}</button>
-                    </div>
-                </div>
-            </div>
             </form>
         </div>
       </div>
