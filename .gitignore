@@ -2,5 +2,5 @@ public/
 .DS_Store
 /.hugo_build.lock
 /hugo_stats.json
-/resources/_gen
+/resources/_gen/
 /node_modules
