@@ -8,7 +8,7 @@ speaker_company: "MaibornWolff GmbH"
 speaker_image : "images/teams/jochen-joswig.webp"
 speaker_link: "speaker/jochen-joswig/"
 talk_room: "Track 2"
-talk_date: "25.04.2024 13:45"
+talk_date: "25.04.2024 13:00"
 
 type : "talk"
 ---

@@ -8,7 +8,7 @@ speaker_company: "Plan A"
 speaker_image : "images/teams/carsten-windler.webp"
 speaker_link: "speaker/carsten-windler/"
 talk_room: "Track 2"
-talk_date: "25.04.2024 14:30"
+talk_date: "25.04.2024 13:45"
 
 type : "talk"
 ---

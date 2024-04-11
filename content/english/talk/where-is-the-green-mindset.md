@@ -8,7 +8,7 @@ speaker_company: "HTW Berlin"
 speaker_image : "images/teams/verena-majuntke.webp"
 speaker_link: "speaker/verena-majuntke/"
 talk_room: "Track 2"
-talk_date: "25.04.2024 09:45"
+talk_date: "25.04.2024 09:30"
 
 type : "talk"
 ---

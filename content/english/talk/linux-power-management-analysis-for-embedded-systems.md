@@ -8,7 +8,7 @@ speaker_company: "Rohde & Schwarz"
 speaker_image : "images/teams/hagen-pfeifer.webp"
 speaker_link: "speaker/hagen-pfeifer/"
 talk_room: "Track 1"
-talk_date: "25.04.2024 09:45"
+talk_date: "25.04.2024 09:30"
 
 type : "talk"
 ---

@@ -8,7 +8,7 @@ speaker_company: "Liquid Reply GmbH"
 speaker_image : "images/teams/max-koerbaecher.webp"
 speaker_link: "speaker/max-koerbaecher/"
 talk_room: "Track 1"
-talk_date: "25.04.2024 10:45"
+talk_date: "25.04.2024 10:15"
 type : "talk"
 ---
 
