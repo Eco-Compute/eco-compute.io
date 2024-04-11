@@ -45,6 +45,45 @@
 {{ end }}
 <!-- /timer -->
 
+<!-- newsletter -->
+{{ if $data.homepage.newsletter.enable }}
+{{ with $data.homepage.newsletter }}
+<section class="overflow-hidden counter-wrapper pt-4 pb-5">
+  <div class="container">
+    <div class="newsletter-inner">
+      <div class="row align-items-center">
+        <div class="col-lg-3">
+          <div class="counter-stat">
+            <h2 class="font-weight-light">{{ .title | markdownify }}</h2>
+            {{ .sub_title | markdownify }}
+          </div>
+        </div>
+        <div id="simple-timer" class="syotimer col-lg-9">
+            <form action="https://eco-compute.us18.list-manage.com/subscribe" method="GET">
+                <input type="hidden" value="7eb6781b02678aa80dc546030" name="u">
+                <input type="hidden" value="e4a346eaa3" name="id">
+                <div class="form-row">
+                    <div class="col-lg-8">
+                        <div class="form-group">
+                            <input class="form-control" type="text" name="EMAIL" placeholder="email address">
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="form-group">
+                            <button type="submit" id="contact-submit" class="btn btn-hero btn-rounded form-control" value="get-updates">{{ .button | markdownify }}</button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /newsletter -->
+
 <!-- tagline -->
 {{ if $data.homepage.tagline.enable }}
 {{ with $data.homepage.tagline }}
