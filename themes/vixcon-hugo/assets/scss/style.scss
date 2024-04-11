@@ -244,3 +244,38 @@ h3#track-1, h3#track-2 {
   margin-bottom: 10px;
   border-radius: 100px;
 }
+
+/* Newsletter */
+
+.newsletter-inner {
+    padding: 50px;
+    position: relative;
+
+    &:before {
+        position: absolute;
+        content: "";
+        right: -5%;
+        top: 0;
+        width: 200%;
+        height: 100%;
+        background: $white;
+        border-radius: 0px 100px 100px 0px;
+        box-shadow: 0 15px 38px 0 rgba(0, 0, 0, 0.1);
+    }
+
+    .counter-stat {
+        h2 {
+            @include mobile {
+                font-size: 20px;
+            }
+        }
+    }
+
+    .syotimer {
+        position: relative;
+        z-index: 1;
+    }
+    @include desktop {
+        padding: 50px 20px;
+    }
+}

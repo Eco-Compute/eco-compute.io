@@ -27,6 +27,13 @@ timer:
   day: "25"
   hour: "09"
 
+########################## timer #################################
+newsletter:
+  enable : true
+  title : "**Newsletter**"
+  sub_title: "Get conference updates"
+  button: "Get Updates"
+
 ############################## Event ##############################
 event:
   enable : true
