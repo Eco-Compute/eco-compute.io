@@ -16,22 +16,21 @@ schedule:
           content : "
           ### Doors open & registration
           "
-        - time : "09:00 - 09:45"
-          image : "images/teams/arne-tarara-small.webp"
+        - time : "09:00 - 09:30"
+          image : "images/logo-2.webp"
           speaker_link: "/speaker/arne-tarara"
           speaker_name: "Arne Tarara"
-          designation: "CEO & Software Developer"
-          company: "Green Coding Solutions"
-          talk_link: "/talk/energy-saving-techniques-for-modern-cloud-and-on-prem-software/"
+          designation: "-"
+          company: "Green Coding Solutions / IEEE / Stadt München"
           content : "
-          ### Energy saving techniques for modern cloud and on-prem software
+          ### Welcome and opening remarks
           "
           labels:
             - 🇬🇧
-            - Software
-            - Measuring
-            - Reduction / Optimizations
-        - time : "09:45 - 10:30"
+            - Welcome
+            - Opening remarks
+
+        - time : "09:30 - 10:15"
           image : "images/teams/hagen-pfeifer-small.webp"
           speaker_link: "/speaker/hagen-pfeifer"
           speaker_name: "Hagen Pfeifer"
@@ -46,14 +45,7 @@ schedule:
             - Hardware
             - OS
             - Reduction / Optimizations
-        - time : "10:30 - 10:45"
-          image : "images/logo-2.webp"
-          speaker_link: "#"
-          speaker_name: ""
-          content : "
-          ### Coffee Break
-          "
-        - time : "10:45 - 11:30"
+        - time : "10:15 - 11:00"
           image : "images/teams/max-koerbaecher-small.webp"
           speaker_link: "/speaker/max-koerbaecher"
           speaker_name: "Max Körbächer"
@@ -66,6 +58,13 @@ schedule:
           labels:
             - 🇬🇧
             - Cloud
+        - time : "11:00 - 11:30"
+          image : "images/logo-2.webp"
+          speaker_link: "#"
+          speaker_name: ""
+          content : "
+          ### Coffee Break
+          "
         - time : "11:30 - 12:00"
           image : "images/teams/anna-zagorski-small.webp"
           speaker_link: "/speaker/anna-zagorski"
@@ -100,15 +99,6 @@ schedule:
             - Software
             - OS / Kernel
             - Measurement
-#        - time : "14:00 - 15:00"
-#          image : "images/teams/chris.webp"
-#          speaker_link: "/speaker/chris-adams"
-#          speaker_name: "Chris Adams"
-#          designation: "Executive Director"
-#          company: "The Green Web Foundation"
-#          content : "
-#          ### Reducing front-end carbon consumption through grid carbon awareness
-#          "
         - time : "13:45 - 14:30"
           image : "images/teams/andreas-brunnert-small.webp"
           speaker_link: "/speaker/andreas-brunnert"
@@ -187,11 +177,21 @@ schedule:
           ### Track 2
           "
           bg_color: "coal"
-        - time : "08:00 - 09:00"
+        - time : "09:30 - 10:15"
+          image : "images/teams/verena-majuntke-small.webp"
+          speaker_link: "/speaker/verena-majuntke"
+          speaker_name: "Verena Majuntke"
+          designation: "Professor - Software Engineering"
+          company: "HTW Berlin"
+          talk_link: "/talk/where-is-the-green-mindset/"
           content : "
-          ### Doors open & registration
+          ### Where is the green in the mindset? Improving awareness for green coding  in the software development process
           "
-        - time : "09:00 - 09:45"
+          labels:
+            - 🇬🇧
+            - Software
+            - Measuring
+        - time : "10:15 - 11:00"
           image : "images/teams/ludwig-kuerzinger-small.webp"
           speaker_link: "/speaker/ludwig-kuerzinger"
           speaker_name: "Ludwig Kürzinger"
@@ -206,35 +206,12 @@ schedule:
             - Hardware
             - Energy
             - AI
-        - time : "09:45 - 10:30"
-          image : "images/teams/verena-majuntke-small.webp"
-          speaker_link: "/speaker/verena-majuntke"
-          speaker_name: "Verena Majuntke"
-          designation: "Professor - Software Engineering"
-          company: "HTW Berlin"
-          talk_link: "/talk/where-is-the-green-mindset/"
-          content : "
-          ### Where is the green in the mindset? Improving awareness for green coding  in the software development process
-          "
-          labels:
-            - 🇬🇧
-            - Software
-            - Measuring
-        - time : "10:30 - 10:45"
+        - time : "11:00 - 11:30"
           image : "images/logo-2.webp"
           speaker_link: "#"
           speaker_name: ""
           content : "
           ### Coffee Break
-          "
-        - time : "10:45 - 11:30"
-          image : "images/teams/..webp"
-          speaker_link: "#"
-          speaker_name: "TBD"
-          designation: "Hardware Talk"
-          company: "ARM"
-          content : "
-          ### Energy efficient Microprocessors
           "
         - time : "11:30 - 12:00"
           image : "images/teams/max-schulze-small.webp"
@@ -254,21 +231,7 @@ schedule:
           content : "
           ### Lunch
           "
-        - time : "13:00 - 13:30"
-          image : "images/teams/moritz-boelter-small.webp"
-          speaker_link: "/speaker/moritz-boelter"
-          speaker_name: "Moritz Bölter"
-          designation: "IT Consultant Greening of IT"
-          company: "Lufthansa Industry Solutions"
-          talk_link: "/talk/determine-software-emissions/"
-          content : "
-          ### Determine software emissions
-          "
-          labels:
-            - 🇬🇧
-            - Measuring
-            - Software Life Cycle
-        - time : "13:45 - 14:30"
+        - time : "13:00 - 13:45"
           image : "images/teams/jochen-joswig-small.webp"
           speaker_link: "/speaker/jochen-joswing"
           speaker_name: "Jochen Joswig"
@@ -278,7 +241,7 @@ schedule:
           content : "
           ### DevSusOps - integrate sustainability into every step of the DevOps-Cycle
           "
-        - time : "14:30 - 15:15"
+        - time : "13:45 - 14:30"
           image : "images/teams/carsten-windler-small.webp"
           speaker_link: "/speaker/carsten-windler"
           speaker_name: "Carsten Windler"
@@ -292,6 +255,21 @@ schedule:
             - 🇬🇧
             - Software
             - Cloud Carbon Footprint
+        - time : "14:30 - 15:15"
+          image : "images/teams/arne-tarara-small.webp"
+          speaker_link: "/speaker/arne-tarara"
+          speaker_name: "Arne Tarara"
+          designation: "CEO & Software Developer"
+          company: "Green Coding Solutions"
+          talk_link: "/talk/energy-saving-techniques-for-modern-cloud-and-on-prem-software/"
+          content : "
+          ### Energy saving techniques for modern cloud and on-prem software
+          "
+          labels:
+            - 🇬🇧
+            - Software
+            - Measuring
+            - Reduction / Optimizations
         - time : "15:15 - 15:45"
           image : "images/logo-2.webp"
           content : "
@@ -333,12 +311,14 @@ schedule:
           content : "
           ### Conference Dinner & Networking
           "
-
-
     ################# tab itam loop ################
     - title : "Day 2 - Talks & Workshops"
       date_time : "26 April, 2024 [09:00 - 15:00]"
       schedule_items:
+        - content : "
+          ### Track 1 - Talks only
+          "
+          bg_color: "coal"
         - time : "08:00 - 09:00"
           content : "
           ### Doors open & registration
@@ -387,6 +367,68 @@ schedule:
             - 🇬🇧
             - Software
             - Frameworks
+        - time : "11:00 - 12:00"
+          image : "images/logo-2.webp"
+          content : "
+          ### Lunch
+          "
+        - content : "
+          ### Track 2 - Talks & Workshops
+          "
+          bg_color: "coal"
+        - time : "09:00 - 09:30"
+          image : "images/teams/david-kohnstamm-small.webp"
+          speaker_link: "/speaker/david-kohnstamm"
+          speaker_name: "David Kohnstamm"
+          designation: "Co-Founder & Chief Sustainability Officer"
+          company: "Leafcloud"
+          talk_link: "/talk/cutting-through-the-noise/"
+          content : "
+          ### Cutting through the noise: the physics behind cloud sustainability
+          "
+          labels:
+            - 🇬🇧
+            - Datacenters
+        - time : "09:30 - 10:00"
+          image : "images/teams/moritz-boelter-small.webp"
+          speaker_link: "/speaker/moritz-boelter"
+          speaker_name: "Moritz Bölter"
+          designation: "IT Consultant Greening of IT"
+          company: "Lufthansa Industry Solutions"
+          talk_link: "/talk/determine-software-emissions/"
+          content : "
+          ### Determine software emissions
+          "
+          labels:
+            - 🇬🇧
+            - Measuring
+            - Software Life Cycle
+        - time : "10:00 - 10:30"
+          image : "images/teams/-small.webp"
+          speaker_link: "/speaker/"
+          speaker_name: "-"
+          designation: "-"
+          company: "Siemens"
+          talk_link: "/talk//"
+          content : "
+          ### TBA
+          "
+          labels:
+            - 🇬🇧
+            - Datacenters
+        - time : "10:30 - 11:00"
+          image : "images/teams/christian-berendt-and-max-boettcher-small.webp"
+          speaker_link: "/speaker/christan-berendt-and-max-boettcher"
+          speaker_name: "Christian Berendt & Max Böttcher"
+          designation: "CEO / Product Owner"
+          company: "Cloud&Heat Technologies"
+          talk_link: "/talk/approaches-for-ecological-transparency-in-open-source-cloud-infrastructures/"
+          content : "
+          ### Approaches for Ecological Transparency in Open Source Cloud Infrastructures
+          "
+          labels:
+            - 🇬🇧
+            - Datacenters
         - time : "11:00 - 12:00"
           image : "images/logo-2.webp"
           content : "

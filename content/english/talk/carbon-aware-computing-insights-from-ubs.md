@@ -4,7 +4,7 @@ date: 2024-01-25T00:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Christian Binder"
-speaker_company: "-"
+speaker_company: "Ex-Microsoft"
 speaker_image : "images/teams/christian-binder.webp"
 speaker_link: "speaker/christian-binder/"
 talk_room: "Track 2"

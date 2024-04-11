@@ -13,4 +13,9 @@ talk_date: "25.04.2024 13:00"
 type : "talk"
 ---
 
-TODO
+Do you know the CO2 footprint of your software?
+
+In this talk, we will provide insights into how to measure the emissions of a software. It is shown how software emission factors are identified and where in the life cycle of a software product which emissions occur. It explains the steps in the process from identifying the emission sources, selecting a suitable measurement environment and measuring with the Green Metrics Tool to reviewing it by external certification organizations.
+
+Overall, this presentation will provide a comprehensive overview of the process of emission measurement.
+ 
