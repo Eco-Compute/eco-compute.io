@@ -403,20 +403,8 @@ schedule:
             - 🇬🇧
             - Measuring
             - Software Life Cycle
-        - time : "10:00 - 10:30"
-          image : "images/teams/-small.webp"
-          speaker_link: "/speaker/"
-          speaker_name: "-"
-          designation: "-"
-          company: "Siemens"
-          talk_link: "/talk//"
-          content : "
-          ### TBA
-          "
-          labels:
-            - 🇬🇧
-            - Datacenters
-        - time : "10:30 - 11:00"
+
+        - time : "10:15 - 11:00"
           image : "images/teams/christian-berendt-and-max-boettcher-small.webp"
           speaker_link: "/speaker/christan-berendt-and-max-boettcher"
           speaker_name: "Christian Berendt & Max Böttcher"

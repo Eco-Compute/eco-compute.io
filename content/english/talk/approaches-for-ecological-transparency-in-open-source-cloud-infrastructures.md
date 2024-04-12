@@ -8,7 +8,7 @@ speaker_company: "Cloud&Heat Technologies"
 speaker_image : "images/teams/christan-berendt-and-max-boettcher.webp"
 speaker_link: "speaker/christan-berendt-and-max-boettcher/"
 talk_room: "Track 2"
-talk_date: "26.04.2024 10:30"
+talk_date: "26.04.2024 10:15"
 type : "talk"
 ---
 
