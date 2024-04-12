@@ -8,7 +8,7 @@ speaker_company: "Ingenics Digital GmbH"
 speaker_image : "images/teams/ludwig-kuerzinger.webp"
 speaker_link: "speaker/ludwig-kuerzinger/"
 talk_room: "Track 2"
-talk_date: "25.04.2024 09:45"
+talk_date: "25.04.2024 10:15"
 type : "talk"
 ---
 
