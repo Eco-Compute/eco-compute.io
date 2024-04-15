@@ -238,8 +238,12 @@ venue:
   location : "[House of Communication, Munich, Germany](https://maps.app.goo.gl/zaYBdx5Gst9Pt5VG8)"
   button:
     enable : true
-    label : "View Map location"
+    label : "Location on Google Maps"
     link : "https://maps.app.goo.gl/zaYBdx5Gst9Pt5VG8"
+  button_2:
+    enable : true
+    label : "See walking path map"
+    link : "/images/walking_path.webp"
 
 ############################### Blog ######################################
 blog:

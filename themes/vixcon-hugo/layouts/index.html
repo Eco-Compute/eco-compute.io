@@ -245,7 +245,7 @@
 <!-- venue -->
 {{ if $data.homepage.venue.enable }}
 {{ with $data.homepage.venue }}
-<section class="cta-2 section">
+<section class="cta-2 section" id="location">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -257,6 +257,12 @@
             <p class="lead">{{ .location | markdownify }}</p>
             {{ if .button.enable }}
             {{ with .button }}
+            <a href="{{ .link | absLangURL }}"><i class="tf-ion-ios-location mr-2"></i>{{ .label }}</a>
+            {{ end }}
+            {{ end }}
+            {{ if .button_2.enable }}
+            {{ with .button_2 }}
+            <br>
             <a href="{{ .link | absLangURL }}"><i class="tf-ion-ios-location mr-2"></i>{{ .label }}</a>
             {{ end }}
             {{ end }}
