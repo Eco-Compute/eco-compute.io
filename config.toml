@@ -44,29 +44,29 @@ link = "plugins/syotimer/syotimer.min.js"
 
   [[menu.main]]
   name = "About"
-  URL = "about"
+  URL = "/about"
   weight = 2
 
   [[menu.main]]
   name = "Schedule"
-  URL = "schedule"
+  URL = "/schedule"
   weight = 3
 
   [[menu.main]]
   name = "Speakers"
-  URL = "speakers"
+  URL = "/speakers"
   weight = 4
 
   [[menu.main]]
   name = "Location"
-  URL = "#location"
+  URL = "/#location"
   weight = 5
 
 
   [[menu.main]]
   weight = 6
   name = "Press"
-  URL = "press"
+  URL = "/press"
 
   [[menu.main]]
   weight = 7
@@ -83,22 +83,22 @@ link = "plugins/syotimer/syotimer.min.js"
     [[menu.main]]
     parent = "More"
     name = "Grants / Reduced Tickets"
-    URL = "grants"
+    URL = "/grants"
 
     [[menu.main]]
     parent = "More"
     name = "Code of Conduct"
-    URL = "codeofconduct"
+    URL = "/codeofconduct"
 
     [[menu.main]]
     parent = "More"
     name = "FAQ"
-    URL = "faq"
+    URL = "/faq"
 
     [[menu.main]]
     parent = "More"
     name = "Contact"
-    URL = "contact"
+    URL = "/contact"
 
 
 
