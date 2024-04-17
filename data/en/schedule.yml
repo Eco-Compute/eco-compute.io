@@ -376,7 +376,7 @@ schedule:
           ### Track 2 - Talks & Workshops
           "
           bg_color: "coal"
-        - time : "09:00 - 09:30"
+        - time : "09:00 - 09:45"
           image : "images/teams/david-kohnstamm-small.webp"
           speaker_link: "/speaker/david-kohnstamm"
           speaker_name: "David Kohnstamm"
@@ -389,7 +389,20 @@ schedule:
           labels:
             - 🇬🇧
             - Datacenters
-        - time : "09:30 - 10:00"
+        - time : "09:45 - 10:30"
+          image : "images/teams/christian-berendt-and-max-boettcher-small.webp"
+          speaker_link: "/speaker/christan-berendt-and-max-boettcher"
+          speaker_name: "Christian Berendt & Max Böttcher"
+          designation: "CEO / Product Owner"
+          company: "23 Technologies / Cloud&Heat Technologies"
+          talk_link: "/talk/approaches-for-ecological-transparency-in-open-source-cloud-infrastructures/"
+          content : "
+          ### Approaches for Ecological Transparency in Open Source Cloud Infrastructures
+          "
+          labels:
+            - 🇬🇧
+            - Datacenters
+        - time : "10:30 - 11:00"
           image : "images/teams/moritz-boelter-small.webp"
           speaker_link: "/speaker/moritz-boelter"
           speaker_name: "Moritz Bölter"
@@ -404,19 +417,6 @@ schedule:
             - Measuring
             - Software Life Cycle
 
-        - time : "10:15 - 11:00"
-          image : "images/teams/christian-berendt-and-max-boettcher-small.webp"
-          speaker_link: "/speaker/christan-berendt-and-max-boettcher"
-          speaker_name: "Christian Berendt & Max Böttcher"
-          designation: "CEO / Product Owner"
-          company: "23 Technologies / Cloud&Heat Technologies"
-          talk_link: "/talk/approaches-for-ecological-transparency-in-open-source-cloud-infrastructures/"
-          content : "
-          ### Approaches for Ecological Transparency in Open Source Cloud Infrastructures
-          "
-          labels:
-            - 🇬🇧
-            - Datacenters
         - time : "11:00 - 12:00"
           image : "images/logo-2.webp"
           content : "

@@ -8,7 +8,7 @@ speaker_company: "Lufthansa Industry Solutions"
 speaker_image : "images/teams/moritz-boelter.webp"
 speaker_link: "speaker/moritz-boelter/"
 talk_room: "Track 2"
-talk_date: "26.04.2024 09:30"
+talk_date: "26.04.2024 10:30"
 
 type : "talk"
 ---
