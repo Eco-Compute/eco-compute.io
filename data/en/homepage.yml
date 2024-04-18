@@ -181,9 +181,10 @@ sponsor:
     ############################ sponsor group loop
     - title : "Diamond Sponsors 💎"
       sponsor:
-        # sponcor loop
+        # sponsor loop
         - logo : "images/clients/RS.webp"
           link : "https://www.rohde-schwarz.com"
+          background: "#fff"
 
 
         - logo : "images/clients/gcb.webp"
