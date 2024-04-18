@@ -221,6 +221,10 @@ sponsor:
         - logo : "images/clients/peerigon.webp"
           link : "https://www.peerigon.com/"
           background: "#fff"
+        - logo : "images/clients/qaware.webp"
+          link : "https://www.qaware.de"
+          background: "#fff"
+
 
   # call to action in sponsor
   sponsorship:
