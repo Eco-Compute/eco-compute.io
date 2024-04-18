@@ -105,9 +105,9 @@ schedule:
           speaker_name: "Andreas Brunnert"
           designation: "Prof. Computer Science / Founder | HM / RETIT GmbH"
           company: "RETIT GmbH"
-          talk_link: "/talk/how-to-measure-co2-consumption-api-call-microservice/"
+          talk_link: "/talk/how-to-measure-co2-emissions-api-call-microservice/"
           content : "
-          ### How to measure CO2 consumption for every API call of your microservices
+          ### How to measure CO2 emissions for every API call of your microservices
           "
           labels:
             - 🇬🇧
