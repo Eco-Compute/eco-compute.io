@@ -17,11 +17,11 @@ schedule:
           ### Doors open & registration
           "
         - time : "09:00 - 09:30"
-          image : "images/logo-2.webp"
+          image : "images/teams/arne-irene-small.webp"
           speaker_link: "/speaker/arne-tarara"
-          speaker_name: "Arne Tarara"
+          speaker_name: "Arne Tarara / Irene Kitsara"
           designation: "-"
-          company: "Green Coding Solutions / IEEE / Stadt München"
+          company: "Green Coding Solutions / IEEE"
           content : "
           ### Welcome and opening remarks
           "

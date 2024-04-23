@@ -170,6 +170,10 @@ partners:
           link : "https://www.lfca.earth/"
           background: "#fff"
 
+        - logo : "images/clients/ieee.webp"
+          link : "https://www.ieee.org/"
+          background: "#fff"
+
 
 
 ######################### sponsor ############################
@@ -207,11 +211,12 @@ sponsor:
     #     - logo : "images/clients/RS.webp"
     #       link : "https://www.rohde-schwarz.com"
 
-    # - title : "Silver Sponsors 🥈"
-    #   sponsor:
-    #     # sponcor loop
-    #     - logo : "images/clients/RS.webp"
-    #       link : "https://www.rohde-schwarz.com"
+    - title : "Silver Sponsors 🥈"
+      css_class: "silver"
+      sponsor:
+        - logo : "images/clients/ieee.webp"
+          link : "https://www.ieee.org"
+          background: "#fff"
 
 
     - title : "Bronze Sponsors 🥉"
