@@ -11,6 +11,8 @@ type : "speaker"
 
 ---
 
-I am working on various aspects of the green and digital transformation, including AI ethics, digital governance and related Certification (CertifAIEd). 
+Irene Kitsara, European Standardization Initiatives Director; IEEE Technology Center for Climate (ITCC), IEEE Vienna Global Office.
 
-I am the lead of a joint publication with the Council of Europe on the Metaverse, its impact on human rights, the rule of law and democracy and am part of the core team of the IEEE Technology Center for Climate (ieee.itcc.org), working on topics related to sustainability and circularity.
+Irene’s work at IEEE is focused on topics related to the green and digital transformation, digital governance, strategic partnerships, and issues related to sustainability, circularity and climate change as part of the core team of the IEEE Technology Center for Climate (ITCC). She is also the IEEE focal point to the European Green Digital Coalition (EGDC) which is looking into calculation and reporting methods for emissions of digital solutions.
+
+Before joining IEEE in 2022, Irene worked for 13 years at the World Intellectual Property Organization (WIPO), where she led IP and innovation data-based technology trends publications in 25 technology areas, providing factual evidence to support decision-making. Irene also worked in law firms in Germany and Greece, at the European Patent Office, the European Commission (DG Grow) and the Max-Planck Institute for Foreign and International Social law. Irene is a Greek lawyer admitted at the Athens Bar and holds a Masters in European and International Business law from LMU, Munich. She continued her training in responsible innovation (TU Delft), lifecycle assessment (LCA) for environmental impact assessments (MIT), AI business transformation (Northwestern/Kellogg School of Management) and open source tools, and is a certified IEEE AI Ethics Lead Assessor.
