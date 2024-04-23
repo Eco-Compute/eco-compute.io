@@ -170,7 +170,7 @@ partners:
           link : "https://www.lfca.earth/"
           background: "#fff"
 
-        - logo : "images/clients/ieee.webp"
+        - logo : "images/clients/ieee_cc.webp"
           link : "https://www.ieee.org/"
           background: "#fff"
 
@@ -214,7 +214,7 @@ sponsor:
     - title : "Silver Sponsors 🥈"
       css_class: "silver"
       sponsor:
-        - logo : "images/clients/ieee.webp"
+        - logo : "images/clients/ieee_cc.webp"
           link : "https://www.ieee.org"
           background: "#fff"
 
