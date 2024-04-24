@@ -1,5 +1,5 @@
 ---
-title: "Reducing hardware obsolescence through target Green IT strategies 🇬🇧"
+title: "[Cancelled] Reducing hardware obsolescence through target Green IT strategies 🇬🇧"
 date: 2024-01-25T00:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
