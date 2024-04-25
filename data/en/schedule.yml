@@ -66,18 +66,17 @@ schedule:
           ### Coffee Break
           "
         - time : "11:30 - 12:00"
-          image : "images/teams/anna-zagorski-small.webp"
-          speaker_link: "/speaker/anna-zagorski"
-          speaker_name: "Anna Zagorski"
-          designation: "Research Associate for Green IT"
-          company: "Umweltbundesamt"
-          talk_link: "/talk/reducing-hardware-obsolescence-through-green-it/"
+          image : "images/teams/max-schulze-small.webp"
+          speaker_link: "/speaker/max-schulze"
+          speaker_name: "Max Schulze"
+          designation: "Director"
+          company: "SDIA"
+          talk_link: "/talk/the-role-of-values-in-our-digital-future/"
           content : "
-          ### [Cancelled] Reducing hardware obsolescence through target Green IT strategies
+          ### The Role of Values in Our Digital Future - What's important to us and how do we embed values in our digital products?
           "
           labels:
             - 🇬🇧
-            - Hardware
             - Sustainability strategies
         - time : "12:00 - 13:00"
           image : "images/logo-2.webp"
@@ -214,17 +213,18 @@ schedule:
           ### Coffee Break
           "
         - time : "11:30 - 12:00"
-          image : "images/teams/max-schulze-small.webp"
-          speaker_link: "/speaker/max-schulze"
-          speaker_name: "Max Schulze"
-          designation: "Director"
-          company: "SDIA"
-          talk_link: "/talk/the-role-of-values-in-our-digital-future/"
+          image : "images/teams/anna-zagorski-small.webp"
+          speaker_link: "/speaker/anna-zagorski"
+          speaker_name: "Anna Zagorski"
+          designation: "Research Associate for Green IT"
+          company: "Umweltbundesamt"
+          talk_link: "/talk/reducing-hardware-obsolescence-through-green-it/"
           content : "
-          ### The Role of Values in Our Digital Future - What's important to us and how do we embed values in our digital products?
+          ### [Cancelled] Reducing hardware obsolescence through target Green IT strategies
           "
           labels:
             - 🇬🇧
+            - Hardware
             - Sustainability strategies
         - time : "12:00 - 13:00"
           image : "images/logo-2.webp"
