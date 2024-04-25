@@ -442,7 +442,7 @@ schedule:
           "
         - time : "12:00 - 15:00"
           image : "images/teams/verena-majuntke-small.webp"
-          speaker_link: "/speaker/hagen-pfeifer"
+          speaker_link: "/speaker/verena-majuntke"
           speaker_name: "Verena Majuntke / Anita Schüttler"
           designation: "Prof. Software Engineering / Sustainability Lead "
           company: "HTW Berlin / neuland – Büro für Informatik GmbH"
