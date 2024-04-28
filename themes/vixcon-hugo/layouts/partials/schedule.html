@@ -23,7 +23,7 @@
           {{ $.Scratch.Set "counter" 0 }}
           {{ range $index, $element := .schedule_tab }}
           {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
-          <a class="nav-item nav-link {{ if eq $index 1 }} active {{ end }}" data-toggle="tab" href="#scheduleTab{{$.Scratch.Get `counter`}}"
+          <a class="nav-item nav-link {{ if eq $index 0 }} active {{ end }}" data-toggle="tab" href="#scheduleTab{{$.Scratch.Get `counter`}}"
             role="tab">
             <h2>{{ .title | markdownify }}</h2>
             <p>{{ .date_time | markdownify }}</p>
