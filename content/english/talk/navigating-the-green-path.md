@@ -19,3 +19,7 @@ To lead by example, Plan A has launched its Green IT initiative in 2024. Our goa
 
 Sounds great, but where do you start? Join me on the first steps of a young company's journey towards sustainable software development.
 What setbacks have we had to overcome? How do you make the most of limited resources? And how to foster a culture of sustainability in the engineering department?
+
+## Slides
+
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/Carsten_Windler_Navigating_the_Green_Path.pdf)

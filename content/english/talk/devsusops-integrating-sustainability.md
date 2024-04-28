@@ -17,3 +17,6 @@ DevSusOps is an approach, which takes inspiration form DevSecOps, GreenOps and a
 
 I will introduce the DevSusOps concept as well as tools and ideas, which will help you implement your own DevSusOps approach in your software projects. Among other things these ideas and tools will help you create transparency, generate insights, inform decisions, help to take action, and ultimately allow you to create your own DevSusOps cycle and approach.
 
+## Slides
+
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/2024-04-25_Jochen-Joswig_DevSusOps.pdf)

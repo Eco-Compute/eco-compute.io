@@ -18,3 +18,7 @@ This talk details the recent carbon measurement infrastructure developments in p
 This infrastructure allows the programmers and users to see which hardware devices and processes are responsible for the system's energy consumption and carbon emissions. These statistics are extremely useful for both user-level applications and kernel developers.
 
 Major objectives in this talk would include a detailed discussion on the development of the required infrastructure and multivariate regression models to determine application and hardware device energy consumption. 
+
+## Slides
+
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/Aditya_Eco_Compute_Munich_2024.pdf)

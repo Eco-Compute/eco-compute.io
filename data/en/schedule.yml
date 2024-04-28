@@ -23,7 +23,7 @@ schedule:
           designation: "-"
           company: "Green Coding Solutions / IEEE"
           content : "
-          ### Welcome and opening remarks
+          ### Welcome and opening remarks <a href='/files/slides/IEEE-Welcome-Speech.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -38,7 +38,7 @@ schedule:
           company: "Rohde & Schwarz"
           talk_link: "/talk/linux-power-management-analysis-for-embedded-systems/"
           content : "
-          ### Linux Power Management Analysis for Embedded Systems
+          ### Linux Power Management Analysis for Embedded Systems <a href='/files/slides/Hagen-Pfeifer-eco-compute-linux-power-analysis.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -53,7 +53,7 @@ schedule:
           company: "Liquid Reply"
           talk_link: "/talk/green-cloud-computing-from-top-to-bottom/"
           content : "
-          ### Green Cloud Computing - from top to bottom
+          ### Green Cloud Computing - from top to bottom <a href='/files/slides/Max-Koerbaecher-Green-Cloud-Computing.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -91,7 +91,7 @@ schedule:
           company: "ETH Zürich"
           talk_link: "/talk/carbon-measurement-and-attribution-linux-kernel"
           content : "
-          ### Carbon measurement and attribution for processes and hardware devices in the Linux kernel
+          ### Carbon measurement and attribution for processes and hardware devices in the Linux kernel <a href='/files/slides/Aditya_Eco_Compute_Munich_2024.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -106,7 +106,7 @@ schedule:
           company: "RETIT GmbH"
           talk_link: "/talk/how-to-measure-co2-emissions-api-call-microservice/"
           content : "
-          ### How to measure CO2 emissions for every API call of your microservices
+          ### How to measure CO2 emissions for every API call of your microservices <a href='/files/slides/2024-04-25_How_to_Measure_CO2-Emissions_For_Every_API_Call_Of_Your_Microservices.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -121,7 +121,7 @@ schedule:
           company: "Nordic Institute for Interoperability Solutions (NIIS)"
           talk_link: "/talk/evaluating-the-environmental-footprint-of-x-road/"
           content : "
-          ### Evaluating the environmental footprint of X-Road
+          ### Evaluating the environmental footprint of X-Road <a href='/files/slides/Petteri_Kivimaeki-Evaluating_the_Environmental_Footprint_of_X-Road.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -140,7 +140,7 @@ schedule:
           company: "University of Stuttgart"
           talk_link: "/talk/energieeffizienz-backend-architektur-monolith-vs-microservices/"
           content : "
-          ### Energieeffizienz verschiedener Backend-Architekturstile: Monolith vs. Microservices
+          ### Energieeffizienz verschiedener Backend-Architekturstile: Monolith vs. Microservices <a href='/files/slides/David_Kopp-Microservices-vs-Monolith.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇩🇪
@@ -154,7 +154,7 @@ schedule:
           company: "Adesso SE"
           talk_link: "/talk/green-ai-case-study-decarbonizing-ai-system/"
           content : "
-          ### Green AI - Case-Study: Decarbonising an AI system
+          ### Green AI - Case-Study: Decarbonising an AI system <a href='/files/slides/Green_AI_Case_Study.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -184,7 +184,7 @@ schedule:
           company: "HTW Berlin"
           talk_link: "/talk/where-is-the-green-mindset/"
           content : "
-          ### Where is the green in the mindset? Improving awareness for green coding  in the software development process
+          ### Where is the green in the mindset? Improving awareness for green coding  in the software development process <a href='/files/slides/Majuntke-Verena_EcoCompute.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -198,7 +198,7 @@ schedule:
           company: "Ingenics Digital GmbH"
           talk_link: "/talk/energy-efficient-ai-signal-processing-embedded/"
           content : "
-          ### Energy-Efficient AI and Signal Processing in Embedded Systems
+          ### Energy-Efficient AI and Signal Processing in Embedded Systems <a href='/files/slides/Ludwig-Kuerzinger-2024-04-25_Energy-efficient-embedded-AI.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -239,7 +239,7 @@ schedule:
           company: "MaibornWolff GmbH"
           talk_link: "/talk/devsusops-integrating-sustainability/"
           content : "
-          ### DevSusOps - integrate sustainability into every step of the DevOps-Cycle
+          ### DevSusOps - integrate sustainability into every step of the DevOps-Cycle <a href='/files/slides/2024-04-25_Jochen-Joswig_DevSusOps.pdf'><i class='tf-ion-android-download'></i></a>
           "
         - time : "13:45 - 14:30"
           image : "images/teams/carsten-windler-small.webp"
@@ -249,7 +249,7 @@ schedule:
           company: "Plan A"
           talk_link: "/talk/navigating-the-green-path/"
           content : "
-          ### Navigating the Green Path: Plan A's Journey to Sustainable IT
+          ### Navigating the Green Path: Plan A's Journey to Sustainable IT <a href='/files/slides/Carsten_Windler_Navigating_the_Green_Path.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -263,7 +263,7 @@ schedule:
           company: "Green Coding Solutions"
           talk_link: "/talk/energy-saving-techniques-for-modern-cloud-and-on-prem-software/"
           content : "
-          ### Energy saving techniques for modern cloud and on-prem software
+          ### Energy saving techniques for modern cloud and on-prem software <a href='/files/slides/Arne-Tarara-Energy-Saving-Techniques.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -283,7 +283,7 @@ schedule:
           company: "Ex-Microsoft"
           talk_link: "/talk/carbon-aware-computing-insights-from-ubs/"
           content : "
-          ### Carbon Aware Computing – Insights from the UBS project which created the GSF Carbon Aware SDK
+          ### Carbon Aware Computing – Insights from the UBS project which created the GSF Carbon Aware SDK <a href='/files/slides/UBS-Carbon-Aware-Computing-Christian-Binder-V1.pdf'><i class='tf-ion-android-download'></i></a>
           "
         - time : "16:15 - 17:00"
           image : "images/teams/anita-schuettler-small.webp"
@@ -293,7 +293,7 @@ schedule:
           company: "neuland - Büro für Informatik GmbH"
           talk_link: "/talk/real-projects-real-problems-to-solve/"
           content : "
-          ### Real projects - real problems to solve
+          ### Real projects - real problems to solve <a href='/files/slides/Real_Projects_Real_Problems.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -331,7 +331,7 @@ schedule:
           company: "QAware GmbH"
           talk_link: "/talk/fast-and-frugal-microservices-at-race/"
           content : "
-          ### The Fast and the Frugal: Microservices at Race
+          ### The Fast and the Frugal: Microservices at Race <a href='/files/slides/The_Fast_and_the_Frugal-Microservices_at_Race.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -346,7 +346,7 @@ schedule:
           company: "metafinanz Informationssysteme GmbH"
           talk_link: "/talk/optimizing-for-sustainability/"
           content : "
-          ### Optimizing for Sustainability: Demonstrating Advanced Scanning, Energy Consumption Analysis, and AI-Driven Enhancement of IT Applications
+          ### Optimizing for Sustainability: Demonstrating Advanced Scanning, Energy Consumption Analysis, and AI-Driven Enhancement of IT Applications <a href='/files/slides/Eric_Jochum_20231116_Green_IT_MMIGIT.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -384,7 +384,7 @@ schedule:
           company: "Leafcloud"
           talk_link: "/talk/cutting-through-the-noise/"
           content : "
-          ### Cutting through the noise: the physics behind cloud sustainability
+          ### Cutting through the noise: the physics behind cloud sustainability <a href='/files/slides/David-Kohnstamm-simplifying-waste-heat-utilization-in-cloud-computing.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -397,7 +397,7 @@ schedule:
           company: "23 Technologies / Cloud&Heat Technologies"
           talk_link: "/talk/approaches-for-ecological-transparency-in-open-source-cloud-infrastructures/"
           content : "
-          ### Approaches for Ecological Transparency in Open Source Cloud Infrastructures
+          ### Approaches for Ecological Transparency in Open Source Cloud Infrastructures <a href='/files/slides/Max-Boettcher-Eco-compute.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -410,7 +410,7 @@ schedule:
           company: "Lufthansa Industry Solutions"
           talk_link: "/talk/determine-software-emissions/"
           content : "
-          ### Determine software emissions
+          ### Determine software emissions <a href='/files/slides/LHIND_Determine_Software_emissions.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -429,7 +429,7 @@ schedule:
           designation: "CEO & Software Developer"
           company: "Green Coding Solutions"
           content : "
-          ### Automated measurement and green optimizations for software (SCI / Blue Angel for Software / CI/CD )
+          ### Automated measurement and green optimizations for software (SCI / Blue Angel for Software / CI/CD ) <a href='/files/slides/2024_04_25_EcoCompute_Workshop.pdf'><i class='tf-ion-android-download'></i></a>
           "
         - time : "12:00 - 15:00"
           image : "images/teams/hagen-pfeifer-small.webp"

@@ -16,3 +16,6 @@ Anita works as a Green Coding consultant with IT companies of different sizes. S
  
 Anita will share insights and stories from her work: How to get clients to start Green Coding initiatives even if they're not yet interested. Where to start looking for savings potential and how to go about estimating it. What to do if a measuring tool shows numbers that seem too small to be true. And how to make sure people not only cooperate for as long as you're there but also keep on going after you've left - to guarantee this change will truely be "sustainable".
 
+## Slides
+
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/Real_Projects_Real_Problems.pdf)

@@ -27,3 +27,6 @@ As seen in the groundbreaking documentary: Clouded II Does Cloud Co$t the Earth?
 
 https://www.clouded.tv/
 
+## Slides
+
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/David-Kohnstamm-simplifying-waste-heat-utilization-in-cloud-computing.pdf)

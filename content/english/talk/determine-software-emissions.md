@@ -19,3 +19,6 @@ In this talk, we will provide insights into how to measure the emissions of a so
 
 Overall, this presentation will provide a comprehensive overview of the process of emission measurement.
  
+## Slides
+
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/LHIND_Determine_Software_emissions.pdf)
