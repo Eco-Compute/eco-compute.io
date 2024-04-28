@@ -1,5 +1,5 @@
 ---
-title: "Cutting through the noise: the physics behind cloud sustainability 🇬🇧"
+title: "How to build truly sustainable cloud, the easy way 🇬🇧"
 date: 2024-01-25T00:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"

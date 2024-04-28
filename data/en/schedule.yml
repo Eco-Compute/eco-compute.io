@@ -382,9 +382,9 @@ schedule:
           speaker_name: "David Kohnstamm"
           designation: "Co-Founder & Chief Sustainability Officer"
           company: "Leafcloud"
-          talk_link: "/talk/cutting-through-the-noise/"
+          talk_link: "/talk/truly-sustainable-cloud/"
           content : "
-          ### Cutting through the noise: the physics behind cloud sustainability <a href='/files/slides/David-Kohnstamm-simplifying-waste-heat-utilization-in-cloud-computing.pdf'><i class='tf-ion-android-download'></i></a>
+          ### How to build truly sustainable cloud, the easy way <a href='/files/slides/David-Kohnstamm-simplifying-waste-heat-utilization-in-cloud-computing.pdf'><i class='tf-ion-android-download'></i></a>
           "
           labels:
             - 🇬🇧
@@ -442,7 +442,7 @@ schedule:
           "
         - time : "12:00 - 15:00"
           image : "images/teams/verena-majuntke-small.webp"
-          speaker_link: "/speaker/hagen-pfeifer"
+          speaker_link: "/speaker/verena-majuntke"
           speaker_name: "Verena Majuntke / Anita Schüttler"
           designation: "Prof. Software Engineering / Sustainability Lead "
           company: "HTW Berlin / neuland – Büro für Informatik GmbH"
