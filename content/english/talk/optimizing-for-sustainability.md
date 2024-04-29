@@ -18,4 +18,4 @@ Enhancing the software's performance by implementing optimizations derived from 
 
 ## Slides
 
-[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/Eric_Jochum_20231116_Green_IT_MMIGIT.pdf)
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/Eric_Jochum_20231116_Green_IT_MMIGIT_new.pdf)
