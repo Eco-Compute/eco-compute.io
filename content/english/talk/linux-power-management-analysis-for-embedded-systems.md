@@ -31,3 +31,8 @@ understanding of concepts such as processes and interrupts.
 
 Even if the talk focuses on an embedded system, the knowledge provided can,
 with a few exceptions, also be transferred to a server system.
+
+
+## Slides
+
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/Hagen-Pfeifer-eco-compute-linux-power-analysis.pdf)

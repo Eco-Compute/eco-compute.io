@@ -18,3 +18,7 @@ Then this talk is for you!
 I will show you how OpenTelemetry can be used to collect the necessary data to calculate the CO2 emissions for each API call of your microservices. Since OpenTelemetry is compatible with a wide range of data storage and analysis tools, you can use open source tools like Prometheus and Grafana to build dashboards or alerts based on the collected data.
 
 I will conclude the talk with a demo showing a CO2 emissions dashboard for each API call of Java-based microservices written in Quarkus and Spring.
+
+## Slides
+
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/2024-04-25_How_to_Measure_CO2-Emissions_For_Every_API_Call_Of_Your_Microservices.pdf)

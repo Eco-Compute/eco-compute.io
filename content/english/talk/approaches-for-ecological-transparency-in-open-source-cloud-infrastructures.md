@@ -20,3 +20,6 @@ The talk will provide an overview of which data can be collected and made availa
 
 Additionally, the talk addresses optimization options based on energy metrics and concludes with an outlook on further work in this domain.
 
+## Slides
+
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/Max-Boettcher-Eco-compute.pdf)

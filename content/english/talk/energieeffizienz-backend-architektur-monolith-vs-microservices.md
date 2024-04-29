@@ -18,3 +18,7 @@ Als Grundlage des Talks dient meine Masterarbeit, die ich zurzeit im Studiengang
 
 Der volle Titel der Masterarbeit lautet:\
 Towards Understanding the Energy Efficiency of Different Software Architecture Styles in Cloud-Based Environments: A Case Study Comparing Microservices and Modular Monolith Based on Two Variants of an Example System
+
+## Slides
+
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/David_Kopp-Microservices-vs-Monolith.pdf)

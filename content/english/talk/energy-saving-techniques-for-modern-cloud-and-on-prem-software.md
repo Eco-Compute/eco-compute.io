@@ -24,3 +24,7 @@ Techniques looked at in this talk include:
 - Low hanging fruits / quick wins for cabon optimizations
 
 The techniques will be looked with concrete examples of public open source projects to reproduce / replay the cases.
+
+## Slides
+
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/Arne-Tarara-Energy-Saving-Techniques.pdf)

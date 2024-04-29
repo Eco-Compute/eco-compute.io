@@ -25,3 +25,7 @@ We will also examine the differences between software environments used for neur
 Emerging methods that offer automatic, device-specific optimizations are making it easier to deploy AI algorithms in embedded systems more efficiently. 
 Considering energy consumption during the design phase of these algorithms is essential. 
 By tackling these challenges, we aim to unlock new applications and expand the possibilities within the fields of embedded systems and signal processing.
+
+## Slides
+
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/Ludwig-Kuerzinger-2024-04-25_Energy-efficient-embedded-AI.pdf)

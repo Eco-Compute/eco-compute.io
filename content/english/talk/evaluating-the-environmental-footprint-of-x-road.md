@@ -23,3 +23,4 @@ The calculations used in the process were derived from peer-reviewed literature 
 
 In my talk, I'm going to give an overview of X-Road first. Then, I'm going to discuss the research project, its different phases and deliverables. The main scope of the presentation is to discuss how to evaluate environmental footprint of an open-source software and what are the key elements that affect the result.
 
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/Petteri_Kivimaeki-Evaluating_the_Environmental_Footprint_of_X-Road.pdf)

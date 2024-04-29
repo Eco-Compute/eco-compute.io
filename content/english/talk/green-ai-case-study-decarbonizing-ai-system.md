@@ -16,3 +16,6 @@ The talk uses a real-life example to show how AI systems can cause less environm
 
 After the presentation, the audience will have a general overview of the relevant fields of action in the area of sustainable AI and will be able to name the most effective and low-threshold methods. The talk is aimed at developers who have a basic understanding of the development of AI systems. However, the content is also understandable without specific AI experience.
 
+## Slides
+
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/Green_AI_Case_Study.pdf)

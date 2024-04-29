@@ -20,3 +20,7 @@ The aim is to raise awareness among software development teams about the importa
 I will discuss how these tools can be integrated into workflows, enabling continuous evaluation and improvement of software sustainability. 
 
 This approach will guide teams in consistently measuring their software's sustainability and identifying effective strategies for improvement.
+
+## Slides
+
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/Majuntke-Verena_EcoCompute.pdf)

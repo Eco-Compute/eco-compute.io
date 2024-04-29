@@ -15,3 +15,7 @@ type : "talk"
 Conducting a thorough analysis of an open-source software to identify environmental inefficiencies by scanning the codebase and pinpointing areas of energy-intensive operation. 
 
 Enhancing the software's performance by implementing optimizations derived from an advanced AI model and measuring the application's energy consumption before and after the application of these improvements to quantify the achieved enhancements in sustainability.
+
+## Slides
+
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/Eric_Jochum_20231116_Green_IT_MMIGIT_new.pdf)
