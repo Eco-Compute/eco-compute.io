@@ -16,3 +16,6 @@ Sustainability is a key part of our strategy at Siemens. Currently there are man
 
 In this presentation, we introduce the Sustainable Software Engineering Framework which is a general approach for assessing resource consumption of software and, consequently, recommending improvement measures at Siemens. The framework exploits the levers for improving software sustainability such as architecture, data, hardware resources and energy sources. In order to create transparency on the footprint of software products, the framework provides different methods for measuring or estimating the energy consumption of software products from using power meters up to model-based estimation of power needs. 
 
+## Slides
+
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/CCT_SSP_SustainableSWEngineering_EcoCompute.pdf)
