@@ -3,8 +3,8 @@ banner:
   enable : true
   title : "EcoCompute Conference 2024"
   bg_image: "images/banner/banner-2.webp"
-  date_time : "April 25 - 26"
-  location : "House of Communication, Munich, Germany"
+  date_time : "It was a blast!"
+  location : "EcoCompute 2024 is over - Register for the newsletter to get updates for 2025!!"
 
 ############################# tagline ################################
 tagline:
@@ -19,7 +19,7 @@ tagline:
 
 ########################## timer #################################
 timer:
-  enable : true
+  enable : false
   title : "**Count the days** <br> until conference start"
   # set timer
   year: "2024"
@@ -31,7 +31,7 @@ timer:
 newsletter:
   enable : true
   title : "**Newsletter**"
-  sub_title: "Get conference updates"
+  sub_title: "Get updates for 2025"
   button: "Get Updates"
 
 ############################## Event ##############################
@@ -58,7 +58,7 @@ cta:
   title : "Meet top **experts** <br> & industry heads in a unique **2-days** experience."
   image : "images/banner/rev-slider-09.webp"
   button:
-    enable : true
+    enable : false
     label : "get your ticket"
     link : "/#pricing"
 
