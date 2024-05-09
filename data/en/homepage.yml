@@ -171,7 +171,7 @@ partners:
           background: "#fff"
 
         - logo : "images/clients/ieee_cc.webp"
-          link : "https://itcc.ieee.org "
+          link : "https://itcc.ieee.org"
           background: "#fff"
 
 
@@ -215,7 +215,7 @@ sponsor:
       css_class: "silver"
       sponsor:
         - logo : "images/clients/ieee_cc.webp"
-          link : "https://itcc.ieee.org "
+          link : "https://itcc.ieee.org"
           background: "#fff"
 
 
