@@ -95,5 +95,5 @@ bg_image : "images/bg/cta-bg.webp"
 <h5 id="plausibleio">PLAUSIBLE.IO</h5>
 <p>Wir verwenden den in der EU ansässigen Drittanbieter Plausible.io zum Tracking unserer Webseiten-Benutzer.</p>
 <p>Das Tracking Script setzt keine Cookies und speichert keine personenbezogenen Daten.</p>
-<p>Data-Policy</a>&nbsp;des Anbieters.</p>
+<p>Hier finden Sie finden die [Datenschutzerklärung](https://plausible.io/privacy) und die [Data-Policy](https://plausible.io/data-policy) des Anbieters.</p>
 <p>https://www.e-recht24.de</a></p>
