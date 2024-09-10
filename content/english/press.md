@@ -23,8 +23,7 @@ Für eine Presseakkreditierung sind BerichterstatterInnen aus allen Medienbereic
 
 Sie möchten die erste Tech-Konferenz zur digitalen Nachhaltigkeit in Hardware und Software besuchen und eventuell darüber berichten?
 
-Bitte nutzen Sie das untenstehende Formular oder kontaktieren Sie uns via E-Mail an info@eco-compute.io. 
-Für weitere Informationen und Anfragen steht Ihnen auch Petra Rulsch als Ansprechpartnerin zur Verfügung.
+Bitte nutzen Sie das untenstehende Formular oder kontaktieren Sie uns via E-Mail an <a href="mailto:info@eco-compute.io">info@eco-compute.io</a>
 
 Wir melden uns schnellstmöglich zurück.
 
@@ -68,25 +67,7 @@ Wir melden uns schnellstmöglich zurück.
                     </div>
                 </div>
             </form>
-        </div>
-        <div class="col">
-            <div class="container">
-                <div class="row">
-                    <div class="col">
-                        <h3>Medienkontakt</h3>
-                        <h4>Petra Rulsch</h4>
-                        <p>Kontakt: <a href="mailto:pr@petra-rulsch.com">E-Mail</a> / <a href="https://www.linkedin.com/in/petrarulsch/">LinkedIn</a></p>
-                    </div>
-                    <div class="col">
-                        <div class="time-table">
-                            <div class="content-img text-lg-right">
-                                <img src="https://www.green-coding.io/img/team/petra.webp" alt="" class="img-fluid" loading="lazy">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        </div>        
     </div>
 </div>
 <script>
