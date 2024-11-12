@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.eco-compute.io/"
+baseURL = "https://eco-compute-2025.eco-compute-io.pages.dev/"
 title = "EcoCompute Conference 2025"
 theme = "vixcon-hugo"
 # post pagination
