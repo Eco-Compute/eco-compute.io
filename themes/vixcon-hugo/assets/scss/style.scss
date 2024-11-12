@@ -128,7 +128,7 @@ Responsive
 }
 .navbar-brand{
   color: #444;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .feature-box, .feature-box h4 {
@@ -278,4 +278,33 @@ h3#track-1, h3#track-2, h3#track-1---talks-only, h3#track-2---talks--workshops {
     @include desktop {
         padding: 50px 20px;
     }
+}
+
+.ui.warning.message {
+    width: 80%;
+    margin: 16px auto;
+    position: relative;
+    min-height: 1em;
+    background: #f8f8f9;
+    padding: 1em 1.5em;
+    line-height: 1.4285em;
+    transition: opacity .1s ease,color .1s ease,background .1s ease,box-shadow .1s ease;
+    border-radius: .28571429rem;
+    font-size: 1em;
+    background-color: #fff8db;
+    color: #b58105;
+    box-shadow: 0 0 0 1px #b58105 inset,0 0 0 0 transparent;
+
+}
+.ui.warning.message .header {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    line-height: 1.4285em;
+    box-sizing: inherit;
+    display: block;
+    font-weight: 700;
+    margin: -.14285714em 0 0 0;
+    margin-bottom: 0;
+    font-size: 1.14285714em;
+    color: #794b02;
 }

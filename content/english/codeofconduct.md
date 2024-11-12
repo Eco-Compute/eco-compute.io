@@ -2,7 +2,7 @@
 title: "Code of Conduct"
 date: 2019-09-10T13:51:25+06:00
 draft: false
-description: "Code of Conduct for the EcoCompute Conference 2024 in Munich, Germany"
+description: "Code of Conduct for the EcoCompute Conference"
 bg_image : "images/bg/cta-bg.webp"
 ---
 

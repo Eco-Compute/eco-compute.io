@@ -1,9 +1,9 @@
 ######################## default configuration ####################
 baseURL = "https://www.eco-compute.io/"
-title = "EcoCompute Conference 2024"
+title = "EcoCompute Conference 2025"
 theme = "vixcon-hugo"
 # post pagination
-paginate = "4"
+pagination.pagerSize = "4"
 # post excerpt
 summaryLength = "10"
 # disqus short name
@@ -16,7 +16,7 @@ disableLanguages = [] # desable language from here
 home = ["HTML", "RSS", "JSON"]
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
 
 ############################# Plugins ##############################
 # CSS Plugins
@@ -49,12 +49,12 @@ link = "plugins/syotimer/syotimer.min.js"
 
   [[menu.main]]
   name = "Schedule"
-  URL = "/schedule"
+  URL = "/schedule/2025"
   weight = 3
 
   [[menu.main]]
   name = "Speakers"
-  URL = "/speakers"
+  URL = "/speakers/2025"
   weight = 4
 
   [[menu.main]]
@@ -100,6 +100,12 @@ link = "plugins/syotimer/syotimer.min.js"
     name = "Contact"
     URL = "/contact"
 
+    [[menu.main]]
+    parent = "More"
+    name = "Previous years"
+    URL = "/previous-years"
+
+
 
 
 #################### default parameters ################################
@@ -107,7 +113,7 @@ link = "plugins/syotimer/syotimer.min.js"
 logo = "images/logo-2.webp"
 home = "Home"
 # Meta data
-description = "EcoCompute is the first engineering conference on sustainability in hardware & software"
+description = "EcoCompute - The biggest engineering conference on sustainability in hardware & software"
 author = "Green Coding Solutions GmbH"
 # email address
 email = "info@eco-compute.io"
@@ -181,7 +187,7 @@ home = "Home"
 footer_content = "Let's create digital sustainable solutions<br>-<br><a href='/impressum'>Impressum</a> <a href='/datenschutz'>Datenschutz</a>"
 
 # copyright
-copyright = "Copyright &copy; 2023 Green Coding Solutions"
+copyright = "Copyright &copy; 2024 Green Coding Solutions"
 
 
 ################################### French language #####################################

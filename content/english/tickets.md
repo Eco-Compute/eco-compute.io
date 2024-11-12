@@ -2,16 +2,11 @@
 title: "Get your ticket now"
 date: 2019-09-10T13:51:25+06:00
 draft: true
-description: "Ticket sales for the EcoCompute Conference 2024 in Munich, Germany"
+description: "Ticket sales for the EcoCompute Conference 2025 in Berlin, Germany"
 bg_image : "images/bg/cta-bg.webp"
 ---
 
 ## Buy a ticket
-
-You can now buy a ticket for the early bird price of 150 Euro. As the location is not confirmed we will be sending out
-invoices in Q1 2024
-
-We have a limited amount of [Grant Tickets](/grants/) available.
 
 <div class="alert alert-info d-none" role="alert" id="form-status">
 </div>

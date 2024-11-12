@@ -3,14 +3,14 @@ banner:
   enable : true
   title : "EcoCompute Conference"
   bg_image: "images/banner/banner-2.webp"
-  date_time : "It was a blast!"
+  date_time : "November 2025"
   location : "EcoCompute 2024 was just the beginning - Register for the newsletter to get updates for 2025!!"
 
 ############################# tagline ################################
 tagline:
   enable : true
   subtitle : ""
-  title : "The first engineering conference on **sustainability** in **hardware** & **software**"
+  title : "The biggest engineering conference on **sustainability** in **hardware** & **software**"
   button:
     enable : true
     label : "Find out more"
@@ -19,13 +19,13 @@ tagline:
 
 ########################## timer #################################
 timer:
-  enable : false
+  enable : true
   title : "**Count the days** <br> until conference start"
   # set timer
-  year: "2024"
-  month: "04"
-  day: "25"
-  hour: "09"
+  year: "2025"
+  month: "11"
+  day: "01"
+  hour: "01"
 
 ########################## timer #################################
 newsletter:
@@ -93,6 +93,42 @@ feature:
       We as technologists that create hardware and software want to create a conference with the aim to present solutions to achieve this goal.
 "
 
+testimonials:
+  enable: true
+  title: "What guests are saying"
+  subtitle: "Testimonials and shout outs"
+  testimonials:
+
+    - name : "Christian Binder"
+      image : "/images/teams/christian-binder-small.webp"
+      designation: "2024 Speaker & Attendee"
+      review: "The EcoCompute marks the spearhead of sustainable patterns and delivers inspiration to enable the most sustainable solutions."
+
+
+    - name : "David Kopp"
+      image : "/images/teams/david-kopp-small.webp"
+      designation: "Envite Consulting"
+      review: "EcoCompute is the best conference for learning best practices for greening IT and networking with like-minded people."
+
+    - name : "Eric Jochum"
+      image : "/images/teams/ghazal-aakel-and-eric-jochum-small.webp"
+      designation: "Envite Consulting"
+      style: "dark"
+      review: "The Eco-Compute was one of our most impressive events in 2024. We had a lot of connections to other GreenIT-Enthusiasts and had the option to listen to exciting talks and it was a perfect place for GreenIT networking."
+
+    - name : "Anon"
+      designation: "2024 Attendee"
+      review: "The concept with food choice, badges that grow plants, the organisers gained trust I think - Separates this from more green-washing events."
+      style: "dark"
+
+
+
+    - name : "Anon"
+      image : "2024 Attendee"
+      designation: "2024 Attendee"
+      review: "I loved meeting as these people and getting multiple perspectives on the topic."
+
+
 
 ####################### Schedule #############################
 schedule:
@@ -106,7 +142,7 @@ pricing:
 
 ########################## speaker ##########################
 cfs:
-  enable : true
+  enable : false
   title_outline : "Speakers"
   #title : "Call for Speakers"
   #content : ""
@@ -117,9 +153,9 @@ cfs:
 
 ########################## speaker ##########################
 speaker:
-  enable : true
+  enable : false
 #  title_outline : "Speakers"
-  title : "EcoCompute 2024 Speakers"
+  title : "EcoCompute Speakers"
   content : ""
   # speaker content comes from "content/speaker" folder
 
@@ -135,9 +171,9 @@ partners:
           link : "https://www.green-coding.io"
           background: "#2b3e50"
 
-        - logo : "images/clients/RS.webp"
-          link : "https://www.rohde-schwarz.com"
-          background: "#fff"
+        # - logo : "images/clients/RS.webp"
+        #   link : "https://www.rohde-schwarz.com"
+        #   background: "#fff"
 
         - logo : "images/clients/HTW.webp"
           link : "https://www.htw-berlin.de/"
@@ -152,33 +188,33 @@ partners:
           background: "#fff"
 
 
-    - title : "Content & Network Partners"
-      partner:
+    # - title : "Content & Network Partners"
+    #   partner:
 
-        - logo : "images/clients/SDIA.webp"
-          link : "https://sdialliance.org/"
+    #     - logo : "images/clients/SDIA.webp"
+    #       link : "https://sdialliance.org/"
 
-        - logo : "images/clients/uba.webp"
-          link : "https://www.umweltbundesamt.de/"
-          background: "#5EAD35"
+    #     - logo : "images/clients/uba.webp"
+    #       link : "https://www.umweltbundesamt.de/"
+    #       background: "#5EAD35"
 
-        - logo : "images/clients/Green-Web-Foundation-logo.webp"
-          link : "https://www.thegreenwebfoundation.org/"
-          background: "#fff"
+    #     - logo : "images/clients/Green-Web-Foundation-logo.webp"
+    #       link : "https://www.thegreenwebfoundation.org/"
+    #       background: "#fff"
 
-        - logo : "images/clients/lfca.webp"
-          link : "https://www.lfca.earth/"
-          background: "#fff"
+    #     - logo : "images/clients/lfca.webp"
+    #       link : "https://www.lfca.earth/"
+    #       background: "#fff"
 
-        - logo : "images/clients/ieee_cc.webp"
-          link : "https://itcc.ieee.org"
-          background: "#fff"
+    #     - logo : "images/clients/ieee_cc.webp"
+    #       link : "https://itcc.ieee.org"
+    #       background: "#fff"
 
 
 
 ######################### sponsor ############################
 sponsor:
-  enable :  true
+  enable :  false
   title_outline : "Sponsors"
   title : "Amazing Partners & Sponsors"
   sponsor_group:
@@ -243,17 +279,18 @@ sponsor:
 venue:
   enable : true
   title : "Venue location"
-  image : "images/bg/house-of-communication.webp"
-  date : "April 25 - 26"
-  location : "[House of Communication, Munich, Germany](https://maps.app.goo.gl/zaYBdx5Gst9Pt5VG8)"
+  image : "images/bg/berlin-2025-1x.webp"
+  image_2x : "images/bg/berlin-2025-2x.webp"
+  date : "November 2025"
+  location : "Berlin, Germany - Details TBA"
   button:
     enable : true
     label : "Location on Google Maps"
-    link : "https://maps.app.goo.gl/zaYBdx5Gst9Pt5VG8"
+    link : "-"
   button_2:
     enable : true
     label : "See walking path map"
-    link : "/images/walking_path.webp"
+    link : "-"
 
 ############################### Blog ######################################
 blog:

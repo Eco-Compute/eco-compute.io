@@ -5,7 +5,7 @@ faq:
   content : "Please find attached a list of questions we get asked a lot or things we think that should be clarified"
   faq_item:
     # faq item loop
-    - title : Can I sponsor EcoCompute 2024?"
+    - title : Can I sponsor EcoCompute?"
       content : "Yes, we have limited sponsorship opportunities for the conference. Please request more information by contacting: sponsors@eco-compute.io"
 
     # faq item loop

@@ -176,9 +176,56 @@
 {{ end }}
 <!-- /feature -->
 
+<!-- feature -->
+{{ if $data.homepage.testimonials.enable }}
+{{ with $data.homepage.testimonials }}
+<section id="section-testimonials">
+  <div class="container">
+    <div class="row section-heading">
+        <div class="heading">
+          <div class="pl-90">
+            <h2 class="mt-2">{{ .subtitle | markdownify }}</h2>
+            <p>{{ .content | markdownify }}</p>
+          </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+
+      {{ $iterator_index := 1 }}
+
+      <div class="innerdiv">
+      {{ range .testimonials }}
+          <div class="div{{ $iterator_index }} eachdiv">
+            <div class="userdetails">
+              <div class="imgbox">
+                <img src="{{ .image }}" alt="">
+              </div>
+              <div class="detbox">
+                <p class="name {{ .style }}">{{ .name }}</p>
+                <p class="designation {{ .style }}">{{ .designation }}</p>
+              </div>
+            </div>
+            <div class="review {{ .style }}">
+              <h4>{{ .review }}</h4>
+            </div>
+          </div>
+          {{ $iterator_index = add $iterator_index 1 }}
+      {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /feature -->
+
 <!-- schedule -->
 {{ if $data.homepage.schedule.enable }}
 {{ partial "schedule.html" . }}
+{{ else }}
 {{ end }}
 <!-- /schedule -->
 
@@ -196,6 +243,8 @@
 
 <!-- speaker -->
 {{ if $data.homepage.speaker.enable }}
+{{ $speaker_year := .Page.Params.speaker_year }}
+{{ $path_prefix := printf "speaker/%s" $speaker_year }}
 <section id="speakers" class="section-speaker">
   <div class="container">
     {{ with $data.homepage.speaker }}
@@ -213,22 +262,24 @@
     {{ end }}
     <div class="row">
       {{ range (where .Site.RegularPages "Type" "speaker") }}
-      <div class="col-lg-4 col-sm-6">
-        <div class="speaker-block mb-5">
-          <div class="img-block">
-            <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" class="img-fluid" loading="lazy">
-            <ul class="list-inline speaker-social">
-              {{ range .Params.Social }}
-              <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-              {{ end }}
-            </ul>
+          {{ if (strings.HasPrefix .File.Path $path_prefix) }}
+          <div class="col-lg-4 col-sm-6">
+            <div class="speaker-block mb-5">
+              <div class="img-block">
+                <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" class="img-fluid" loading="lazy">
+                <ul class="list-inline speaker-social">
+                  {{ range .Params.Social }}
+                  <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+                  {{ end }}
+                </ul>
+              </div>
+              <div class="speaker-info">
+                <h4 class="mb-0 mt-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                <p>{{ .Params.Designation }} | {{ .Params.Company }}</p>
+              </div>
+            </div>
           </div>
-          <div class="speaker-info">
-            <h4 class="mb-0 mt-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-            <p>{{ .Params.Designation }} | {{ .Params.Company }}</p>
-          </div>
-        </div>
-      </div>
+          {{ end }}
       {{ end }}
     </div>
   </div>
@@ -250,7 +301,7 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="cta-img">
-          <img src="{{ .image | absURL }}" alt="" class="img-fluid" loading="lazy">
+          <img src="{{ .image_1x | absURL }}" srcset="{{ .image_2x | absURL }} 2x, {{ .image_1x | absURL }} 1x" alt="Berlin" class="img-fluid" loading="lazy">
           <div class="contact-info box-shadow">
             <h5 class="text-uppercase letter-spacing mb-4">{{ .title | markdownify }}</h5>
             <h6 class="text-color mb-3">{{ .date }}</h6>

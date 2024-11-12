@@ -1,8 +1,8 @@
 ---
 title: "Talks"
-date: 2019-09-10T13:51:25+06:00
+date: 2024-11-12T13:51:25+06:00
 draft: false
-description: "Talk listing for the EcoCompute Conference 2024 in Munich, Germany"
+description: "Talk listing for the EcoCompute Conference 2025 in Berlin, Germany"
 bg_image : "images/bg/cta-bg.webp"
 ---
 

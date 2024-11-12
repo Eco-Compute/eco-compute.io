@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ with $data.previous_years }}
+    {{ range .previous_years }}
+    <section class="previous-years-page section">
+        <div class="container">
+            <div class="row mt-5">
+                <div class="col-lg-6">
+                    <h2 class="mb-4 text-lg title">{{ .date | markdownify }}</h2>
+                    <h3>{{ .location | markdownify }}<h3>
+                </div>
+                <div class="col-lg-6">
+                    <p>{{ .title | markdownify }}</p>
+                    <p>-> <a href="/schedule/{{ .year }}">Schedule</a></p>
+                    <p>-> <a href="/speakers/{{ .year }}">Speakers</a></p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <hr>
+    {{ end }}
+{{ end }}
+
+{{ end }}
