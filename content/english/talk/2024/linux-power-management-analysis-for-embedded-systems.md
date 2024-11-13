@@ -11,6 +11,7 @@ talk_room: "Track 1"
 talk_date: "25.04.2024 09:30"
 
 type : "talk"
+outdated: true
 ---
 
 This presentation will discuss in detail the pitfalls from software design to

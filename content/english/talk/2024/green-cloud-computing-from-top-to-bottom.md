@@ -10,6 +10,7 @@ speaker_link: "speaker/max-koerbaecher/"
 talk_room: "Track 1"
 talk_date: "25.04.2024 10:15"
 type : "talk"
+outdated: true
 ---
 
 By leveraging efficient infrastructure management, innovative technologies and platform engineering as centre of excellence we are able to define a strategic approach to minimising the environmental impact of digital systems. Let's explore which practices, such as containerisation/Kubernetes, distributed ledger systems (ICP), and cloud computing, can improve resource utilisation, reduce energy consumption, and lower overall carbon emissions.

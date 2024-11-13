@@ -10,6 +10,7 @@ speaker_link: "speaker/max-schulze/"
 talk_room: "Track 2"
 talk_date: "25.04.2024 11:30"
 type : "talk"
+outdated: true
 ---
 
 As the digital economy is expanding, touching every aspect of society, the importance of values within the digital products & services is becoming more apparent. 

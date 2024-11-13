@@ -10,6 +10,7 @@ speaker_link: "speaker/anita-schuettler/"
 talk_room: "Track 2"
 talk_date: "25.04.2024 16:15"
 type : "talk"
+outdated: true
 ---
 
 Anita works as a Green Coding consultant with IT companies of different sizes. Some of them come seeking help because they have ESG based KPIs and want to reduce their IT's emissions, others don't even know yet that this is something they might want to do. Some run all of their workloads in the cloud, others have their own on prem data center. One thing they all seem to have in common, though: most of their devs are "sceptical" towards sustainability in IT.

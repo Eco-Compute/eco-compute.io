@@ -10,6 +10,7 @@ speaker_link: "speaker/yelle-lieder/"
 talk_room: "Track 1"
 talk_date: "25.04.2024 16:15"
 type : "talk"
+outdated: true
 ---
 
 The talk uses a real-life example to show how AI systems can cause less environmental impact with the same performance. Tried and tested tools will be presented to reduce the environmental impact of AI systems. The focus is explicitly not on general methods for green software, but on specific fields of action from the AI sector. 

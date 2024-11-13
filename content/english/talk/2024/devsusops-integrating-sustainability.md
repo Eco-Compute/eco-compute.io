@@ -11,6 +11,7 @@ talk_room: "Track 2"
 talk_date: "25.04.2024 13:00"
 
 type : "talk"
+outdated: true
 ---
 
 DevSusOps is an approach, which takes inspiration form DevSecOps, GreenOps and agile development practices. It enables software development professionals to incorporate environmental sustainability into their projects and deliver solutions, which their users and planet will love.

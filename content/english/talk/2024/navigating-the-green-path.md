@@ -11,6 +11,7 @@ talk_room: "Track 2"
 talk_date: "25.04.2024 13:45"
 
 type : "talk"
+outdated: true
 ---
 
 At Plan A, it is our daily business to measure and reduce our clients' emissions. However, we are also a tech company ourselves and face the same challenges in this space, such as blind spots in IT emissions.

@@ -10,6 +10,7 @@ speaker_link: "speaker/david-kohnstamm/"
 talk_room: "Track 2"
 talk_date: "26.04.2024 09:00"
 type : "talk"
+outdated: true
 ---
 
 We'll look at the actual footprint of a GPU for a year with back-of-the-envelope math and show how

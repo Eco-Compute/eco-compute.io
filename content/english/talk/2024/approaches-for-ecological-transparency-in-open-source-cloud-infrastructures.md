@@ -10,6 +10,7 @@ speaker_link: "speaker/christan-berendt-and-max-boettcher/"
 talk_room: "Track 2"
 talk_date: "26.04.2024 09:45"
 type : "talk"
+outdated: true
 ---
 
 Open source cloud infrastructures are inherently transparent about their internal workings, making them attractive for security and privacy sensitive domains. 

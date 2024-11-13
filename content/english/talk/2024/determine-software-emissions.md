@@ -11,6 +11,7 @@ talk_room: "Track 2"
 talk_date: "26.04.2024 10:30"
 
 type : "talk"
+outdated: true
 ---
 
 Do you know the CO2 footprint of your software?

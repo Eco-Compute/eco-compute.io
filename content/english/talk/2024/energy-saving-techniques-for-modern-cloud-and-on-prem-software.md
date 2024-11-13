@@ -11,6 +11,7 @@ talk_room: "Track 2"
 talk_date: "25.04.2024 14:30"
 
 type : "talk"
+outdated: true
 ---
 
 In this talk you will hear details about particular energy saving techniques that apply to modern cloud and on prem-software.

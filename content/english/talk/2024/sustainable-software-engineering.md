@@ -10,6 +10,7 @@ speaker_link: "speaker/carolin-rubner-and-birthe-boehm/"
 talk_room: "Track 1"
 talk_date: "26.04.2024 10:30"
 type : "talk"
+outdated: true
 ---
 
 Sustainability is a key part of our strategy at Siemens. Currently there are many activities within Siemens, many of them on the hardware and supply chain side. Since Software is an essential part of our Digitalization solutions and offerings, we also need tp contribute to our sustainability vision from a Software Engineering point of view as well. Green principles for Software Engineering are essential to establish Sustainability as a core built-in quality within our digitalization solutions and our Software Engineering organization. 

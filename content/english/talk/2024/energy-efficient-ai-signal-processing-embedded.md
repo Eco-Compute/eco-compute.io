@@ -10,6 +10,7 @@ speaker_link: "speaker/ludwig-kuerzinger/"
 talk_room: "Track 2"
 talk_date: "25.04.2024 10:15"
 type : "talk"
+outdated: true
 ---
 
 The rise of smart embedded systems marks a significant leap in technology, with uses extending from environmental monitoring to human-machine interaction. 

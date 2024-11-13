@@ -10,6 +10,7 @@ speaker_link: "speaker/david-kopp/"
 talk_room: "Track 1"
 talk_date: "25.04.2024 15:45"
 type : "talk"
+outdated: true
 ---
 
 Dieser kurze Talk beschäftigt sich mit dem Einfluss von Softwarearchitekturentscheidungen auf die Energieeffizienz von Web-Backend-Applikationen. Konkret werden hierfür die Architekturstile Monolith und Microservices mit ihren individuellen Eigenschaften miteinander verglichen. Außerdem wird in diesem Talk besprochen, wie die Energieeffizienz von Web-Applikationen analysiert werden kann.

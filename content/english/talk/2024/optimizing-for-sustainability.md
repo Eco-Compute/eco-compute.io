@@ -10,6 +10,7 @@ speaker_link: "speaker/ghazal-aakel-and-eric-jochum/"
 talk_room: "Track 1"
 talk_date: "26.04.2024 09:45"
 type : "talk"
+outdated: true
 ---
 
 Conducting a thorough analysis of an open-source software to identify environmental inefficiencies by scanning the codebase and pinpointing areas of energy-intensive operation. 

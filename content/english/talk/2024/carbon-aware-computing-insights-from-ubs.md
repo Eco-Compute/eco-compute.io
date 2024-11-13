@@ -11,6 +11,7 @@ talk_room: "Track 2"
 talk_date: "25.04.2024 15:45"
 
 type : "talk"
+outdated: true
 ---
 
 In this session I will share the learnings from the UBS project I have been working on as Technical Program Manager. 

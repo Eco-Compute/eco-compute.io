@@ -10,6 +10,7 @@ speaker_link: "speaker/andreas-brunnert/"
 talk_room: "Track 1"
 talk_date: "25.04.2024 13:45"
 type : "talk"
+outdated: true
 ---
 
 Have you ever wondered how much CO2 is emitted by a particular API call of your microservices?

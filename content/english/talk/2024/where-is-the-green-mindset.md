@@ -11,6 +11,7 @@ talk_room: "Track 2"
 talk_date: "25.04.2024 09:30"
 
 type : "talk"
+outdated: true
 ---
 
 In my presentation, I'll provide insights into the latest research and tools in software sustainability. 

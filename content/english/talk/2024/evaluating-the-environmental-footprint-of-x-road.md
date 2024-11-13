@@ -11,6 +11,7 @@ talk_room: "Track 1"
 talk_date: "25.04.2024 14:30"
 
 type : "talk"
+outdated: true
 ---
 
 X-Road® is open-source software and ecosystem solution that provides unified and secure data exchange between organisations. The basic idea of X-Road is that members of an ecosystem exchange data through access points (Security Servers) that implement the same technical specifications.

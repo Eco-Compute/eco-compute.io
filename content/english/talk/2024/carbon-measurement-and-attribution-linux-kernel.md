@@ -11,6 +11,7 @@ talk_room: "Track 1"
 talk_date: "25.04.2024 13:00"
 
 type : "talk"
+outdated: true
 ---
 
 This talk details the recent carbon measurement infrastructure developments in power subsystems in the Linux kernel. The objective is to determine the energy consumption and link it to carbon emissions of hardware devices and software applications (processes). 
