@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+    {{ $data := index .Site.Data .Site.Language.Lang }}
+
+
+    {{ $talk_year := .Page.Params.talk_year }}
+    {{ $path_prefix := printf "talk/%s" $talk_year }}
+
+   <br>
+    <section id="talks" class="section-talk">
+         <div class="container">
+        <div class="row section-heading">
+          <div class="col-lg-6">
+            <div class="heading">
+              <span class="stroke-text">Talks </span>
+              <div class="pl-90">
+                <h2>Talks for EcoCompute {{ $talk_year }}</h2>
+                <p>Click on the links for details</p>
+              </div>
+            </div>
+          </div>
+        </div>
+    </section>
+
+    {{ if eq .Page.Params.outdated true  }}
+        <div class="ui warning message">
+            <h2 class="header">Warning! - Outdated content</h2>
+            <p>You are watching the talks for a previous year!<br>
+            Please find the most current talks under: <a href="/talks" style="font-weight: bold; text-decoration: underline;">Current talks</a></p>
+        </div>
+    {{ end }}
+
+
+    <section id="talks" class="section-talk">
+      <div class="container">
+        <div class="row">
+          {{ range (where .Site.RegularPages "Type" "talk") }}
+            {{ if (strings.HasPrefix .File.Path $path_prefix) }}
+                  <div class="speaker-info">
+                    <h4 class="mb-0 mt-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                    <p>{{ .Params.Speaker_Name }} | {{ .Params.Speaker_Company }}</p>
+                  </div>
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+{{ end }}
