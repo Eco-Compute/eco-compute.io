@@ -2,6 +2,9 @@
 
 {{ $schedule_year := .Page.Params.schedule_year }}
 
+{{ $outdated := .Page.Params.outdated }}
+
+
 {{ with $schedule_year }}
     {{ with (index $data.schedule.schedule $schedule_year) }}
     <section class="section-schedule section">
@@ -18,6 +21,16 @@
           </div>
         </div>
       </div>
+
+
+    {{ if eq $outdated true  }}
+        <div class="ui warning message">
+            <h2 class="header">Warning! - Outdated content</h2>
+            <p>You are watching the schedule for a previous year!<br>
+            Please find the most current schedule under: <a href="/schedule" style="font-weight: bold; text-decoration: underline;">Current schedule</a></p>
+        </div>
+    {{ end }}
+
 
       <div class="container">
         <div class="row">

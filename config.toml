@@ -52,10 +52,10 @@ link = "plugins/syotimer/syotimer.min.js"
   URL = "/schedule/2025"
   weight = 3
 
-  [[menu.main]]
-  name = "Speakers"
-  URL = "/speakers/2025"
-  weight = 4
+#  [[menu.main]]
+#  name = "Speakers"
+#  URL = "/speakers/2025"
+#  weight = 4
 
   [[menu.main]]
   name = "Location"
