@@ -15,37 +15,35 @@ pricing:
     # pricing table loop
     - title : "Early"
       style : "1"
-      price : "150 EUR"
+      price : "-"
       icon : "tf-ion-android-bulb"
       bg_image : "images/bg/page-header.webp"
       services:
         - "Confirmed Reservation"
-        - "Payment in Q1/2024"
         - "Two Days Ticket 🎫"
         - "Coffee & Lunch ☕️ 🥙"
         - "Workshops 👩‍💻🧑🏾‍💻"
-        - "Conference Dinner"
-        - "Sustainable Conference Baggie 🌱<br><br>"
+        - "Conference Dinner 🍝 (limited addon)"
+        - "<u>Special **Thank you** on our<br> community supporters page</u>"
       button:
-        label : "Closed"
+        label : "Opens in Q1/2025"
         link : "#"
 
     # pricing table loop
     - title : "Regular"
       style : "2"
-      price : "250 EUR"
+      price : "-"
       icon : "tf-ion-play"
       bg_image : "images/bg/page-header.webp"
       services:
         - "Two Days Ticket 🎫"
         - "Coffee & Lunch ☕️ 🥙"
         - "Workshops 👩‍💻🧑🏾‍💻"
-        - "Sustainable Conference Baggie 🌱"
         - "Conference Dinner 🍝 (limited addon)"
         - "See our <a href='/grants'><u>grants page</u></a> for reduced price options<br><br>"
       button:
-        label : "Get Ticket"
-        link : "https://eco-compute-2024.eventbrite.com"
+        label : "Opens in Q2/2025"
+        link : "-"
 
     # pricing table loop
     - title : "Company"
@@ -57,7 +55,6 @@ pricing:
         - "Two Days Ticket 🎫"
         - "Coffee & Lunch ☕️ 🥙"
         - "Workshops included 👩‍💻🧑🏾‍💻"
-        - "Sustainable Conference Baggie 🌱"
         - "Conference Dinner 🍝 (limited addon)"
         - "Discounts for multiple tickets 😍"
         - "Sponsoring opportunities 🥳"

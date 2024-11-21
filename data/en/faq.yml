@@ -5,7 +5,7 @@ faq:
   content : "Please find attached a list of questions we get asked a lot or things we think that should be clarified"
   faq_item:
     # faq item loop
-    - title : Can I sponsor EcoCompute 2024?"
+    - title : "Can I sponsor EcoCompute?"
       content : "Yes, we have limited sponsorship opportunities for the conference. Please request more information by contacting: sponsors@eco-compute.io"
 
     # faq item loop
@@ -31,7 +31,7 @@ faq:
       content : "Tickets may be transferred to another attendee free of charge up to 7 days before the start of the conference."
 
     - title : "Do you offer any group discounts?"
-      content : "Companies can inquire for a discount if the want to buy tickets for multiple employees. We do not offer group discounts for multiple individuals though."
+      content : "Companies can inquire for a discount if they want to buy tickets for multiple employees. We do not offer group discounts for multiple individuals though."
 
     - title : "Do we offer any scholarships?"
       content : "No but we have a grant program"

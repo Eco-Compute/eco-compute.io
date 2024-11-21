@@ -1,21 +1,11 @@
 ---
 title: "Press"
-date: 2019-09-10T13:51:25+06:00
+date: 2024-11-12T13:51:25+06:00
 draft: false
-description: "Press accreditation for the EcoCompute Conference 2024 in Munich, Germany"
+description: "Press accreditation for the EcoCompute Conference 2025 in Berlin, Germany"
 bg_image : "images/bg/cta-bg.webp"
 ---
 
-## Pressemeldung
-
-Für die Kommunikation in journalistischen Kanälen nutzen Sie gerne unsere Pressemeldung.
-
-<a href="/files/PM_EcoCompute_Start.pdf" class="btn btn-hero btn-rounded ">Download Pressemeldung</a>
-
-<br>
-<br>
-<br>
-<br>
 
 ## Presseakkreditierung
 

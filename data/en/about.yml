@@ -12,7 +12,7 @@ about:
 "
 ################## sponsor ###############################
 sponsor:
-  enable : true
+  enable : false
   # sponsor data comes from "homepage.yml" file
 
 
