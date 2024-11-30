@@ -105,6 +105,10 @@ link = "plugins/syotimer/syotimer.min.js"
     name = "Previous years"
     URL = "/previous-years"
 
+    [[menu.main]]
+    parent = "More"
+    name = "Sponsorship Opportunities"
+    URL = "/sponsoring"
 
 
 
