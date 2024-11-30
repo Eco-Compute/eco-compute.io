@@ -24,4 +24,9 @@ For all other and global config the https://github.com/Eco-Compute/eco-compute.i
 
 - https://www.pexels.com/photo/photo-of-people-sitting-on-chairs-3321789/
 - https://www.pexels.com/photo/women-sitting-on-chairs-inside-a-room-3719037/
--
+
+## Redirects
+
+Please note that the magic `_redirects` file must be in the file `/public` directory.
+
+One hack to achieve this is to put it in the `/static` dir, as this will be copied over on build
