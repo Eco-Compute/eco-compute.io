@@ -39,7 +39,7 @@ Please find details in our Sponsoring Opportunities Brochure: <u>[**Download  ðŸ
 Weâ€™d love to collaborate with you to create a sponsorship experience that aligns with your goals. For more information or to discuss custom sponsorship opportunities, please contact us.
 
 <div style="display: flex">
-<img srcset="/images/sponsoring/face_square_1MB@2x-1.webp 2x, /images/sponsoring/face_square_1MB.webp 1x" src="/images/sponsoring/face_square_1MB.webp" width="300">
+<img srcset="/images/sponsoring/face_square_1MB@2x-1.webp 2x, /images/sponsoring/face_square_1MB.webp 1x" src="/images/sponsoring/face_square_1MB.webp" style="width: 300px; border-radius: 15px;">
 
 <div>
     <ul>
