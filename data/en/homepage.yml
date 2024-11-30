@@ -3,8 +3,8 @@ banner:
   enable : true
   title : "EcoCompute Conference"
   bg_image: "images/banner/banner-2.webp"
-  date_time : "November 2025"
-  location : "EcoCompute 2024 was just the beginning - Register for the newsletter to get updates for 2025!!"
+  date_time : "13 & 14 November 2025"
+  location : "bUm - Berlin, Germany"
 
 ############################# tagline ################################
 tagline:
@@ -281,16 +281,16 @@ venue:
   title : "Venue location"
   image : "images/bg/berlin-2025-1x.webp"
   image_2x : "images/bg/berlin-2025-2x.webp"
-  date : "November 2025"
-  location : "Berlin, Germany - Details TBA"
+  date : "13 & 14 November 2025"
+  location : "bUm - Berlin, Germany"
   button:
     enable : true
     label : "Location on Google Maps"
-    link : "-"
+    link : "https://maps.app.goo.gl/34byMDYBpnFxyuJ27"
   button_2:
     enable : true
-    label : "See walking path map"
-    link : "-"
+    label : "Location Website"
+    link : "https://bum.berlin/"
 
 ############################### Blog ######################################
 blog:
