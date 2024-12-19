@@ -2,7 +2,6 @@
 banner:
   enable : true
   title : "EcoCompute Conference"
-  bg_image: "images/banner/banner-2.webp"
   date_time : "13 & 14 November 2025"
   location : "bUm - Berlin, Germany"
 

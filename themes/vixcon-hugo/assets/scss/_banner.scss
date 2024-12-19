@@ -60,14 +60,12 @@
   }
 }
 
-@include large-desktop {
-  .section-banner {
-    background-image: url('/images/banner/banner-2-light.webp');
-  }
-}
-
 @include banner-desktop{
   .section-banner {
-    background-image: url('/images/banner/banner-2.webp');
+      background-image: image-set(
+            url('/images/banner/banner-1x.webp') 1x,
+            url('/images/banner/banner-2x.webp') 2x
+      );
+      background-position: top;
   }
 }
