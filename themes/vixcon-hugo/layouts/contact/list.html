@@ -62,6 +62,15 @@
               <textarea rows="6" placeholder="Message" class="form-control" name="message" id="message" required></textarea>
             </div>
 
+            <div class="form-group">
+              <label for="robot">Are you a spam robot?</label>
+              <select name="robot" id="robot" class="form-control" required>
+                <option value="">Please select one</option>
+                <option value="horrible">Of course I am! I want to send you loads of spam</option>
+                <option value="intelligent">I am an intelligent human being and my cause is just</option>
+              </select>
+            </div>
+
             <div class="mt-4">
               <button type="submit" id="contact-submit" class="btn btn-hero btn-rounded " value="Send Message">{{ i18n "send" }}</button>
             </div>
@@ -82,6 +91,14 @@
     event.preventDefault();
     var status = document.getElementById("form-status");
     var data = new FormData(event.target);
+
+    var robotSelect = document.getElementById("robot");
+    if (robotSelect && robotSelect.value === "horrible") {
+      alert("Sorry, it seems you are up to no good. Please change the neighbourhood");
+      return;
+    }
+
+
     fetch(event.target.action, {
       method: form.method,
       body: data,
