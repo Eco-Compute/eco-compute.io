@@ -63,12 +63,8 @@
             </div>
 
             <div class="form-group">
-              <label for="robot">Are you a spam robot?</label>
-              <select name="robot" id="robot" class="form-control" required>
-                <option value="">Please select one</option>
-                <option value="horrible">Of course I am! I want to send you loads of spam</option>
-                <option value="intelligent">I am an intelligent human being and my cause is just</option>
-              </select>
+              <label id="math-question-label" for="math_question"></label>
+              <input type="text" placeholder="Your Answer" class="form-control" name="math_question" id="math_question" required>
             </div>
 
             <div class="mt-4">
@@ -85,6 +81,18 @@
 
 
 <script>
+
+  function generateQuestion() {
+    const num1 = Math.floor(Math.random() * 10) + 1;
+    const num2 = Math.floor(Math.random() * 10) + 1;
+    const sum = num1 + num2;
+
+    document.getElementById('math-question-label').innerText = `What is ${num1} + ${num2}?`;
+    return sum;
+  }
+
+  let correctAnswer = generateQuestion();
+
   var form = document.getElementById("contact-form");
 
   async function handleSubmit(event) {
@@ -92,12 +100,11 @@
     var status = document.getElementById("form-status");
     var data = new FormData(event.target);
 
-    var robotSelect = document.getElementById("robot");
-    if (robotSelect && robotSelect.value === "horrible") {
-      alert("Sorry, it seems you are up to no good. Please change the neighbourhood");
+    var userAnswer = document.getElementById("math_question").value.trim();
+    if (parseInt(userAnswer) !== correctAnswer) {
+      alert("Incorrect answer to the math question. Please try again.");
       return;
     }
-
 
     fetch(event.target.action, {
       method: form.method,
