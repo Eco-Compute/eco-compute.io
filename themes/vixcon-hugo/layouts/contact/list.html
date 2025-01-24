@@ -31,7 +31,7 @@
           <p class="mb-5">{{ .Content }}</p>
           <div class="alert alert-info d-none" role="alert" id="form-status">asd
           </div>
-          <form id="contact-form" action="https://formspree.io/f/xjvqneda" method="POST">
+          <form id="contact-form" method="POST">
             <input type="text" name="_gotcha" style="display:none" />
             <div class="form-row">
               <div class="col-lg-6">
@@ -107,7 +107,7 @@
       return;
     }
 
-    fetch(event.target.action, {
+    fetch("https://formspree.io/f/xjvqneda", {
       method: form.method,
       body: data,
       headers: {
