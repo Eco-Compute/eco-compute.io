@@ -132,13 +132,26 @@ Responsive
   font-size: 40px;
 }
 
-.navbar-brand .bold{
+.navbar-brand .bold {
     font-weight: bold;
 }
 
-.navbar-brand .slim{
+.navbar-brand .slim {
     font-weight: 100;
 }
+
+.banner-content span.bold {
+    font-weight: bold;
+    font-size: 100px;
+    color: #000;
+}
+
+.banner-content span.slim {
+    font-weight: 100;
+    font-size: 100px;
+    color: #000;
+}
+
 
 
 .feature-box, .feature-box h4 {

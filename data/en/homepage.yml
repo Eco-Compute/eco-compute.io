@@ -1,7 +1,7 @@
 ############################# banner ################################
 banner:
   enable : true
-  title : "ecoCompute Conference"
+  title : "<span class='bold'>eco</span><span class='slim'>compute</span> conference"
   date_time : "13 & 14 November 2025"
   location : "bUm - Berlin, Germany"
 
