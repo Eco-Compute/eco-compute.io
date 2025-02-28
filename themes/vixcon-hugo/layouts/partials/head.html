@@ -8,7 +8,7 @@
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 
   <meta property="og:type" content="{{ if .Page.IsHome }}website{{ else }}article{{ end }}">
-  <meta property="og:title" content="{{ with .Params.Title }}EcoCompute - {{.}}{{else}}EcoCompute - The biggest engineering conference on sustainability in hardware & software{{end}}">
+  <meta property="og:title" content="{{ with .Params.Title }}ecoCompute - {{.}}{{else}}ecoCompute - The biggest engineering conference on sustainability in hardware & software{{end}}">
   <meta property="og:url" content="{{ .Page.Permalink }}">
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
   <meta property="og:image" content="{{ .Site.BaseURL }}{{ with .Params.socialmedia_preview }}{{ . }}{{ else }}images/teaser_img.webp{{ end }}">

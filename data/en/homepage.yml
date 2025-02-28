@@ -1,7 +1,7 @@
 ############################# banner ################################
 banner:
   enable : true
-  title : "EcoCompute Conference"
+  title : "ecoCompute Conference"
   date_time : "13 & 14 November 2025"
   location : "bUm - Berlin, Germany"
 
@@ -40,7 +40,7 @@ event:
   title : "Let's make digital sustainable"
   image_back : "images/about/h1-gallery-img-7.webp"
   image_front : "images/about/main-home-img-1.webp"
-  content : "EcoCompute brings together software developers, hardware designer and data center professionals in order to create a sustainable digital future.
+  content : "ecoCompute brings together software developers, hardware designer and data center professionals in order to create a sustainable digital future.
     <br><br>
     We want to bring all three worlds together to reduce implementation hurdles to get sustainability for digital infrastructures into action.
     <br><br>
@@ -71,7 +71,7 @@ feature:
     - name : "Sharing"
       icon : "tf-ion-android-share"
       bg_color: "coal"
-      content : "EcoCompute provides a platform for sharing the latest research, innovations, and practices in green technology.
+      content : "ecoCompute provides a platform for sharing the latest research, innovations, and practices in green technology.
       <br><br>
       This includes new findings in energy-efficient computing, sustainable hardware design, and eco-friendly software development.
 "
@@ -101,13 +101,13 @@ testimonials:
     - name : "Christian Binder"
       image : "/images/teams/christian-binder-small.webp"
       designation: "2024 Speaker & Attendee"
-      review: "The EcoCompute marks the spearhead of sustainable patterns and delivers inspiration to enable the most sustainable solutions."
+      review: "The ecoCompute marks the spearhead of sustainable patterns and delivers inspiration to enable the most sustainable solutions."
 
 
     - name : "David Kopp"
       image : "/images/teams/david-kopp-small.webp"
       designation: "Envite Consulting"
-      review: "EcoCompute is the best conference for learning best practices for greening IT and networking with like-minded people."
+      review: "ecoCompute is the best conference for learning best practices for greening IT and networking with like-minded people."
 
     - name : "Eric Jochum"
       image : "/images/teams/ghazal-aakel-and-eric-jochum-small.webp"
@@ -154,7 +154,7 @@ cfs:
 speaker:
   enable : false
 #  title_outline : "Speakers"
-  title : "EcoCompute Speakers"
+  title : "ecoCompute Speakers"
   content : ""
   # speaker content comes from "content/speaker" folder
 

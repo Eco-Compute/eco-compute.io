@@ -19,4 +19,4 @@ In this presentation, we introduce the Sustainable Software Engineering Framewor
 
 ## Slides
 
-[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/CCT_SSP_SustainableSWEngineering_EcoCompute.pdf)
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/CCT_SSP_SustainableSWEngineering_ecoCompute.pdf)

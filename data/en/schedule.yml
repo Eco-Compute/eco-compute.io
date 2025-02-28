@@ -192,7 +192,7 @@ schedule:
             company: "HTW Berlin"
             talk_link: "/talk/2024/where-is-the-green-mindset/"
             content : "
-            ### Where is the green in the mindset? Improving awareness for green coding  in the software development process <a href='/files/slides/Majuntke-Verena_EcoCompute.pdf'><i class='tf-ion-android-download'></i></a>
+            ### Where is the green in the mindset? Improving awareness for green coding  in the software development process <a href='/files/slides/Majuntke-Verena_ecoCompute.pdf'><i class='tf-ion-android-download'></i></a>
             "
             labels:
               - 🇬🇧
@@ -369,7 +369,7 @@ schedule:
             company: "Siemens AG"
             talk_link: "/talk/2024/sustainable-software-engineering/"
             content : "
-            ### Sustainable Software Engineering <a href='/files/slides/CCT_SSP_SustainableSWEngineering_EcoCompute.pdf'><i class='tf-ion-android-download'></i></a>
+            ### Sustainable Software Engineering <a href='/files/slides/CCT_SSP_SustainableSWEngineering_ecoCompute.pdf'><i class='tf-ion-android-download'></i></a>
             "
             labels:
               - 🇬🇧
@@ -437,7 +437,7 @@ schedule:
             designation: "CEO & Software Developer"
             company: "Green Coding Solutions"
             content : "
-            ### Automated measurement and green optimizations for software (SCI / Blue Angel for Software / CI/CD ) <a href='/files/slides/2024_04_25_EcoCompute_Workshop.pdf'><i class='tf-ion-android-download'></i></a>
+            ### Automated measurement and green optimizations for software (SCI / Blue Angel for Software / CI/CD ) <a href='/files/slides/2024_04_25_ecoCompute_Workshop.pdf'><i class='tf-ion-android-download'></i></a>
             "
           - time : "12:00 - 15:00"
             image : "/images/teams/hagen-pfeifer-small.webp"

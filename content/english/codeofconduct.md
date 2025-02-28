@@ -2,11 +2,11 @@
 title: "Code of Conduct"
 date: 2019-09-10T13:51:25+06:00
 draft: false
-description: "Code of Conduct for the EcoCompute Conference"
+description: "Code of Conduct for the ecoCompute Conference"
 bg_image : "images/bg/cta-bg.webp"
 ---
 
-Everybody who participates in EcoCompute in one way or another is required to conform to this Code of Conduct (CoC). This includes attendees, speakers, sponsors, organizers, volunteers, and event staff.
+Everybody who participates in ecoCompute in one way or another is required to conform to this Code of Conduct (CoC). This includes attendees, speakers, sponsors, organizers, volunteers, and event staff.
 
 The organizers will introduce a Code of Conduct team that will be primarily responsible for handling any incidents. The CoC applies before and throughout the event (including related activities such as social events, and social media). We have also published our response guidelines.
 
@@ -50,7 +50,7 @@ Sexual language and imagery are not appropriate for any venue to which the CoC a
 
 Some people may not wish to be filmed or photographed - respect their wishes, take extra care when publishing pictures and provide a way to request them to be taken down.
 
-Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive and unwelcoming to those around you. Excessive swearing and offensive jokes are not appropriate for EcoCompute.
+Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive and unwelcoming to those around you. Excessive swearing and offensive jokes are not appropriate for ecoCompute.
 
 Condescending behavior towards people of different knowledge levels, and especially beginners, is unacceptable.
 
@@ -110,4 +110,4 @@ If you feel unsafe reporting in person, you may choose someone to represent you.
 
 When handling a report, we follow our response guidelines.
 
-**We value your attendance, and look forward to seeing you at EcoCompute.**
+**We value your attendance, and look forward to seeing you at ecoCompute.**

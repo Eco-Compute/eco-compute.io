@@ -2,20 +2,20 @@
 title: "Sponsoring"
 date: 2024-11-30T13:51:25+06:00
 draft: false
-description: "Sponsorship Opportunities for the EcoCompute Conference"
+description: "Sponsorship Opportunities for the ecoCompute Conference"
 bg_image : "images/bg/cta-bg.webp"
 ---
 
 ## Sponsorship Opportunities
 
-Join us in shaping the future of **Digital Sustainability** by becoming a valued sponsor of **EcoCompute 2025**. Our event brings together leading experts, innovators, and professionals from around the world for a unique opportunity to connect, share knowledge, and explore the latest advancements in sustainbility in Hardware, Software and Datacenters.
+Join us in shaping the future of **Digital Sustainability** by becoming a valued sponsor of **ecoCompute 2025**. Our event brings together leading experts, innovators, and professionals from around the world for a unique opportunity to connect, share knowledge, and explore the latest advancements in sustainbility in Hardware, Software and Datacenters.
 
 ---
 
 
 ## Why Sponsor?
 
-Sponsoring **EcoCompute 2025** provides a unique platform to:
+Sponsoring **ecoCompute 2025** provides a unique platform to:
 
 **Enhance Visibility**: Showcase your brand, products, or services to a targeted audience of industry professionals and digital sustainbility tech enthusiasts.
 
@@ -31,7 +31,7 @@ Sponsoring **EcoCompute 2025** provides a unique platform to:
 
 We offer a variety of sponsorship packages designed to suit your goals and budget. From exclusive event naming opportunities to exhibiting at the conference venue, there’s a package for every level of engagement. Customizable options are also available.
 
-Please find details in our Sponsoring Opportunities Brochure: <u>[**Download  📕**](/files/EcoCompute_Sponsoring.pdf)</u>
+Please find details in our Sponsoring Opportunities Brochure: <u>[**Download  📕**](/files/ecoCompute_Sponsoring.pdf)</u>
 
 ---
 
