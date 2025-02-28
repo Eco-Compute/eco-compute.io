@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://www.eco-compute.io/"
-title = "EcoCompute Conference 2025"
+title = "ecoCompute Conference 2025"
 theme = "vixcon-hugo"
 # post pagination
 pagination.pagerSize = "4"
@@ -117,7 +117,7 @@ link = "plugins/syotimer/syotimer.min.js"
 logo = "images/logo-2.webp"
 home = "Home"
 # Meta data
-description = "EcoCompute - The biggest engineering conference on sustainability in hardware & software"
+description = "ecoCompute - The biggest engineering conference on sustainability in hardware & software"
 author = "Green Coding Solutions GmbH"
 # email address
 email = "info@eco-compute.io"

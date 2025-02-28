@@ -124,12 +124,22 @@ Responsive
 /* Custom Styles Green Coding*/
 
 .navbar-brand img{
-  max-height: 50px;
+  max-height: 40px;
 }
+
 .navbar-brand{
   color: #444;
-  font-size: 30px;
+  font-size: 40px;
 }
+
+.navbar-brand .bold{
+    font-weight: bold;
+}
+
+.navbar-brand .slim{
+    font-weight: 100;
+}
+
 
 .feature-box, .feature-box h4 {
   color: #fff;

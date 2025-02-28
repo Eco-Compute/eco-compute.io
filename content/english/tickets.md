@@ -2,7 +2,7 @@
 title: "Get your ticket now"
 date: 2019-09-10T13:51:25+06:00
 draft: true
-description: "Ticket sales for the EcoCompute Conference 2025 in Berlin, Germany"
+description: "Ticket sales for the ecoCompute Conference 2025 in Berlin, Germany"
 bg_image : "images/bg/cta-bg.webp"
 ---
 

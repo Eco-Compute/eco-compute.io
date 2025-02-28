@@ -24,4 +24,4 @@ This approach will guide teams in consistently measuring their software's sustai
 
 ## Slides
 
-[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/Majuntke-Verena_EcoCompute.pdf)
+[<i class='tf-ion-android-download'></i> Download Slides](/files/slides/Majuntke-Verena_ecoCompute.pdf)

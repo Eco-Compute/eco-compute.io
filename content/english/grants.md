@@ -2,19 +2,19 @@
 title: "Grants"
 date: 2019-09-10T13:51:25+06:00
 draft: false
-description: "Grants for the EcoCompute Conference"
+description: "Grants for the ecoCompute Conference"
 bg_image : "images/bg/cta-bg.webp"
 ---
 
-## EcoCompute Opportunity Grants
+## ecoCompute Opportunity Grants
 
-EcoCompute is dedicated to widening participation and ensuring inclusivity. To support this goal, we're offering opportunity grants for individuals who might otherwise face challenges in attending the conference. These grants are intended to assist with various costs associated with conference participation, such as travel, accommodation, and registration fees.
+ecoCompute is dedicated to widening participation and ensuring inclusivity. To support this goal, we're offering opportunity grants for individuals who might otherwise face challenges in attending the conference. These grants are intended to assist with various costs associated with conference participation, such as travel, accommodation, and registration fees.
 
-We encourage you to apply for these opportunity grants, especially if attending EcoCompute would be financially challenging. While our desire is to support all applicants, our resources are limited, and our focus is on achieving the greatest possible impact within these constraints.
+We encourage you to apply for these opportunity grants, especially if attending ecoCompute would be financially challenging. While our desire is to support all applicants, our resources are limited, and our focus is on achieving the greatest possible impact within these constraints.
 
 The grant selection process is designed with several key objectives:
 
-- Facilitating a diverse and global gathering, prioritizing those who can bring unique perspectives to EcoCompute , particularly speakers and tutorial presenters.
+- Facilitating a diverse and global gathering, prioritizing those who can bring unique perspectives to ecoCompute , particularly speakers and tutorial presenters.
 - Enhancing diversity at the conference. Our grants target members of under-represented or marginalized groups in the tech community, acknowledging the extra barriers they might face in attending.
 - Assessing the potential impact of the grant on both the recipient and their broader community. This includes factors like local community involvement, the social impact of the applicant's work, and their access to other conferences.
 

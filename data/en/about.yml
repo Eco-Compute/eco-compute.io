@@ -2,13 +2,13 @@
 about:
   enable : true
   title : "Innovation & **Inspiration** Connect People"
-  content : "EcoCompute aims to address the current issue of energy and resource consumption of digital infrastructures with a new approach:
+  content : "ecoCompute aims to address the current issue of energy and resource consumption of digital infrastructures with a new approach:
   <br><br>
     We want to bring together hardware designers, software developers, data center operators and also IT project planners to understand intersectional barriers and implementation hurdles.
     <br><br>
     So far environmental concerns have mostly been addressed in siloed domains or solutions have been suggested that could not be implemented in production scenarios due to privacy or client concerns.
     <br><br>
-    EcoCompute aspires to surface new working solutions and advance sustainability in digital technology.
+    ecoCompute aspires to surface new working solutions and advance sustainability in digital technology.
 "
 ################## sponsor ###############################
 sponsor:
@@ -32,7 +32,7 @@ feature:
     - title : "Sustainable Future"
       icon : "tf-ion-android-globe" # check `static/plugins/themefisher-font/demo.html` for more icon
       bg_color : "turquoise"
-      content : "By focusing on sustainable practices in technology, attendees at EcoCompute are contributing to a larger movement towards environmental stewardship."
+      content : "By focusing on sustainable practices in technology, attendees at ecoCompute are contributing to a larger movement towards environmental stewardship."
 
     # feature item loop
     - title : "Learning"
@@ -44,4 +44,4 @@ feature:
     - title : "Sharing"
       icon : "tf-ion-android-share" # check `static/plugins/themefisher-font/demo.html` for more icon
       bg_color : "coal"
-      content : "EcoCompute provides a platform for sharing the latest research, innovations, and practices in green technology."
+      content : "ecoCompute provides a platform for sharing the latest research, innovations, and practices in green technology."
