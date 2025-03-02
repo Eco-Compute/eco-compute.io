@@ -7,7 +7,7 @@
   background-size: cover;
 
   .banner-content {
-    h1 {
+    h1, h1 span {
       font-size: 100px;
       line-height: 1.2;
       letter-spacing: -.04em;
@@ -17,7 +17,7 @@
       }
 
       @include tablet {
-        font-size: 60px;
+        font-size: 50px;
       }
     }
 
@@ -60,12 +60,10 @@
   }
 }
 
-@include banner-desktop{
-  .section-banner {
-      background-image: image-set(
-            url('/images/banner/banner-1x.webp') 1x,
-            url('/images/banner/banner-2x.webp') 2x
-      );
-      background-position: top;
-  }
+.section-banner {
+  background-image: image-set(
+        url('/images/banner/banner-1x.webp') 1x,
+        url('/images/banner/banner-2x.webp') 2x
+  );
+  background-position: left top;
 }
