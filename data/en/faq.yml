@@ -6,18 +6,18 @@ faq:
   faq_item:
     # faq item loop
     - title : "Can I sponsor ecoCompute?"
-      content : "Yes, we have limited sponsorship opportunities for the conference. Please request more information by contacting: sponsors@eco-compute.io"
+      content : "Yes, we have limited sponsorship opportunities for the conference. Please see [Sponsoring](/sponsoring)"
 
     # faq item loop
     - title : "How can I apply to speak at ecoCompute"
       content : "Please see our call for [speakers page](/call-for-speakers/)"
 
     # faq item loop
-    - title : "Is refund is avalaible for valid reason?"
+    - title : "Is refund is available for valid reason?"
       content : "Please contact us under info@eco-compute.io to discuss details"
 
     # faq item loop
-    - title : "How to buy a Tickets"
+    - title : "How to buy tickets"
       content : "You can get a ticket [here](/#pricing)"
 
     # faq item loop
