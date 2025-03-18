@@ -4,28 +4,23 @@ faq:
   title : "Frequently Asked Question"
   content : "Please find attached a list of questions we get asked a lot or things we think that should be clarified"
   faq_item:
-    # faq item loop
     - title : "Can I sponsor ecoCompute?"
       content : "Yes, we have limited sponsorship opportunities for the conference. Please see [Sponsoring](/sponsoring)"
 
-    # faq item loop
-    - title : "How can I apply to speak at ecoCompute"
+    - title : "How can I apply to speak at ecoCompute?"
       content : "Please see our call for [speakers page](/call-for-speakers/)"
 
-    # faq item loop
-    - title : "Is refund is available for valid reason?"
+    - title : "Are refunds available for valid reason?"
       content : "Please contact us under info@eco-compute.io to discuss details"
 
-    # faq item loop
-    - title : "How to buy tickets"
+    - title : "How to buy tickets?"
       content : "You can get a ticket [here](/#pricing)"
 
-    # faq item loop
     - title : "What language is the conference in?"
       content : "The conference will be held in German and English. The language in the title will determine the language of the presentation"
 
-    - title : "What is your refund or cancellation policy?"
-      content : "You can cancel your ticket 14 days after purchase."
+    - title : "What is your cancellation policy?"
+      content : "You can cancel your ticket 14 days after purchase and no later than 14 days before the conference."
 
     - title : "I can no longer attend.  Can I transfer my registration to a colleague?"
       content : "Tickets may be transferred to another attendee free of charge up to 7 days before the start of the conference."
@@ -33,8 +28,8 @@ faq:
     - title : "Do you offer any group discounts?"
       content : "Companies can inquire for a discount if they want to buy tickets for multiple employees. We do not offer group discounts for multiple individuals though."
 
-    - title : "Do we offer any scholarships?"
-      content : "No but we have a grant program"
+    - title : "Do we offer any reduced prices or grants?"
+      content : "Yes, we have a <u>[reduced price and grant program](/grants)</u> with limited availability"
 
     - title : "I need help registering, who can I talk to?"
       content : "info@eco-compute.io"
