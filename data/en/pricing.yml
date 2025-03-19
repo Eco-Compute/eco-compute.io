@@ -42,7 +42,7 @@ pricing:
         - "See our <a href='/grants'><u>grants page</u></a> for reduced price options<br><br>"
       button:
         label : "Opens in Q2/2025"
-        link : "-"
+        link : ""
 
     # pricing table loop
     - title : "Company"
