@@ -30,7 +30,7 @@
           </ul>
 
           {{ if .button.link }}
-          <a href="{{ .button.link | safeURL }}" class="btn btn-secondary btn-rounded mt-3 mb-5">{{ .button.label }}</a>
+          <a href="{{ .button.link | safeURL }}" class="btn btn-secondary btn-rounded mt-3 mb-5" target="_blank" rel="noopener">{{ .button.label }}</a>
           {{ else }}
           <div class="btn btn-secondary btn-rounded mt-3 mb-5">{{ .button.label }}</div>
           {{ end }}
