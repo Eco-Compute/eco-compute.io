@@ -52,26 +52,30 @@ link = "plugins/syotimer/syotimer.min.js"
   URL = "/schedule/2025"
   weight = 3
 
-#  [[menu.main]]
-#  name = "Speakers"
-#  URL = "/speakers/2025"
-#  weight = 4
+  [[menu.main]]
+  name = "Speakers"
+  URL = "/speakers/2025"
+  weight = 4
 
   [[menu.main]]
   name = "Location"
   URL = "/#location"
   weight = 5
 
+  [[menu.main]]
+  name = "Tickets"
+  URL = "/#pricing"
+  weight = 6
 
   [[menu.main]]
-  weight = 6
   name = "Press"
   URL = "/press"
+  weight = 7
 
   [[menu.main]]
-  weight = 7
   name = "More"
   hasChildren = true
+  weight = 8
 
 
 
