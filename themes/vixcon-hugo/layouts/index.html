@@ -23,6 +23,32 @@
 <!-- /banner -->
 
 
+<!-- tagline -->
+{{ if $data.homepage.tagline.enable }}
+{{ with $data.homepage.tagline }}
+<br>
+<br>
+<section class="section cta-wrap" style="padding: 0; text-align: right;">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-12">
+        <div class="cta-content">
+          <span class="lead">{{ .subtitle | markdownify }}</span>
+          <h2 class="mt-3 mb-4 text-md title">{{ .title | markdownify }}</h2>
+          {{ if .button.enable }}
+          {{ with .button }}
+          <a href="{{ .link | absLangURL }}" class="btn btn-secondary btn-rounded">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /tagline -->
+
 
 <!-- timer -->
 {{ if $data.homepage.timer.enable }}
@@ -84,29 +110,6 @@
 {{ end }}
 <!-- /newsletter -->
 
-<!-- tagline -->
-{{ if $data.homepage.tagline.enable }}
-{{ with $data.homepage.tagline }}
-<section class="section cta-wrap" style="padding: 0; text-align: right;">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-12">
-        <div class="cta-content">
-          <span class="lead">{{ .subtitle | markdownify }}</span>
-          <h2 class="mt-3 mb-4 text-md title">{{ .title | markdownify }}</h2>
-          {{ if .button.enable }}
-          {{ with .button }}
-          <a href="{{ .link | absLangURL }}" class="btn btn-secondary btn-rounded">{{ .label }}</a>
-          {{ end }}
-          {{ end }}
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-<!-- /tagline -->
 
 <!-- event  -->
 {{ if $data.homepage.event.enable }}
