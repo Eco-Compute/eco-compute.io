@@ -2,13 +2,29 @@
 about:
   enable : true
   title : "Innovation & **Inspiration** Connect People"
-  content : "ecoCompute aims to address the current issue of energy and resource consumption of digital infrastructures with a new approach:
+  content : "ecoCompute was born out of the necessity to <b>bring sustainability in the digital realm into action</b>.<br> <br>
+  Sustainability knowlege and also efforts are often siloed in specific technical domains without reaching the people that can actually make use of it.
+
+- We have good processor efficiency features, but they are often only know to the hardware developers
+
+- We have good software techniques to shift load to where the sun is shining, but datacenters do not enable them
+
+- We have good software algorithms but the hardware does not optimally support their implementation
+
+- We have people with a lot of sustainabiliy knowledge in tech, but they have no dedicated platform to connect and talk
+<br>
+<br>
+
+With ecoCompute we have create such a platform delivering this type of knowlege by inviting professionals from the often
+  separate domains hardware, software and datacenters to share knowledge and overcome implementation hurdles.
+  <br>
+  <br>
+
+  The conference features dedicated tracks always featuring a topic in an intersectional manner. Futher supported through
+  high value workshops where attendees can deep dive into topics with hands on experiences.
   <br><br>
-    We want to bring together hardware designers, software developers, data center operators and also IT project planners to understand intersectional barriers and implementation hurdles.
-    <br><br>
-    So far environmental concerns have mostly been addressed in siloed domains or solutions have been suggested that could not be implemented in production scenarios due to privacy or client concerns.
-    <br><br>
-    ecoCompute aspires to surface new working solutions and advance sustainability in digital technology.
+  Want to have it more concrete: <u>[Look at our past speaker line ups and talks / workshops](previous-years/)<u>
+
 "
 ################## sponsor ###############################
 sponsor:
