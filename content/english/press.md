@@ -61,6 +61,7 @@ Wir melden uns schnellstmöglich zurück.
     </div>
 </div>
 <script>
+{{< highlight javascript >}}
     var form = document.getElementById("press-form");
 
     async function handleSubmit(event) {
@@ -93,5 +94,6 @@ Wir melden uns schnellstmöglich zurück.
         });
     }
     form.addEventListener("submit", handleSubmit)
+{{< /highlight >}}    
 </script>
 
