@@ -10,12 +10,6 @@ socialmedia_preview: "images/social-media-previews/call-for-speakers.webp"
 
 ## Call for Speakers: Share Your Expertise!
 
-{{< alert >}}
-The call for Call for Speakers for <b>software-only</b> related talks is <b>closed</b> as of 31.01.2024 ❌
-<br>We are still accepting <b>hardware</b> ✅ and / or <b>datacenter</b> ✅ related talks. 
-<br>Also, if you have been invited by us individually to submit a talk please still use the form. 
-{{</ alert >}}
-
 We're excited to invite dynamic and knowledgeable speakers to submit their talks for our upcoming conference. This is your opportunity to inspire, engage, and impart wisdom to a diverse audience eager for new insights and perspectives.
 
 Under our [about](/about) page you find some details what the conference will focus on. In short: We are looking for talks that focus on sustainablity engineering solutions in hardware and software to reduce resource consumption of digital infrastructure.

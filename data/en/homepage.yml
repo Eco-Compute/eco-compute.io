@@ -131,7 +131,7 @@ testimonials:
 
 ####################### Schedule #############################
 schedule:
-  enable : true
+  enable : false
   # schedule data comes from "schedule.yml" file
 
 ####################### pricing #############################
@@ -141,12 +141,12 @@ pricing:
 
 ########################## speaker ##########################
 cfs:
-  enable : false
-  title_outline : "Speakers"
-  #title : "Call for Speakers"
-  #content : ""
-  #call_to_action: "Apply now!"
-  #link: "/call-for-speakers"
+  enable: true
+  title_outline: "Speakers"
+  title: "Call for Speakers - Open until 31.07.2025"
+  content: ""
+  call_to_action: "Apply now!"
+  link: "https://cfp.eco-compute.io/ecocompute-2025/cfp"
   # speaker content comes from "content/speaker" folder
 
 
