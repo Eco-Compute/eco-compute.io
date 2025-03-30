@@ -6,6 +6,11 @@
     {{ $talk_year := .Page.Params.talk_year }}
     {{ $path_prefix := printf "talk/%s" $talk_year }}
 
+
+    {{ if $data.homepage.cfs.enable }}
+        {{ partial "cfs.html" . }}
+    {{ else }}
+
    <br>
     <section id="talks" class="section-talk">
          <div class="container">
@@ -21,12 +26,13 @@
           </div>
         </div>
     </section>
+    {{ end }}
 
     {{ if eq .Page.Params.outdated true  }}
         <div class="ui warning message">
             <h2 class="header">Warning! - Outdated content</h2>
             <p>You are watching the talks for a previous year!<br>
-            Please find the most current talks under: <a href="/talks" style="font-weight: bold; text-decoration: underline;">Current talks</a></p>
+            Please find the most current talks under: <a href="/talks/{{ now.Year }}" style="font-weight: bold; text-decoration: underline;">Current talks</a></p>
         </div>
     {{ end }}
 
