@@ -341,3 +341,9 @@ h3#track-1, h3#track-2, h3#track-1---talks-only, h3#track-2---talks--workshops {
 .text-no-transform {
     text-transform: none;
 }
+
+#sponsor-contact-box {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
