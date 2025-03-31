@@ -109,11 +109,16 @@ testimonials:
       designation: "Envite Consulting"
       review: "ecoCompute is the best conference for learning best practices for greening IT and networking with like-minded people."
 
-    - name : "Eric Jochum"
-      image : "/images/teams/ghazal-aakel-and-eric-jochum-small.webp"
-      designation: "Metafinanz"
+
+    - name : "Max Schulze"
+      image : "/images/teams/max-schulze-small.webp"
+      designation: "SDIA"
+      review: "What an amazing audience! During my talk about values and how to bring them into software, we had some great laugh’s together, everyone was engaged and we could debate some interesting questions on cloud, sustainability and software engineering.
+
+Arne and his team did an amazing job at selecting a venue that facilitates conversations and curated an amazing community of attendees that were all open to learn, expand their horizon and engage in critical thinking–much needed in the emerging field of sustainable software."
       style: "dark"
-      review: "The Eco-Compute was one of our most impressive events in 2024. We had a lot of connections to other GreenIT-Enthusiasts and had the option to listen to exciting talks and it was a perfect place for GreenIT networking."
+
+
 
     - name : "Anonymous"
       designation: "2024 Attendee"
@@ -122,10 +127,11 @@ testimonials:
 
 
 
-    - name : "Anonymous"
-      image : "2024 Attendee"
-      designation: "2024 Attendee"
-      review: "I loved meeting as these people and getting multiple perspectives on the topic."
+    - name : "Eric Jochum"
+      image : "/images/teams/ghazal-aakel-and-eric-jochum-small.webp"
+      designation: "Metafinanz"
+      review: "The Eco-Compute was one of our most impressive events in 2024. We had a lot of connections to other GreenIT-Enthusiasts and had the option to listen to exciting talks and it was a perfect place for GreenIT networking."
+
 
 
 
