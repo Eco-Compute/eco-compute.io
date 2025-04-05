@@ -193,11 +193,14 @@ partners:
           background: "#fff"
 
 
-    # - title : "Content & Network Partners"
-    #   partner:
+    - title : "Content & Network Partners"
+      partner:
 
-    #     - logo : "images/clients/SDIA.webp"
-    #       link : "https://sdialliance.org/"
+         - name: "SDEA"
+           logo : "images/clients/sdea.webp"
+           logo_2x : "images/clients/sdea-2x.webp"
+           link : "https://sdea.ch/"
+           background: "#fff"
 
     #     - logo : "images/clients/uba.webp"
     #       link : "https://www.umweltbundesamt.de/"
