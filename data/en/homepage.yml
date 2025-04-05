@@ -172,7 +172,8 @@ partners:
     ############################ sponsor group loop
     - title : "Organizers"
       partner:
-        - logo : "images/clients/gcb.webp"
+        - name: "Green Coding Solutions GmbH Logo"
+          logo : "images/clients/gcb.webp"
           link : "https://www.green-coding.io"
           background: "#2b3e50"
 
@@ -180,15 +181,18 @@ partners:
         #   link : "https://www.rohde-schwarz.com"
         #   background: "#fff"
 
-        - logo : "images/clients/HTW.webp"
+        - name: "HTW Berlin Logo"
+          logo : "images/clients/HTW.webp"
           link : "https://www.htw-berlin.de/"
           background: "#fff"
 
-        - logo : "images/clients/bluehands.webp"
+        - name: "bluehands GmbH & Co.mmunication KG"
+          logo : "images/clients/bluehands.webp"
           link : "https://www.bluehands.de/"
           background: "#fff"
 
-        - logo : "images/clients/gi.webp"
+        - name: "Gesellschaft für Information Logo"
+          logo : "images/clients/gi.webp"
           link : "https://gi.de/"
           background: "#fff"
 
