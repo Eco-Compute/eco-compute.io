@@ -226,30 +226,30 @@ partners:
 
 ######################### sponsor ############################
 sponsor:
-  enable :  false
+  enable :  true
   title_outline : "Sponsors"
   title : "Amazing Partners & Sponsors"
   sponsor_group:
     ############################ sponsor group loop
-    - title : "Diamond Sponsors 💎"
-      sponsor:
-        # sponsor loop
-        - logo : "images/clients/RS.webp"
-          link : "https://www.rohde-schwarz.com"
-          background: "#fff"
+    # - title : "Diamond Sponsors 💎"
+    #   sponsor:
+    #     # sponsor loop
+    #     - logo : "images/clients/RS.webp"
+    #       link : "https://www.rohde-schwarz.com"
+    #       background: "#fff"
 
 
-        - logo : "images/clients/gcb.webp"
-          link : "https://www.green-coding.io"
-          background: "#2b3e50"
+    #     - logo : "images/clients/gcb.webp"
+    #       link : "https://www.green-coding.io"
+    #       background: "#2b3e50"
 
-    ############################ sponsor group loop
-    - title : "Gold Sponsors 🏅"
-      css_class: "gold"
-      sponsor:
-        - logo : "images/clients/envite.webp"
-          link : "https://envite.de"
-          background: "#fff"
+    # ############################ sponsor group loop
+    # - title : "Gold Sponsors 🏅"
+    #   css_class: "gold"
+    #   sponsor:
+    #     - logo : "images/clients/envite.webp"
+    #       link : "https://envite.de"
+    #       background: "#fff"
 
 
 
@@ -259,12 +259,12 @@ sponsor:
     #     - logo : "images/clients/RS.webp"
     #       link : "https://www.rohde-schwarz.com"
 
-    - title : "Silver Sponsors 🥈"
-      css_class: "silver"
-      sponsor:
-        - logo : "images/clients/ieee_cc.webp"
-          link : "https://itcc.ieee.org"
-          background: "#fff"
+    # - title : "Silver Sponsors 🥈"
+    #   css_class: "silver"
+    #   sponsor:
+    #     - logo : "images/clients/ieee_cc.webp"
+    #       link : "https://itcc.ieee.org"
+    #       background: "#fff"
 
 
     - title : "Bronze Sponsors 🥉"
@@ -274,9 +274,9 @@ sponsor:
         - logo : "images/clients/peerigon.webp"
           link : "https://www.peerigon.com/"
           background: "#fff"
-        - logo : "images/clients/qaware.webp"
-          link : "https://www.qaware.de"
-          background: "#fff"
+        # - logo : "images/clients/qaware.webp"
+        #   link : "https://www.qaware.de"
+        #   background: "#fff"
 
 
   # call to action in sponsor
