@@ -24,6 +24,7 @@ Wir melden uns schnellstmöglich zurück.
     <div class="row">
         <div class="col">
             <form id="press-form" action="https://formspree.io/f/xrgnqyqy" method="POST"  style="margin-bottom: 50px;">
+            <input type="text" name="_gotcha" style="display:none" />
                 <div class="contact-form pl-4 mt-5 mt-lg-0">
                     <div class="form-row">
                         <div class="col-lg-6">
@@ -57,7 +58,7 @@ Wir melden uns schnellstmöglich zurück.
                     </div>
                 </div>
             </form>
-        </div>        
+        </div>
     </div>
 </div>
 <script>
@@ -94,6 +95,6 @@ Wir melden uns schnellstmöglich zurück.
         });
     }
     form.addEventListener("submit", handleSubmit)
-{{< /highlight >}}    
+{{< /highlight >}}
 </script>
 

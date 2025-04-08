@@ -29,8 +29,8 @@ Here are some examples of topics that we deem matching to the conference topic, 
 
 {{< alert >}}
 The call for Call for Speakers for <b>software-only</b> related talks is <b>closed</b> as of 31.01.2024 ❌
-<br>We are still accepting <b>hardware</b> ✅ and / or <b>datacenter</b> ✅ related talks. 
-<br>Also, if you have been invited by us individually to submit a talk please still use the form. 
+<br>We are still accepting <b>hardware</b> ✅ and / or <b>datacenter</b> ✅ related talks.
+<br>Also, if you have been invited by us individually to submit a talk please still use the form.
 {{</ alert >}}
 
 <form
@@ -38,6 +38,9 @@ The call for Call for Speakers for <b>software-only</b> related talks is <b>clos
   action="https://formspree.io/f/mgejgkbv"
   method="POST"
 >
+
+<input type="text" name="_gotcha" style="display:none" />
+
 <div class="col-lg-6">
 <div class="contact-form pl-4 mt-5 mt-lg-0">
 <form method="post" action="#">
