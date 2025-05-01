@@ -206,6 +206,12 @@ partners:
            link : "https://sdea.ch/"
            background: "#fff"
 
+         - name: "Bundesverband Green Software e.V."
+           logo : "images/clients/bvgs.webp"
+           logo_2x : "images/clients/bvgs-2x.webp"
+           link : "https://www.bundesverband-green-software.de/"
+           background: "#EEEEEE"
+
     #     - logo : "images/clients/uba.webp"
     #       link : "https://www.umweltbundesamt.de/"
     #       background: "#5EAD35"
