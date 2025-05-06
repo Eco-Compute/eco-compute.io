@@ -13,7 +13,10 @@ disableLanguages = [] # desable language from here
 
 # output
 [outputs]
-home = ["HTML", "RSS", "JSON"]
+home = ["HTML"]
+section = ["HTML"]
+taxonomy = ["HTML"]
+taxonomyTerm = ["HTML"]
 
 [markup.goldmark.renderer]
 unsafe = true
