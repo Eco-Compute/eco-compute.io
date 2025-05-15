@@ -39,12 +39,24 @@ Please find details in our Sponsoring Opportunities Brochure: <u>[**Download  �
 We’d love to collaborate with you to create a sponsorship experience that aligns with your goals. For more information or to discuss custom sponsorship opportunities, please contact us.
 
 <div id="sponsor-contact-box">
-<img srcset="/images/sponsoring/face_square_1MB@2x-1.webp 2x, /images/sponsoring/face_square_1MB.webp 1x" src="/images/sponsoring/face_square_1MB.webp" style="width: 300px; border-radius: 15px;">
-
-<div>
-    <ul>
-        <li>Arne Tarara</li>
-        <li>✉️ arne@eco-compute.io </li>
-        <li>📞 +49 160 947 930 24</li>
-    </ul>
+    <div class="sponsor-contact">
+        <img srcset="/images/sponsoring/face_square_1MB@2x.webp 2x, /images/sponsoring/face_square_1MB.webp 1x" src="/images/sponsoring/face_square_1MB.webp" style="width: 300px; border-radius: 15px;">
+        <div>
+            <ul>
+                <li>Arne Tarara</li>
+                <li>✉️ arne@eco-compute.io </li>
+                <li>📞 +49 160 947 930 24</li>
+            </ul>
+        </div>
+    </div>
+    <div class="sponsor-contact">
+        <img srcset="/images/sponsoring/max_face@2x.webp 2x, /images/sponsoring/max_face.webp 1x" src="/images/sponsoring/max_face.webp" style="width: 300px; border-radius: 15px;">
+            <div>
+                <ul>
+                    <li>Max Weinl</li>
+                    <li>✉️ maximilian.weinl@gi.de </li>
+                    <li>📞 +49 176 343 615 91</li>
+                </ul>
+            </div>
+    </div>
 </div>
