@@ -79,7 +79,7 @@ link = "plugins/syotimer/syotimer.min.js"
 
     [[menu.main]]
     parent = "More"
-    name = "Help us"
+    name = "Volunteer"
     URL = "/helpers"
 
     [[menu.main]]

@@ -1,14 +1,14 @@
 ---
-title: "EcoCompute Helpers"
+title: "ecoCompute Helpers"
 date: 2025-05-19
 draft: false
-description: "Become an EcoCompute Helper"
+description: "Become an ecoCompute Helper"
 bg_image : "images/bg/cta-bg.webp"
 ---
 
 <!-- ─────────────────────────── Hero ─────────────────────────── -->
-# EcoCompute Helpers
-### Volunteer at EcoCompute Conference 2025
+# ecoCompute Helpers
+### Volunteer at ecoCompute Conference 2025
 **13 & 14 November 2025 · bUm – Berlin, Germany**
 
 > “No conference happens without its helpers. Join the crew, keep things running smoothly — and attend **for free**!”
@@ -22,7 +22,7 @@ bg_image : "images/bg/cta-bg.webp"
 
 * 🆓 **Free 2-day conference badge**
 * 🍽️ Lunch, coffee & snacks during your shifts
-* 👕 Limited-edition **EcoCompute T-shirt**
+* 👕 Limited-edition **ecoCompute T-shirt**
 * 🌍 Help make the largest sustainability-in-tech conference possible
 
 ---
@@ -65,14 +65,14 @@ Absolutely. Just make sure your shifts don’t overlap your session.
 We can’t cover costs.
 
 ### I have accessibility requirements.
-Tell us in the form – we’ll make it work.
+Tell us – we’ll make it work.
 
 ---
 
 <!-- ─────────────────────── Code of Conduct ────────────────────── -->
 ## Code of Conduct
 
-All Angels are expected to follow the [EcoCompute Code of Conduct](/code-of-conduct). Harassment or discrimination of any kind will not be tolerated.
+All Angels are expected to follow the [ecoCompute Code of Conduct](/code-of-conduct). Harassment or discrimination of any kind will not be tolerated.
 
 ---
 
