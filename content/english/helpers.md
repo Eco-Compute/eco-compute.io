@@ -72,7 +72,7 @@ Tell us – we’ll make it work.
 <!-- ─────────────────────── Code of Conduct ────────────────────── -->
 ## Code of Conduct
 
-All Angels are expected to follow the [ecoCompute Code of Conduct](/code-of-conduct). Harassment or discrimination of any kind will not be tolerated.
+All Angels are expected to follow the [ecoCompute Code of Conduct](/code-of-conduct)!
 
 ---
 
