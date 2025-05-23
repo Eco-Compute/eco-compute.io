@@ -31,7 +31,7 @@ Sponsoring **ecoCompute 2025** provides a unique platform to:
 
 We offer a variety of sponsorship packages designed to suit your goals and budget. From exclusive event naming opportunities to exhibiting at the conference venue, there’s a package for every level of engagement. Customizable options are also available.
 
-Please find details in our Sponsoring Opportunities Brochure: <u>[**Download  📕**](/files/ecoCompute-sponsoring-11.05.2025-v3.pdf)</u>
+Please find details in our Sponsoring Opportunities Brochure: <u>[**Download  📕**](/files/ecoCompute_Sponsoring.pdf)</u>
 
 ---
 
