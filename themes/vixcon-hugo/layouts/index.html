@@ -12,7 +12,7 @@
         <div class="banner-content">
           <h1 class="mt-3 mb-5">{{ .title | markdownify }}</h1>
           <h2>{{ .date_time }}</h2>
-          <h3 class="primary-color">{{ .location }}</h2>
+          <h3 class="primary-color">{{ .location | markdownify }}</h2>
         </div>
       </div>
     </div>
@@ -309,17 +309,8 @@
             <h5 class="text-uppercase letter-spacing mb-4">{{ .title | markdownify }}</h5>
             <h6 class="text-color mb-3">{{ .date }}</h6>
             <p class="lead">{{ .location | markdownify }}</p>
-            {{ if .button.enable }}
-            {{ with .button }}
-            <a href="{{ .link | absLangURL }}"><i class="tf-ion-ios-location mr-2"></i>{{ .label }}</a>
-            {{ end }}
-            {{ end }}
-            {{ if .button_2.enable }}
-            {{ with .button_2 }}
-            <br>
-            <a href="{{ .link | absLangURL }}"><i class="tf-ion-ios-location mr-2"></i>{{ .label }}</a>
-            {{ end }}
-            {{ end }}
+            <p>{{ .location_address | markdownify }}</p>
+            <a href="{{ .maps_location_link}}"><img src="{{ .maps_location_image | absURL }}" srcset="{{ .maps_location_image_2x | absURL }} 2x, {{ .maps_location_image | absURL }} 1x" alt="Location ecoCompute" class="img-fluid" loading="lazy" width="420"></a>
           </div>
         </div>
       </div>

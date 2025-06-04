@@ -26,13 +26,18 @@
 		position: absolute;
 		content:"";
 		right: 40px;
-		bottom:-90px;
+		bottom:40px;
 		background: $white;
 		padding:60px 50px;
 		@include tablet {
 			position: static;
 		}
 	}
+    .contact-info img {
+        @include desktop {
+          display: none;
+        }
+    }
 
 }
 

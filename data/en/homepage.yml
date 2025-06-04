@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "<span class='bold'>eco</span><span class='slim'>Compute</span> conference"
   date_time : "13 & 14 November 2025"
-  location : "bUm - Berlin, Germany"
+  location : "[📍bUm - Berlin, Germany](/#venue)"
 
 ############################# tagline ################################
 tagline:
@@ -299,16 +299,12 @@ venue:
   title : "Venue location"
   image : "images/bg/berlin-2025-1x.webp"
   image_2x : "images/bg/berlin-2025-2x.webp"
-  date : "13 & 14 November 2025"
-  location : "bUm - Berlin, Germany"
-  button:
-    enable : true
-    label : "Location on Google Maps"
-    link : "https://maps.app.goo.gl/34byMDYBpnFxyuJ27"
-  button_2:
-    enable : true
-    label : "Location Website"
-    link : "https://bum.berlin/"
+  location : "[bUm - Raum für solidarisches Miteinander](https://maps.app.goo.gl/34byMDYBpnFxyuJ27)"
+  location_address : "Paul-Lincke-Ufer 21,<br>10999 Berlin, Germany"
+  maps_location_image: "images/bum-maps-image.webp"
+  maps_location_image_2x: "images//bum-maps-image@2x.webp"
+  maps_location_link: "https://maps.app.goo.gl/34byMDYBpnFxyuJ27"
+
 
 ############################### Blog ######################################
 blog:
