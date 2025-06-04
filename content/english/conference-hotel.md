@@ -15,7 +15,7 @@ Just use the booking code **ecocompute** when you do your booking - In case you 
 
 ## Where to book
 
-Hotel Park Plaza Wallstreet\
+[Hotel Park Plaza Wallstreet](https://www.radissonhotels.com/de-de/hotels/park-plaza-wallstreet-berlin-mitte)\
 Wallstr. 23-24, 10179 Berlin\
 📍 [Google Maps](https://maps.app.goo.gl/96SxFuVPXh3NheY16)\
 📞 +49 30 400 557 700\
@@ -29,7 +29,7 @@ Sustainability begins with the venue!
 
 At ecoCompute, everything revolves around sustainable hardware and software development – so it's only logical to also focus on environmental awareness when choosing the venue.
 
-That's why the event will take place in a hotel that has been awarded the prestigious Green Key eco-label and lives sustainability every day. 🏨✅
+That's why the event will take place in a hotel that has been awarded the prestigious [Green Key eco-label](https://www.greenkey.global/). 🏨✅
 
 Hotel sustainability features:
 - 👉 100% renewable energy
