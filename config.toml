@@ -58,8 +58,8 @@ link = "plugins/syotimer/syotimer.min.js"
   weight = 4
 
   [[menu.main]]
-  name = "Location"
-  URL = "/#location"
+  name = "Venue"
+  URL = "/#venue"
   weight = 5
 
   [[menu.main]]
