@@ -29,9 +29,9 @@ timer:
 ########################## timer #################################
 newsletter:
   enable : true
-  title : "**Newsletter**"
-  sub_title: "Get updates for 2025"
-  button: "Get Updates"
+  title : "**Stay updated with our newsletter!**"
+  sub_title: ""
+  button: "Subscribe now!"
 
 ############################## Event ##############################
 event:
@@ -94,8 +94,8 @@ feature:
 
 testimonials:
   enable: true
-  title: "What guests are saying"
-  subtitle: "Testimonials and shout outs"
+  title: ""
+  subtitle: "What people are saying about us"
   testimonials:
 
     - name : "Christian Binder"
@@ -150,6 +150,7 @@ cfs:
   enable: true
   title_outline: "Speakers"
   title: "Call for Speakers - Open until 31.09.2025"
+  title_sub: "Share your insights to help shape a greener future."
   content: ""
   call_to_action: "Apply now!"
   link: "https://cfp.eco-compute.io/ecocompute-2025/cfp"
@@ -288,10 +289,10 @@ sponsor:
   # call to action in sponsor
   sponsorship:
     enable : true
-    title : "Want to be a sponsor ?"
+    title : "Become a sponsor!"
     #button
     label : "apply now"
-    link : "mailto:sponsors@eco-compute.io"
+    link : "/sponsoring"
 
 ################################ venue ########################
 venue:

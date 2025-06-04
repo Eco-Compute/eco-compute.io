@@ -9,6 +9,7 @@
           <span class="stroke-text">{{ .title_outline }}</span>
           <div class="pl-90">
             <h2 class="mt-3">{{ .title | markdownify }}</h2>
+            <h4 style="font-weight: normal;">{{ .title_sub | markdownify }}</h4>
             {{ with .content }}
             <p class="">{{ .content | markdownify }}</p>
             {{ end }}

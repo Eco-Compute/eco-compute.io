@@ -288,9 +288,7 @@ h3#track-1, h3#track-2, h3#track-1---talks-only, h3#track-2---talks--workshops {
 
     .counter-stat {
         h2 {
-            @include mobile {
-                font-size: 20px;
-            }
+            font-size: 25px;
         }
     }
 
