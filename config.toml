@@ -76,36 +76,50 @@ link = "plugins/syotimer/syotimer.min.js"
     parent = "More"
     name = "Grants / Reduced Tickets"
     URL = "/grants"
+    weight = 1
 
     [[menu.main]]
     parent = "More"
     name = "Volunteer"
     URL = "/helpers"
-
-    [[menu.main]]
-    parent = "More"
-    name = "Code of Conduct"
-    URL = "/codeofconduct"
-
-    [[menu.main]]
-    parent = "More"
-    name = "FAQ"
-    URL = "/faq"
-
-    [[menu.main]]
-    parent = "More"
-    name = "Contact"
-    URL = "/contact"
-
-    [[menu.main]]
-    parent = "More"
-    name = "Previous years"
-    URL = "/previous-years"
+    weight = 2
 
     [[menu.main]]
     parent = "More"
     name = "Sponsorship Opportunities"
     URL = "/sponsoring"
+    weight = 3
+
+
+    [[menu.main]]
+    parent = "More"
+    name = "Accomodation / Hotels"
+    URL = "/conference-hotel"
+    weight = 4
+
+    [[menu.main]]
+    parent = "More"
+    name = "Previous years"
+    URL = "/previous-years"
+    weight = 5
+
+    [[menu.main]]
+    parent = "More"
+    name = "Code of Conduct"
+    URL = "/codeofconduct"
+    weight = 6
+
+    [[menu.main]]
+    parent = "More"
+    name = "FAQ"
+    URL = "/faq"
+    weight = 7
+
+    [[menu.main]]
+    parent = "More"
+    name = "Contact"
+    URL = "/contact"
+    weight = 8
 
 
 
