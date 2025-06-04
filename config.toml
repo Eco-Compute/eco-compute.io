@@ -47,14 +47,20 @@ link = "plugins/syotimer/syotimer.min.js"
   URL = "/about"
   weight = 2
 
-  [[menu.main]]
-  name = "Schedule"
-  URL = "/schedule/2025"
-  weight = 3
+# Removed until schedule is released
+#  [[menu.main]]
+#  name = "Schedule"
+#  URL = "/schedule/2025"
+#  weight = 3
 
   [[menu.main]]
   name = "Call for Speakers"
   URL = "/speakers/2025"
+  weight = 3
+
+  [[menu.main]]
+  name = "Become a sponsor"
+  URL = "/sponsoring"
   weight = 4
 
   [[menu.main]]
@@ -63,14 +69,16 @@ link = "plugins/syotimer/syotimer.min.js"
   weight = 5
 
   [[menu.main]]
-  name = "Press"
-  URL = "/press"
-  weight = 6
-
-  [[menu.main]]
   name = "More"
   hasChildren = true
-  weight = 7
+  weight = 6
+
+
+    [[menu.main]]
+    name = "Press"
+    parent = "More"
+    URL = "/press"
+    weight = 0
 
     [[menu.main]]
     parent = "More"
@@ -84,11 +92,12 @@ link = "plugins/syotimer/syotimer.min.js"
     URL = "/helpers"
     weight = 2
 
-    [[menu.main]]
-    parent = "More"
-    name = "Sponsorship Opportunities"
-    URL = "/sponsoring"
-    weight = 3
+# Removed until schedule is released
+#    [[menu.main]]
+#    parent = "More"
+#    name = "Sponsorship Opportunities"
+#    URL = "/sponsoring"
+#    weight = 3
 
 
     [[menu.main]]
