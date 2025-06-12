@@ -229,7 +229,20 @@ partners:
     #       link : "https://itcc.ieee.org"
     #       background: "#fff"
 
+    - title : "Community Track Funders"
+      partner:
+         - name: "Umweltbundesamt"
+           logo : "images/clients/uba.webp"
+           logo_2x : "images/clients/uba-2x.webp"
+           link : "https://www.umweltbundesamt.de/"
+           background: "#fff"
 
+         - name: "Umweltbundesamt"
+           logo : "images/clients/bmukn.webp"
+           logo_2x : "images/clients/bmukn-2x.webp"
+           link : "https://www.bundesumweltministerium.de/"
+           background: "#fff"
+      infotext: "Der Community Track wird gefördert durch das Umweltbundesamt und das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit. Die Mittelbereitstellung erfolgt auf Beschluss des Deutschen Bundestages. Die Verantwortung für den Inhalt dieser Veröffentlichung liegt bei den Autorinnen und Autoren."
 
 ######################### sponsor ############################
 sponsor:
