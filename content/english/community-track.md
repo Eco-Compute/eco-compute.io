@@ -31,7 +31,8 @@ After all, tackling the ecological impacts of digitalization is not just a techn
 
 <small>
 
-\* Der Community Track wird gefördert durch das Umweltbundesamt und das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit. Die Mittelbereitstellung erfolgt auf Beschluss des Deutschen Bundestages. Die Verantwortung für den Inhalt dieser Veröffentlichung liegt bei den Autorinnen und Autoren.
+\* The community track was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Climate Action, Nature Conservation and Nuclear Safety. The funds are made available by resolution of the German Bundestag.
+
 </small>
 
 ---
