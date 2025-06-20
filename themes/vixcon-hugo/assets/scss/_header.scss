@@ -10,7 +10,7 @@
 
   .nav-link {
     font-size: 14px;
-    padding: 26px 18px !important;
+    padding: 26px 14px !important;
     font-weight: 700;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -105,7 +105,7 @@
 
 @include mobile {
   .main-nav .nav-link {
-    padding: 10px 18px !important;
+    padding: 10px 14px !important;
   }
 
   .navbar-nav .dropdown-menu {
@@ -117,7 +117,7 @@
 
 @include mobile-xs {
   .main-nav .nav-link {
-    padding: 10px 18px !important;
+    padding: 10px 14px !important;
   }
 
   .navbar-nav .dropdown-menu {
@@ -130,7 +130,7 @@
 
 @include tablet {
   .main-nav .nav-link {
-    padding: 10px 18px !important;
+    padding: 10px 14px !important;
   }
 
   .navbar-nav .dropdown-menu {
@@ -142,7 +142,7 @@
 
 @include desktop {
   .main-nav .nav-link {
-    padding: 10px 18px !important;
+    padding: 10px 14px !important;
   }
 
   .navbar-nav .dropdown-menu {
