@@ -17,7 +17,7 @@ We aim to **amplify your voices**, help raise awareness, and foster meaningful c
 <br>
 
 
-The **climate crisis** and the **digital revolution** are deeply intertwined. You may already know that the **Information and Communications Sector** is responsible for **1.8–2.8% of global greenhouse gas emissions**, which is comparable to the aviation industry.
+The **climate crisis** and the **digital revolution** are deeply intertwined. You may already know that the **Information and Communications Sector** is responsible for **1.5–4% of global greenhouse gas emissions**, which is comparable to the aviation industry. [1]
 
 There’s an urgent need for **interdisciplinary and intersectional approaches** to ensure tech is sustainable.
 
@@ -121,3 +121,10 @@ We look forward to hearing your ideas!
 - **Submission Deadline**: September 30, 2025
 
 
+---
+##### References
+<small>
+
+[1] [ICT carbon emissions - Worldbank](https://openknowledge.worldbank.org/entities/publication/edf9fd64-a6ab-4124-a4ec-d9a2ab70516c)
+
+</small>
