@@ -2,28 +2,54 @@
 about:
   enable : true
   title : "Innovation & **Inspiration** Connect People"
-  content : "ecoCompute was born out of the necessity to <b>bring sustainability in the digital realm into action</b>.<br> <br>
-  Sustainability knowledge and also efforts are often siloed in specific technical domains without reaching the people who can make use of it.
+  content : "## Why was ecoCompute Conference born?
 
-- We have good processor efficiency features, but they are often only known to the hardware developers
-
-- We have good software techniques to shift load to where the sun is shining, but data centers do not enable them
-
-- We have good software algorithms but the hardware does not optimally support their implementation
-
-- We have people with a lot of sustainability knowledge in tech, but they have no dedicated platform to connect and talk
 <br>
+  In our increasingly digital world, software plays a pivotal role in daily life powering everything from communication and entertainment to transportation and healthcare. However, this digital convenience comes with a significant, often overlooked and invisble environmental cost. 
+
+
+Moreover, for companies committed to climate action, aligning with the Science-Based Targets initiative (SBTi) is fast becoming a baseline expectation. The SBTi provides a clearly defined pathway for companies to reduce greenhouse gas emissions in line with the Paris Agreement. But while many organizations focus on emissions from physical operations, few account for the growing footprint of their digital systems—including software.
+
 <br>
 
-With ecoCompute we have create a platform for delivering this type of knowledge by inviting professionals from the often
-  separate domains hardware, software, and data centers to share knowledge and overcome implementation hurdles.
-  <br>
-  <br>
+## Why should one care?
 
-  The conference features dedicated tracks, always featuring a topic in an intersectional manner. It is futher supported through
-  high-value workshops, where attendees can deep-dive into topics with hands-on experiences.
-  <br><br>
-  Want to have it more concrete: <u>[Look at our past speaker lineups and talks / workshops](previous-years/)</u>
+Maybe a graphic says more than a thousand words:
+
+<div style='text-align: center; margin: 2em 0;''>
+  <img class='ui large rounded bordered image' src='/images/about/infographic.jpg' alt='infographic on invisible environmental cost of digital revolution' loading='lazy'>
+</div>
+
+
+Whether you’re <b>motivated by climate responsibility</b>, <b>operational efficiency</b>, or <b>building tech that’s more inclusive</b> and future-ready, sustainable computing is a win-win. ecoCompute is where those <b>who care about the impact of their code come together to drive real change</b>.
+<br><br>
+
+The recent rise in global commitments and initiatives for sustainable development—such as the Global Investors for Sustainable Development (GISD) Alliance’s pledge to integrate the SDGs across their portfolios—now requires companies to conduct SDG assessments and craft robust response strategies. According to KPMG’s 2024 Survey of Sustainability Reporting, 75% of the world’s largest companies and 75% of the top 100 companies in each country now report on the SDGs, indicating a stabilization in adoption following rapid growth in previous years
+
+
+## This is why the ecoCompute conference was created.
+
+We want to shine a spotlight on the often <b>invisible environmental footprint of our digital world</b>. While the carbon cost of flying or manufacturing is widely recognized, the emissions caused by inefficient software, data-intensive applications, and energy-hungry infrastructure remain largely hidden. ecoCompute brings together <b>developers, researchers, policymakers, and industry leaders</b> to confront this blindspot head-on.
+<br><br>
+
+For example, hardware developers have efficiency features but many are often not aware of them. There are also many good software techniques to shift the load to where the sun shines, however, the infrastructure in data centers are not equipped to implement these techniques. Our goal is to attempt to piece the puzzle together by putting all the puzzle pieces (and that means developers, researchers, data center professionals, policy makers and industry leaders) under one roof.
+<br><br>
+
+Through <b>talks, workshops, and collaborative sessions</b>, the conference aims to put experts and thought leaders in the same room to exchange insights and best practices.
+
+
+## So Why Should You Join?
+
+Whether you’re a <b>software developer, hardware designer, or data center professional</b>, ecoCompute offers more than just talks—it’s about collaborating to find cross-disciplinary solutions for challenges we face in ensuring tech is sustainable.
+
+<ul>
+<li><b>Hands-on Workshops:</b> Dive deep into practical, actionable techniques you can apply immediately in your work</li>
+<li><b>Expert Panels:</b> Hear from thought leaders who are actively shaping the future of sustainable computing</li>
+<li><b>Networking Opportunities:</b> Connect with like-minded professionals who are just as committed to innovation and sustainability and take the next steps for more progress in sustainable software design.</li>
+<li><b>Best Practices:</b> Learn concrete strategies for incorporating sustainability into your work, from energy-efficient software to optimized hardware design.</li>
+</ul>
+
+Look at our <a href='/previous-years/'>past speaker lineups and workshops</a> to see how we’ve helped others in the field.
 
 "
 ################## sponsor ###############################
