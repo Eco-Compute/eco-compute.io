@@ -64,8 +64,8 @@ link = "plugins/syotimer/syotimer.min.js"
   weight = 4
 
   [[menu.main]]
-  name = "Community"
-  URL = "/community-track"
+  name = "Venue"
+  URL = "/#venue"
   weight = 5
 
   [[menu.main]]
@@ -75,66 +75,60 @@ link = "plugins/syotimer/syotimer.min.js"
 
 
     [[menu.main]]
-    name = "Venue"
-    URL = "/#venue"
-    parent = "More"
-    weight = 0
-
-    [[menu.main]]
     name = "Press"
     parent = "More"
     URL = "/press"
-    weight = 1
+    weight = 0
 
     [[menu.main]]
     parent = "More"
     name = "Grants / Reduced Tickets"
     URL = "/grants"
-    weight = 2
+    weight = 1
 
     [[menu.main]]
     parent = "More"
     name = "Volunteer"
     URL = "/helpers"
-    weight = 3
+    weight = 2
 
 # Removed until schedule is released
 #    [[menu.main]]
 #    parent = "More"
 #    name = "Sponsorship Opportunities"
 #    URL = "/sponsoring"
-#    weight = 4
+#    weight = 3
 
 
     [[menu.main]]
     parent = "More"
     name = "Accomodation / Hotels"
     URL = "/conference-hotel"
-    weight = 5
+    weight = 4
 
     [[menu.main]]
     parent = "More"
     name = "Previous years"
     URL = "/previous-years"
-    weight = 6
+    weight = 5
 
     [[menu.main]]
     parent = "More"
     name = "Code of Conduct"
-    URL = "/code-of-conduct"
-    weight = 7
+    URL = "/codeofconduct"
+    weight = 6
 
     [[menu.main]]
     parent = "More"
     name = "FAQ"
     URL = "/faq"
-    weight = 8
+    weight = 7
 
     [[menu.main]]
     parent = "More"
     name = "Contact"
     URL = "/contact"
-    weight = 9
+    weight = 8
 
 
 

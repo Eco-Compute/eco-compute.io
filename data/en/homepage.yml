@@ -290,12 +290,13 @@ sponsor:
     - title : "Bronze Sponsors 🥉"
       css_class: "bronze"
       sponsor:
+        # sponcor loop
         - logo : "images/clients/peerigon.webp"
           link : "https://www.peerigon.com/"
           background: "#fff"
-        - logo : "images/clients/qaware.webp"
-          link : "https://www.qaware.de"
-          background: "#fff"
+        # - logo : "images/clients/qaware.webp"
+        #   link : "https://www.qaware.de"
+        #   background: "#fff"
 
 
   # call to action in sponsor
