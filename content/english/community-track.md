@@ -12,6 +12,14 @@ We aim to **amplify your voices**, help raise awareness, and foster meaningful c
 
 ---
 
+#### Looking for the Tech Track?
+
+Did you get here by a direct link? We also do have our main tech track with technical deep dives and engineering topics.
+
+This way please: &raquo; <u><a href="https://cfp.eco-compute.io/ecocompute-2025/cfp"> Tech Track - Call for Speakers</a></u> &laquo;
+
+---
+
 ### Why a Community Track?
 
 <br>
@@ -34,6 +42,7 @@ After all, tackling the ecological impacts of digitalization is not just a techn
 \* The community track was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Climate Action, Nature Conservation and Nuclear Safety. The funds are made available by resolution of the German Bundestag.
 
 </small>
+
 
 ---
 
