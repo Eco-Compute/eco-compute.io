@@ -263,13 +263,12 @@ sponsor:
     #       link : "https://www.green-coding.io"
     #       background: "#2b3e50"
 
-    # ############################ sponsor group loop
-    # - title : "Gold Sponsors 🏅"
-    #   css_class: "gold"
-    #   sponsor:
-    #     - logo : "images/clients/envite.webp"
-    #       link : "https://envite.de"
-    #       background: "#fff"
+    - title : "Gold Sponsors 🏅"
+      css_class: "gold"
+      sponsor:
+        - logo : "images/clients/envite.webp"
+          link : "https://envite.de"
+          background: "#fff"
 
 
 
