@@ -14,51 +14,46 @@
         </div>
     {{ end }}
 
-    {{/* Remove the if check once we have speakers */}}
+    {{ $speaker_year := .Page.Params.speaker_year }}
+    {{ $path_prefix := printf "speaker/%s" $speaker_year }}
 
-    {{ if eq .Page.Params.outdated true }}
-
-        {{ $speaker_year := .Page.Params.speaker_year }}
-        {{ $path_prefix := printf "speaker/%s" $speaker_year }}
-
-        <section id="speakers" class="section-speaker">
-          <div class="container">
-            {{ with $data.homepage.speaker }}
-            <div class="row section-heading">
-              <div class="col-lg-6">
-                <div class="heading">
-                  <span class="stroke-text">{{ .title_outline }}</span>
-                  <div class="pl-90">
-                    <h2>{{ .title | markdownify }}</h2>
-                    <p>{{ .content | markdownify }}</p>
+    <section id="speakers" class="section-speaker">
+      <div class="container">
+        {{ with $data.homepage.speaker }}
+        <div class="row section-heading">
+          <div class="col-lg-">
+            <div class="heading">
+              <span class="stroke-text">{{ .title_outline }}</span>
+              <div class="pl-90">
+                <h2>{{ .title | markdownify }}</h2>
+                <p>{{ .content | markdownify }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+        <div class="row">
+          {{ range (where .Site.RegularPages "Type" "speaker") }}
+            {{ if (strings.HasPrefix .File.Path $path_prefix) }}
+              <div class="col-lg-4 col-sm-6">
+                <div class="speaker-block mb-5">
+                  <div class="img-block">
+                    <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" class="img-fluid" loading="lazy">
+                    <ul class="list-inline speaker-social">
+                      {{ range .Params.Social }}
+                      <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+                      {{ end }}
+                    </ul>
+                  </div>
+                  <div class="speaker-info">
+                    <h4 class="mb-0 mt-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                    <p>{{ .Params.Designation }} | {{ .Params.Company }}</p>
                   </div>
                 </div>
               </div>
-            </div>
             {{ end }}
-            <div class="row">
-              {{ range (where .Site.RegularPages "Type" "speaker") }}
-                {{ if (strings.HasPrefix .File.Path $path_prefix) }}
-                  <div class="col-lg-4 col-sm-6">
-                    <div class="speaker-block mb-5">
-                      <div class="img-block">
-                        <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" class="img-fluid" loading="lazy">
-                        <ul class="list-inline speaker-social">
-                          {{ range .Params.Social }}
-                          <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-                          {{ end }}
-                        </ul>
-                      </div>
-                      <div class="speaker-info">
-                        <h4 class="mb-0 mt-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-                        <p>{{ .Params.Designation }} | {{ .Params.Company }}</p>
-                      </div>
-                    </div>
-                  </div>
-                {{ end }}
-              {{ end }}
-            </div>
-          </div>
-        </section>
-    {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
 {{ end }}

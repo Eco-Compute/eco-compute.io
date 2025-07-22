@@ -159,9 +159,9 @@ cfs:
 
 ########################## speaker ##########################
 speaker:
-  enable : false
+  enable : true
 #  title_outline : "Speakers"
-  title : "ecoCompute Speakers"
+  title : "ecoCompute Speakers - more TBA"
   content : ""
   # speaker content comes from "content/speaker" folder
 
