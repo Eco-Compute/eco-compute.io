@@ -33,7 +33,7 @@
         </div>
         {{ end }}
         <div class="row">
-          {{ range (where .Site.RegularPages "Type" "speaker") }}
+          {{ range (sort (where .Site.RegularPages "Type" "speaker") "Title") }}
             {{ if (strings.HasPrefix .File.Path $path_prefix) }}
               <div class="col-lg-4 col-sm-6">
                 <div class="speaker-block mb-5">
