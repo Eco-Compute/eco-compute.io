@@ -229,7 +229,7 @@ partners:
     #       link : "https://itcc.ieee.org"
     #       background: "#fff"
 
-    - title : "Community Track Funders"
+    - title : "Community Track Funders & Partners"
       partner:
          - name: "Umweltbundesamt"
            logo : "images/clients/uba.webp"
@@ -242,6 +242,33 @@ partners:
            logo_2x : "images/clients/bmukn-2x.webp"
            link : "https://www.bundesumweltministerium.de/"
            background: "#fff"
+
+         - name: "Bits & Bäume"
+           logo : "images/clients/bits-und-baeume.webp"
+           logo_2x : "images/clients/bits-und-baeume-2x.webp"
+           link : "https://bits-und-baeume.org/"
+           background: "#fff"
+
+         - name: "Weizenbaum Institut"
+           logo : "images/clients/weizenbaum-institut.webp"
+           logo_2x : "images/clients/weizenbaum-institut-2x.webp"
+           link : "https://www.weizenbaum-institut.de/"
+           background: "#fff"
+
+         - name: "Germanwatch"
+           logo : "images/clients/germanwatch.webp"
+           logo_2x : "images/clients/germanwatch-2x.webp"
+           link : "https://www.germanwatch.org/de"
+           background: "#fff"
+
+         - name: "BUND Jugend"
+           logo : "images/clients/bund-jugend.webp"
+           logo_2x : "images/clients/bund-jugend-2x.webp"
+           link : "https://www.bundjugend.de/"
+           background: "#fff"
+
+
+
       infotext: "Der Community Track wird gefördert durch das Umweltbundesamt und das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit. Die Mittelbereitstellung erfolgt auf Beschluss des Deutschen Bundestages. Die Verantwortung für den Inhalt dieser Veröffentlichung liegt bei den Autorinnen und Autoren."
 
 ######################### sponsor ############################
