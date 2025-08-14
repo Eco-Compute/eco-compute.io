@@ -1,8 +1,8 @@
 ---
 title: "Conference Hotel"
-date: 2025-06-04T09:51:25+06:00
+date: 2025-08-14T07:51:25+06:00
 draft: false
-description: "Conference Hotel Berlin 2025 - Hotel Park Plaza"
+description: "Conference Hotel Berlin 2025 - art'otel Berlin Mitte"
 bg_image : "images/bg/cta-bg.webp"
 ---
 
@@ -15,11 +15,11 @@ Just use the booking code **ecocompute** when you do your booking - In case you 
 
 ## Where to book
 
-[Hotel Park Plaza Wallstreet](https://www.radissonhotels.com/de-de/hotels/park-plaza-wallstreet-berlin-mitte)\
-Wallstr. 23-24, 10179 Berlin\
+[art'otel Berlin Mitte](https://artotelberlinmitte.com/)\
+Wallstrasse 70 - 73, 10179 Berlin\
 📍 [Google Maps](https://maps.app.goo.gl/96SxFuVPXh3NheY16)\
-📞 +49 30 400 557 700\
-📧 [ppwbres@parkplazagermany.com](mailto:ppwbres@parkplazagermany.com)
+📞 +49 30 400 557 760\
+📧 [mailto:abmconf@artotelsgermany.com](mailto:mailto:abmconf@artotelsgermany.com)
 
 ---
 
