@@ -94,6 +94,9 @@ Best practices, success stories, struggles, and strategies for building movement
 **Political Advocacy & Awareness**
 Strategies and best practices for engaging policymakers and putting sustainability in the digital realm jointly on the political agenda.
 
+**Problematizing Digitalization**
+What dangers and pitfalls does it pose to sustainability?
+
 **Community Building**
 How to grow and sustain active, diverse, and resilient movements to amplify our voices on the importance of sustainable tech.
 
