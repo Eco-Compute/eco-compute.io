@@ -1,13 +1,15 @@
 ---
-title: "Conference Hotel"
+title: "Conference Accomodation"
 date: 2025-08-14T07:51:25+06:00
 draft: false
-description: "Conference Hotel Berlin 2025 - art'otel Berlin Mitte"
+description: "Conference Accomodation Berlin 2025 - art'otel Berlin Mitte"
 bg_image : "images/bg/cta-bg.webp"
 ---
 
 If you are traveling to Berlin and need a hotel to stay in you can book at our conference partner hotel.
 ecoCompute reserves a special contigency just for conference guests.
+
+The hotel is close by the conference location with only 10 Minutes by Taxi.
 
 ## How to book
 
@@ -17,7 +19,7 @@ Just use the booking code **ecocompute** when you do your booking - In case you 
 
 [art'otel Berlin Mitte](https://artotelberlinmitte.com/)\
 Wallstrasse 70 - 73, 10179 Berlin\
-📍 [Google Maps](https://maps.app.goo.gl/96SxFuVPXh3NheY16)\
+📍 [Google Maps](https://maps.app.goo.gl/5L3w8yTyarVbjs4E6)\
 📞 +49 30 400 557 760\
 📧 [mailto:abmconf@artotelsgermany.com](mailto:mailto:abmconf@artotelsgermany.com)
 
