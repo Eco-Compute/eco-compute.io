@@ -112,7 +112,7 @@ link = "plugins/syotimer/syotimer.min.js"
     [[menu.main]]
     parent = "More"
     name = "Accomodation / Hotels"
-    URL = "/conference-hotel"
+    URL = "/conference-accomodation"
     weight = 5
 
     [[menu.main]]
