@@ -14,8 +14,8 @@ pricing:
   pricing_table:
     # pricing table loop
     - title : "Early"
-      style : "1"
-      price : "299 EUR"
+      style : "2"
+      price : "~~299 EUR~~"
       icon : "tf-ion-android-bulb"
       bg_image : "images/bg/page-header.webp"
       services:
@@ -25,12 +25,12 @@ pricing:
         - "Workshops 👩‍💻🧑🏾‍💻"
         - "Conference Dinner 🍝 (limited addon)"
       button:
-        label : "Buy Ticket"
-        link : "https://pretix.eu/eco-compute/2025/"
+        label : "Sold Out"
+        link : "#"
 
     # pricing table loop
     - title : "Regular"
-      style : "2"
+      style : "1"
       price : "360 EUR"
       icon : "tf-ion-play"
       bg_image : "images/bg/page-header.webp"
@@ -41,8 +41,8 @@ pricing:
         - "Conference Dinner 🍝 (limited addon)"
         - "See our <a href='/grants'><u>grants page</u></a> for reduced price options<br><br>"
       button:
-        label : "Opens in Q2/2025"
-        link : ""
+        label : "Buy Ticket"
+        link : "https://pretix.eu/eco-compute/2025/"
 
     # pricing table loop
     - title : "Company"
