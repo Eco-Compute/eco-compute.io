@@ -6,7 +6,7 @@ description: "Geerd-Dietger Hoffmann"
 bg_image : "images/bg/cta-bg.webp"
 image : "images/teams/didi-hoffmann.webp"
 company: "Green Coding Solutions"
-designation : "Head of Engineering"
+designation : "CTO"
 type : "speaker"
 outdated: false
 
@@ -38,3 +38,4 @@ As a seasoned software engineer and Chief Technology Officer, Didi Hoffmann brin
 His significant contributions to open source include leading the development of health collaboration platforms, managing large-scale software projects for emergency response, and pioneering in the field of regenerative agriculture technology at ClimateFarmers. Notably, his work in eHealth Africa involved restructuring IT departments across continents, emphasizing data-driven solutions in health informatics. Hoffmann's involvement in academia as a research fellow and his foundational work at CERN and IBM further accentuate his diverse skill set. With a master's degree in Software Engineering from University College London and a deep commitment to sustainability in tech.
 
 Didi Hoffmann is the Head of Engieering at Green Coding Solutions.
+
