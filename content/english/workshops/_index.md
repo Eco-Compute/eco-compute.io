@@ -6,3 +6,4 @@ description: "Workshops list for the ecoCompute Conference 2025 in Berlin, Germa
 workshop_year: "2025"
 outdated: false
 ---
+<meta http-equiv="refresh" content="0; url=/workshops/2025/">
