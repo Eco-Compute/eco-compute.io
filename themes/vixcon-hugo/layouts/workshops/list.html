@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+    {{ $data := index .Site.Data .Site.Language.Lang }}
+
+    {{ if eq .Page.Params.outdated true  }}
+        <div class="ui warning message">
+            <h2 class="header">Warning! - Outdated content</h2>
+            <p>You are watching the speakers for a previous year!<br>
+            Please find the most current schedule under: <a href="/schedule/{{ now.Year }}" style="font-weight: bold; text-decoration: underline;">Current schedule</a></p>
+        </div>
+    {{ end }}
+
+    {{ $workshop_year := .Page.Params.workshop_year }}
+    {{ $path_prefix := printf "workshop/%s" $workshop_year }}
+
+
+
+
+    <section id="workshops" class="section-workshops section">
+      <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+                <h2 class="mb-4 text-lg title">Workshops {{ $workshop_year }}</h2>
+                <p>One core part of ecoCompute is hands-on workshops by industry leaders in their field. This year we bring you a selection from deep-tech workshops on the hardware side with conversational workshops to explore how to bring sustainability into their organziation along with community building and problem solving.</p>
+            </div>
+          </div>
+          <hr>
+          <img src="/images/workshops.webp" alt="Workshops at ecoCompute" class="img-fluid" loading="lazy">
+          <hr>
+
+        <div class="row">
+          {{ range (sort (where .Site.RegularPages "Type" "workshop") "Title") }}
+            {{ if (strings.HasPrefix .File.Path $path_prefix) }}
+              <div class="col-lg-4 col-sm-6">
+                <div class="speaker-block mb-5">
+                  <div class="speaker-info">
+                    <h4 class="mb-0 mt-3"><a href="{{ .Permalink }}"><i class="{{ .Params.Icon }}"></i> {{ .Title }}</a></h4>
+                    <p>{{ .Description }}</p>
+                    <p><u><a href="{{ .Permalink }}">Read full details and description</a></u></p>
+                  </div>
+                </div>
+              </div>
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+{{ end }}
