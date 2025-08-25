@@ -11,8 +11,8 @@ outdated: false
 
 ### Goals of the workshop
 
-- Understand all moving pieces of the Blue Angel certification for software
-- See a full example of a certified sofware alongside all documents
+- Get to know concepts of power saving and hardware design that result in altered power consumption
+- Deep dive into the linux kernel to learn settings that contribute to system sleep and wake states which result in energy consumption
 
 ---
 

@@ -11,9 +11,8 @@ outdated: false
 
 
 ### Goals of the workshop
-
-- Understand all moving pieces of the Blue Angel certification for software
-- See a full example of a certified sofware alongside all documents
+- Get to know what contributes to emissions for digital products and ICT equipment
+- Get to know solutions how to mitigate and reduce emissions
 
 ---
 
