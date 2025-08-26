@@ -312,12 +312,14 @@ sponsor:
     #     - logo : "images/clients/RS.webp"
     #       link : "https://www.rohde-schwarz.com"
 
-    # - title : "Silver Sponsors 🥈"
-    #   css_class: "silver"
-    #   sponsor:
-    #     - logo : "images/clients/ieee_cc.webp"
-    #       link : "https://itcc.ieee.org"
-    #       background: "#fff"
+    - title : "Silver Sponsors 🥈"
+      css_class: "silver"
+      sponsor:
+        - name: "neuland - Büro für Informatik GmbH"
+          logo : "images/clients/neuland.webp"
+          logo_2x : "images/clients/neuland-2x.webp"
+          link : "https://www.neuland-bfi.de/"
+          background: "#fff"
 
 
     - title : "Bronze Sponsors 🥉"
