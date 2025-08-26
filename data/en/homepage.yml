@@ -293,9 +293,16 @@ sponsor:
     - title : "Gold Sponsors 🏅"
       css_class: "gold"
       sponsor:
-        - logo : "images/clients/envite.webp"
+        - name: "envite consulting GmbH"
+          logo : "images/clients/envite.webp"
           link : "https://envite.de"
           background: "#fff"
+
+        - name: "Bundesverband Green Software e.V."
+          logo : "images/clients/bvgs.webp"
+          logo_2x : "images/clients/bvgs-2x.webp"
+          link : "https://www.bundesverband-green-software.de/"
+          background: "#EEEEEE"
 
 
 
@@ -316,10 +323,12 @@ sponsor:
     - title : "Bronze Sponsors 🥉"
       css_class: "bronze"
       sponsor:
-        - logo : "images/clients/peerigon.webp"
+        - name: "Peerigon"
+          logo : "images/clients/peerigon.webp"
           link : "https://www.peerigon.com/"
           background: "#fff"
-        - logo : "images/clients/qaware.webp"
+        - name: "QAWare"
+          logo : "images/clients/qaware.webp"
           link : "https://www.qaware.de"
           background: "#fff"
 
