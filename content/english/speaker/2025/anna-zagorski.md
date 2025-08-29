@@ -8,7 +8,7 @@ image: "images/teams/anna-zagorski.webp"
 company: "Umweltbundesamt"
 designation : "Research Associate for Green IT"
 type : "speaker"
-outdated: true
+outdated: false
 
 ---
 
