@@ -7,6 +7,9 @@ bg_image : "images/bg/cta-bg.webp"
 type : "workshop"
 icon: "tf-tools-2"
 outdated: false
+name: "Arne Tarara"
+image : "images/teams/arne-tarara.webp"
+
 ---
 
 ### Goals of the workshop
