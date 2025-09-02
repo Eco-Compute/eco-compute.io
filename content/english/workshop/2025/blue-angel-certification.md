@@ -7,8 +7,9 @@ bg_image : "images/bg/cta-bg.webp"
 type : "workshop"
 icon: "tf-ion-android-document"
 outdated: false
-name: "Arne Tarara"
-image : "images/teams/arne-tarara.webp"
+workshop_host: "Arne Tarara"
+workshop_host_details: "speaker/2025/didi-hoffmann/"
+workshop_host_image : "images/teams/didi-hoffmann-small.webp"
 ---
 
 ### Goals of the workshop
@@ -23,6 +24,15 @@ image : "images/teams/arne-tarara.webp"
 - **Target Group**: Software Companies, Software Developers, Product Managers, Software Vendors, interested people in software labeling
 - **Duration**: 2-3 hours
 - **Format**: Show&Tell
+---
+
+### Workshop Host
+<br>
+<img src="/{{< param workshop_host_image >}}" alt="{{< param workshop_host >}}" class="img-fluid rounded-circle" style="width: 100px;" loading="lazy">
+<p>
+    <b class="mb-0 mt-3">{{< param workshop_host >}}</b><br>
+    <u><a href="/{{< param workshop_host_details >}}">Details about the workshop host</a></u>
+</p>
 
 ---
 

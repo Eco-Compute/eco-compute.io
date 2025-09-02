@@ -1,14 +1,14 @@
 ---
 title: "Digital Collage - Workshop"
 date: 2025-08-25T10:51:25+06:00
-draft: false
+draft: true
 description: "A workshop to understand, the impact of digital technologies on the environment and how to reduce it."
 bg_image : "images/bg/cta-bg.webp"
 type : "workshop"
 icon: "tf-ion-bookmark"
 outdated: false
-name: "Arne Tarara"
-image : "images/teams/arne-tarara.webp"
+workshop_host: "X"
+workshop_host_image : "images/teams/x.webp"
 
 ---
 
