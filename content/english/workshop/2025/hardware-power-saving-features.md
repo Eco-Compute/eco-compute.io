@@ -7,6 +7,10 @@ bg_image : "images/bg/cta-bg.webp"
 type : "workshop"
 icon: "tf-tools-2"
 outdated: false
+workshop_host: "Hagen Pfeifer"
+workshop_host_details: "speaker/2025/hagen-pfeifer/"
+workshop_host_image : "images/teams/hagen-pfeifer-small.webp"
+
 ---
 
 ### Goals of the workshop
@@ -21,6 +25,16 @@ outdated: false
 - **Target Group**: Hardware developers, hardware vendors, low-level software developers, engineers interested in power efficiency
 - **Duration**: 3 hours
 - **Format**: Presentation & Hands-On
+
+---
+
+### Workshop Host
+<br>
+<img src="/{{< param workshop_host_image >}}" alt="{{< param workshop_host >}}" class="img-fluid rounded-circle" style="width: 100px;" loading="lazy">
+<p>
+    <b class="mb-0 mt-3">{{< param workshop_host >}}</b><br>
+    <u><a href="/{{< param workshop_host_details >}}">Details about the workshop host</a></u>
+</p>
 
 ---
 

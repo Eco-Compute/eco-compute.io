@@ -7,6 +7,10 @@ bg_image : "images/bg/cta-bg.webp"
 type: "workshop"
 icon: "tf-genius"
 outdated: false
+workshop_host: "Verena Majuntke / Anita Schüttler"
+workshop_host_details: "speaker/2025/verena-majuntke/"
+workshop_host_image : "images/teams/verena-majuntke-small.webp"
+
 ---
 
 ### Goals of the workshop
@@ -26,6 +30,16 @@ outdated: false
 - **Target Group**: Specialists and project managers involved in the entire software development process (including product owners, requirements, development, UX/UI, architecture, QA, agile coaching) as well as related areas such as sales and management.
 - **Duration**: 3 hours
 - **Format**: Keynote speech, moderated teamwork, development of micro-challenges with optional 30-day follow-up
+
+---
+
+### Workshop Host
+<br>
+<img src="/{{< param workshop_host_image >}}" alt="{{< param workshop_host >}}" class="img-fluid rounded-circle" style="width: 100px;" loading="lazy">
+<p>
+    <b class="mb-0 mt-3">{{< param workshop_host >}}</b><br>
+    <u><a href="/{{< param workshop_host_details >}}">Details about the workshop host</a></u>
+</p>
 
 ---
 
