@@ -298,6 +298,12 @@ sponsor:
           link : "https://envite.de"
           background: "#fff"
 
+        - name: "Yorizon GmbH & Co. KG"
+          logo : "images/clients/yorizon.webp"
+          logo_2x : "images/clients/yorizon-2x.webp"
+          link : "https://yorizon.com/"
+          background: "#fff"
+
         - name: "Bundesverband Green Software e.V."
           logo : "images/clients/bvgs.webp"
           logo_2x : "images/clients/bvgs-2x.webp"
