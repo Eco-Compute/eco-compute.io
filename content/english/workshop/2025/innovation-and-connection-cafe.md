@@ -46,7 +46,7 @@ Sustainability in software development does not depend solely on technology or c
 After a very short introduction (10 minutes), the interactive program begins immediately:
 
 - Speed networking: Short, moderated discussion rounds get everyone talking – even across roles and disciplines.
-- World Café / theme tables: Small groups rotate between tables with guiding questions such as AI, data centers, innovative ideas, new technologies, etc.
+- World Café / theme tables: Small groups rotate between tables with guiding questions such as AI, data centers, innovative ideas, hardware design, software benchmarking, new technologies, etc.
 - Idea collage: At the end, the groups develop small micro-challenges or “next steps” that they would like to implement in their everyday lives – not an obligation, but an invitation.
 
 The result is a workshop that focuses on relationships and ideas. Anyone who wants to can try out their micro-challenge in the 30 days after the conference and share their experiences – this keeps the contact alive beyond the conference.
