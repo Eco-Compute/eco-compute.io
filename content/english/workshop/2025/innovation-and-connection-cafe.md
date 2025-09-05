@@ -44,8 +44,9 @@ workshop_host_image : "images/teams/arne-tarara-small.webp"
 Sustainability in software development does not depend solely on technology or certificates, but on people who break new ground together. This workshop therefore focuses on getting to know each other and exchanging ideas. Instead of listening to long lectures, participants work together in varied, playful formats to learn from each other and network with a focus on current challenges and implementations in practical engineering.
 
 After a very short introduction (10 minutes), the interactive program begins immediately:
-• Speed networking: Short, moderated discussion rounds get everyone talking – even across roles and disciplines.
-• World Café / theme tables: Small groups rotate between tables with guiding questions such as AI, data centers, innovative ideas, new technologies, etc.
-• Idea collage: At the end, the groups develop small micro-challenges or “next steps” that they would like to implement in their everyday lives – not an obligation, but an invitation.
+
+- Speed networking: Short, moderated discussion rounds get everyone talking – even across roles and disciplines.
+- World Café / theme tables: Small groups rotate between tables with guiding questions such as AI, data centers, innovative ideas, new technologies, etc.
+- Idea collage: At the end, the groups develop small micro-challenges or “next steps” that they would like to implement in their everyday lives – not an obligation, but an invitation.
 
 The result is a workshop that focuses on relationships and ideas. Anyone who wants to can try out their micro-challenge in the 30 days after the conference and share their experiences – this keeps the contact alive beyond the conference.
