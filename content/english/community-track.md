@@ -1,12 +1,17 @@
-# Community Track @ ecoCompute 2025
-*A space for collaboration, critical reflection & creativity in sustainable technology*
+---
+title: "Community Track @ ecoCompute 2025"
+date: 2025-06-10T13:51:25+06:00
+draft: fals
+bg_image : "images/bg/cta-bg.webp"
+---
 
-### Call for Speakers Now Open!
+### Community Track Call for Speakers Now Open!
 
 <br>
 
-
 For the first time, **ecoCompute** will host a **Community Track**, a dedicated space spotlighting diverse voices from civil society, environmental activism, grassroots tech, and research.
+
+*A space for collaboration, critical reflection & creativity in sustainable technology*
 
 We aim to **amplify your voices**, help raise awareness, and foster meaningful connections. This space is for **productive dialogue, critical reflection**, and **collaborative solutions** toward a sustainable digital future.
 
@@ -74,6 +79,19 @@ By bringing together civil society, grassroots initiatives, and interdisciplinar
 The future of digitalization should not be left to the tech industry alone.
 
 Join us in building a **more inclusive and collective vision** of sustainable technology.
+
+---
+
+### Curators and Supporters
+
+We are super happy to have one of the pioneer digital sustainability organisations in Germany on board to make ecoCompute a true flagship event when it comes to digital sustainability.
+
+**Bits & Bäume** is officially a co-organiser of our community track and will curate the program to bring you the best voices and content of the digital sustainability community.
+
+<img src="/images/clients/bits-und-baeume-2x.webp" srcset="/images/clients/bits-und-baeume-2x.webp 2x, /images/clients/bits-und-baeume.webp 1x" alt="Bits &amp; Bäume Logo" width="200">
+
+The *Trägerkreis* of Bits & Bäume consists of many great organisations like, Deutscher Naturschutzring, Germanwatch, Brot für die Welt, Free Software Foundation Europe, Wikimedia Deutschland, Weizenbaum Institut and many more.
+
 
 ---
 
