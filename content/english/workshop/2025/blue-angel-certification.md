@@ -7,7 +7,7 @@ bg_image : "images/bg/cta-bg.webp"
 type : "workshop"
 icon: "tf-ion-android-document"
 outdated: false
-workshop_host: "Arne Tarara"
+workshop_host: "Didi Hoffmann"
 workshop_host_details: "speaker/2025/didi-hoffmann/"
 workshop_host_image : "images/teams/didi-hoffmann-small.webp"
 ---
