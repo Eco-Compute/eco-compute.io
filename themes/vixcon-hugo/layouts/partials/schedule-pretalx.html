@@ -1,0 +1,27 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<section class="section-schedule section">
+  <div class="container">
+    <div class="row section-heading">
+      <div class="col-lg">
+        <div class="heading">
+          <span class="stroke-text">Schedule</span>
+          <div class="pl-90">
+            <h2 class="mt-2">Talks for 2025 (Pre-Release!)</h2>
+            <p>You are looking at a prelimnary schedule. This means: Talks are confirmed and find, but their date and time might change still. Also: This is only the release for day #1. <b>Full program release will happen mid October</b> with all <u>final talks for Tracks 1+2 on Day #1, Day #2 and also the community track</u>.</p>
+            <p>We however wanted to give you an appetizer with the talks we already reviewed and confirmed - We believe they are <b>wonderful</b> and hope you love them too :)</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <pretalx-schedule event-url="https://cfp.eco-compute.io/ecocompute-2025/" locale="en" style="--pretalx-clr-primary: #3aa57c"></pretalx-schedule>
+  <noscript>
+     <div class="pretalx-widget">
+          <div class="pretalx-widget-info-message">
+              JavaScript is disabled in your browser. To access our schedule without JavaScript,
+              please <a target="_blank" href="https://cfp.eco-compute.io/ecocompute-2025/schedule/">click here</a>.
+          </div>
+      </div>
+  </noscript>
+</section>
