@@ -137,7 +137,7 @@ Arne and his team did an amazing job at selecting a venue that facilitates conve
 
 ####################### Schedule #############################
 schedule:
-  enable : false
+  enable : true
   # schedule data comes from "schedule.yml" file
 
 ####################### pricing #############################

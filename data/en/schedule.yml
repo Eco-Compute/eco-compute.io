@@ -1,5 +1,11 @@
+---
+
+Warning: This file is outdated. We are currently using a hard-coded schedule with the pretalx widget atm
+
+---
+
 schedule:
-  enable : true
+  enable : false
 
   year_2025:
     title_outline : "schedule"

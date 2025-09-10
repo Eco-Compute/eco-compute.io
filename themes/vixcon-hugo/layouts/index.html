@@ -227,7 +227,12 @@
 
 <!-- schedule -->
 {{ if $data.homepage.schedule.enable }}
-{{ partial "schedule.html" . }}
+
+{{ partial "schedule-pretalx.html" . }}
+
+{{/* Reactive this when you want to use the bundled schedule. ATM pretalx is used */}}
+{{/* partial "schedule.html" .  */}}
+
 {{ else }}
 {{ end }}
 <!-- /schedule -->
