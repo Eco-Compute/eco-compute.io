@@ -78,6 +78,13 @@ link = "plugins/syotimer/syotimer.min.js"
 
 
     [[menu.main]]
+    name = "Program Schedule"
+    URL = "#section-schedule"
+    parent = "More"
+    weight = -1
+
+
+    [[menu.main]]
     name = "Workshops"
     URL = "/workshops/2025/"
     parent = "More"
