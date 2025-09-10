@@ -9,7 +9,8 @@ icon: "tf-genius"
 outdated: false
 workshop_host: "Verena Majuntke / Anita Schüttler"
 workshop_host_details: "speaker/2025/verena-majuntke/"
-workshop_host_image : "images/teams/verena-majuntke-small.webp"
+workshop_host_details_2: "speaker/2025/anita-schuettler/"
+workshop_host_image : "images/teams/anita-verena-small.webp"
 
 ---
 
@@ -38,7 +39,8 @@ workshop_host_image : "images/teams/verena-majuntke-small.webp"
 <img src="/{{< param workshop_host_image >}}" alt="{{< param workshop_host >}}" class="img-fluid rounded-circle" style="width: 100px;" loading="lazy">
 <p>
     <b class="mb-0 mt-3">{{< param workshop_host >}}</b><br>
-    <u><a href="/{{< param workshop_host_details >}}">Details about the workshop host</a></u>
+    <u><a href="/{{< param workshop_host_details >}}">Details about the workshop host</a></u><br>
+    <u><a href="/{{< param workshop_host_details_2 >}}">Details about the workshop host #2</a></u>
 </p>
 
 ---
