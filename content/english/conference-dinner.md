@@ -53,7 +53,7 @@ We’re excited to share this culinary experience with you – an evening of mez
 
 --- 
 
-#### Food impressions - Kitten Delimagick input.jpg -resize x250 input_250.webp
+#### Food impressions - Kitten Deli
 
 <figure style="float: left; margin-right: 10px;">
     <a href="/images/conference-dinner/shakshuka.webp"><img src="/images/conference-dinner/shakshuka-600.webp" srcset="/images/conference-dinner/shakshuka-600.webp 2x, /images/conference-dinner/shakshuka-600.webp 1x"height="300" alt="Shakshuka - Kitten Deli"></a>
