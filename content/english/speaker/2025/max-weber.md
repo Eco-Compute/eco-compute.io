@@ -4,7 +4,7 @@ date: 2025-09-10T13:51:25+06:00
 draft: false
 description: "Max Weber"
 bg_image : "images/bg/cta-bg.webp"
-image : "images/teams/image-missing.webp"
+image : "images/teams/max-weber.webp"
 company: "Leipzig University"
 designation : "PhD Researcher"
 type : "speaker"
