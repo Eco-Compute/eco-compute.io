@@ -42,7 +42,7 @@ pricing:
         - "See our <a href='/grants'><u>grants page</u></a> for reduced price options<br><br>"
       button:
         label : "Buy Ticket"
-        link : "https://pretix.eu/eco-compute/2025/"
+        link : "https://pretix.eu/eco-compute/2025/c/k4b3VzHcO/"
 
     # pricing table loop
     - title : "Company"
