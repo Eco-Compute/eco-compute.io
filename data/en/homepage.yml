@@ -339,6 +339,15 @@ sponsor:
           logo : "images/clients/qaware.webp"
           link : "https://www.qaware.de"
           background: "#fff"
+        - name: "Forum CSR"
+          logo : "images/clients/forum-csr.webp"
+          logo_2x : "images/clients/forum-csr-2x.webp"
+          link : "https://www.forum-csr.net/"
+          background: "#fff"
+        - name: "QAWare"
+          logo : "images/clients/qaware.webp"
+          link : "https://www.qaware.de"
+          background: "#fff"
 
 
   # call to action in sponsor
