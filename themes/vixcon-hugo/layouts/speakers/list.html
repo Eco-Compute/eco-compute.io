@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-    {{ if or (not .Page.Params.outdated) (eq .Page.Params.outdated false) }}
+    {{ if .Page.Params.show_cfs }}
         {{ partial "cfs.html" . }}
     {{ end }}
 
@@ -19,6 +19,7 @@
 
     {{ .Content }}
 
+    <br><br>
     <section id="section-speakers" class="section-speaker">
       <div class="container">
         {{ with $data.homepage.speaker }}
