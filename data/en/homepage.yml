@@ -147,7 +147,7 @@ pricing:
 
 ########################## speaker ##########################
 cfs:
-  enable: true
+  enable: false
   title_outline: "Speakers"
   title: "Call for Speakers - Open until 30.09.2025"
   title_sub: "Share your insights to help shape a greener future."
@@ -160,8 +160,8 @@ cfs:
 ########################## speaker ##########################
 speaker:
   enable : true
-#  title_outline : "Speakers"
-  title : "ecoCompute Speakers - more TBA"
+  title_outline : "Speakers"
+  title : "ecoCompute Speakers 2025 - more TBA"
   content : ""
   # speaker content comes from "content/speaker" folder
 
