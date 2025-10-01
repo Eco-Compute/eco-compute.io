@@ -57,18 +57,18 @@ link = "plugins/syotimer/syotimer.min.js"
 #  weight = 3
 
   [[menu.main]]
-  name = "Call for Speakers"
-  URL = "/speakers/2025"
+  name = "Schedule"
+  URL = "/#section-schedule"
   weight = 3
 
   [[menu.main]]
-  name = "Become a sponsor"
-  URL = "/sponsoring"
+  name = "Speakers"
+  URL = "/#section-speakers"
   weight = 4
 
   [[menu.main]]
-  name = "Community"
-  URL = "/community-track"
+  name = "Venue"
+  URL = "/#venue"
   weight = 5
 
   [[menu.main]]
@@ -78,8 +78,8 @@ link = "plugins/syotimer/syotimer.min.js"
 
 
     [[menu.main]]
-    name = "Program Schedule"
-    URL = "#section-schedule"
+    name = "Become a sponsor"
+    URL = "/sponsors"
     parent = "More"
     weight = -1
 
@@ -98,8 +98,8 @@ link = "plugins/syotimer/syotimer.min.js"
 
 
     [[menu.main]]
-    name = "Venue"
-    URL = "/#venue"
+    name = "Community"
+    URL = "/community-track"
     parent = "More"
     weight = 3
 
