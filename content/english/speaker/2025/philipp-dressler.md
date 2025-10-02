@@ -5,7 +5,7 @@ draft: false
 description: "Philipp Dressler"
 bg_image : "images/bg/cta-bg.webp"
 image : "images/teams/philipp-dressler.webp"
-company: "Storm reply"
+company: "Storm Reply"
 designation : "Consultant"
 type : "speaker"
 outdated: false

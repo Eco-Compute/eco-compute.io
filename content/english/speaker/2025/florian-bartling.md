@@ -5,7 +5,7 @@ draft: false
 description: "Florian Bartling"
 bg_image : "images/bg/cta-bg.webp"
 image : "images/teams/florian-bartling.webp"
-company: "Storm reply"
+company: "Storm Reply"
 designation : "Consultant"
 type : "speaker"
 outdated: false
@@ -13,6 +13,6 @@ outdated: false
 
 ---
 
-Florian is an AWS-certified consultant at Storm Reply focused on DevOps and platform engineering for IoT and AI on AWS. 
+Florian is an AWS-certified consultant at Storm Reply focused on DevOps and platform engineering for IoT and AI on AWS.
 
 As part of Reply’s Green IT expert group, he builds awareness and drives carbon-aware architecture and FinOps/GreenOps practices to improve efficiency and reduce environmental impact and cost - without compromising security or resilience
