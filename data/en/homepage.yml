@@ -71,26 +71,27 @@ feature:
     - name : "Sharing"
       icon : "tf-ion-android-share"
       bg_color: "coal"
-      content : "ecoCompute provides a platform for sharing the latest research, innovations, and practices in green technology.
-      <br><br>
-      This includes new findings in energy-efficient computing, sustainable hardware design, and eco-friendly software development.
-"
+      content : |
+        ecoCompute provides a platform for sharing the latest research, innovations, and practices in green technology.
+        <br><br>
+        This includes new findings in energy-efficient computing, sustainable hardware design, and eco-friendly software development.
 
     # feature item loop
     - name : "Learning"
       icon : "tf-ion-android-compass"
       bg_color: "karmin"
-      content : "With industry leaders and experts present, attendees can gain insights into the current state and future trends of green technology.
-      <br><br>
-      These insights can be invaluable for understanding market needs, regulatory environments, and emerging opportunities in the field."
+      content : |
+        With industry leaders and experts present, attendees can gain insights into the current state and future trends of green technology.
+        <br><br>
+        These insights can be invaluable for understanding market needs, regulatory environments, and emerging opportunities in the field.
 
     - name : "Sustainable Future"
       icon : "tf-ion-android-globe"
       bg_color: "turquoise"
-      content : "The UN SDGs define sustainability as the goal to not compromise the opportunities of upcoming generations
-      <br><br>
-      We as technologists that create hardware and software want to create a conference with the aim to present solutions to achieve this goal.
-"
+      content : |
+        The UN SDGs define sustainability as the goal to not compromise the opportunities of upcoming generations
+        <br><br>
+        We as technologists that create hardware and software want to create a conference with the aim to present solutions to achieve this goal.
 
 testimonials:
   enable: true
@@ -113,12 +114,11 @@ testimonials:
     - name : "Max Schulze"
       image : "/images/teams/max-schulze-small.webp"
       designation: "SDIA"
-      review: "What an amazing audience! During my talk about values and how to bring them into software, we had some great laugh’s together, everyone was engaged and we could debate some interesting questions on cloud, sustainability and software engineering.
+      review: |
+        What an amazing audience! During my talk about values and how to bring them into software, we had some great laugh’s together, everyone was engaged and we could debate some interesting questions on cloud, sustainability and software engineering.
+        Arne and his team did an amazing job at selecting a venue that facilitates conversations and curated an amazing community of attendees that were all open to learn, expand their horizon and engage in critical thinking–much needed in the emerging field of sustainable software.
 
-Arne and his team did an amazing job at selecting a venue that facilitates conversations and curated an amazing community of attendees that were all open to learn, expand their horizon and engage in critical thinking–much needed in the emerging field of sustainable software."
       style: "dark"
-
-
 
     - name : "Anonymous"
       designation: "2024 Attendee"
@@ -130,7 +130,9 @@ Arne and his team did an amazing job at selecting a venue that facilitates conve
     - name : "Eric Jochum"
       image : "/images/teams/ghazal-aakel-and-eric-jochum-small.webp"
       designation: "Metafinanz"
-      review: "The Eco-Compute was one of our most impressive events in 2024. We had a lot of connections to other GreenIT-Enthusiasts and had the option to listen to exciting talks and it was a perfect place for GreenIT networking."
+      review: |
+        The Eco-Compute was one of our most impressive events in 2024.
+        We had a lot of connections to other GreenIT-Enthusiasts and had the option to listen to exciting talks and it was a perfect place for GreenIT networking.
 
 
 
