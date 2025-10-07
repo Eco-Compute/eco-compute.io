@@ -1,93 +1,103 @@
-{{ $data := index .Site.Data .Site.Language.Lang }}
+{{/*
+  SCHEDULE GRID
+  - Supports `type: "talk"` for 3-column track items.
+  - Supports `type: "break"` for full-width items like coffee breaks.
+*/}}
 
-{{ $schedule_year := .Page.Params.schedule_year }}
+{{ $page := . }}
 
+{{/* 1. Collect all schedule items and filter */}}
+{{ $allEvents := where site.RegularPages "Type" "in" (slice "talk" "break") }}
+{{ $allEvents = where $allEvents "Draft" "ne" true }}
 
-{{ $outdated := .Page.Params.outdated }}
-
-
-
-{{ with $schedule_year }}
-    {{ with (index $data.schedule.schedule $schedule_year) }}
-    <section class="section-schedule section">
-      <div class="container">
-        <div class="row section-heading">
-          <div class="col-lg">
-            <div class="heading">
-              <span class="stroke-text">{{ .title_outline }}</span>
-              <div class="pl-90">
-                <h2 class="mt-2">{{ .title | markdownify }}</h2>
-                <p>{{ .content | markdownify }}</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-
-    {{ if eq $outdated true  }}
-        <div class="ui warning message">
-            <h2 class="header">Warning! - Outdated content</h2>
-            <p>You are watching the schedule for a previous year!<br>
-            Please find the most current schedule under: <a href="/schedule/{{ now.Year }}" style="font-weight: bold; text-decoration: underline;">Current schedule</a></p>
-        </div>
-    {{ end }}
-
-
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <nav class="nav nav-pills nav-fill" role="tablist">
-              {{ $.Scratch.Set "counter" 0 }}
-              {{ range $index, $element := .schedule_tab }}
-              {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
-              <a class="nav-item nav-link {{ if eq $index 0 }} active {{ end }}" data-toggle="tab" href="#scheduleTab{{$.Scratch.Get `counter`}}"
-                role="tab">
-                <h2>{{ .title | markdownify }}</h2>
-                <p>{{ .date_time | markdownify }}</p>
-              </a>
-              {{ end }}
-            </nav>
-
-            <div class="tab-content">
-              {{ $.Scratch.Set "counter" 0 }}
-              {{ range $index, $element := .schedule_tab }}
-              {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
-              <div class="tab-pane fade {{ if eq $index 0 }} show active {{ end }} " id="scheduleTab{{$.Scratch.Get `counter`}}" role="tabpanel">
-                <ul class="mt-5 time-table pl-0 list-unstyled">
-                  {{ range .schedule_items }}
-                  <li class="d-md-flex align-items-center justify-content-between p-4 mb-3 {{if .bg_color}}{{.bg_color}}{{else}}bg-light{{end}}">
-                    {{ with .time }}
-                    <h4 class="time text-color">{{ . }}</h4>
-                    {{ end }}
-                    <div class="content">
-                      {{ if .talk_link }}
-                          <a href="{{ .talk_link }}">{{ .content | markdownify }}</a>
-                      {{ else }}
-                          {{ .content | markdownify }}
-                      {{ end }}
-                      <div class="speaker-info">
-                        <div class="mb-0 mt-3"><a href="{{ .speaker_link }}">{{ .speaker_name }}</a></div>
-                        <p>{{ with .designation }}{{ . }}{{ end }}{{ with .company }} | {{ . }}{{ end }}</p>
-                      </div>
-                      {{ range .labels }}
-                          <span class="talk-label">{{.}}</span>
-                      {{end}}
-                    </div>
-                    {{ with .image }}
-                    <div class="content-img text-lg-right">
-                      <img src="{{ . | relURL }}" alt="" class="img-fluid" loading="lazy">
-                    </div>
-                    {{ end }}
-                  </li>
-                  {{ end }}
-                </ul>
-              </div>
-              {{ end }}
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    {{ end }}
+{{ $scheduleYearParam := .Params.schedule_year }}
+{{ if $scheduleYearParam }}
+  {{ $yearInt := int (strings.TrimPrefix "year_" $scheduleYearParam) }}
+  {{ $allEvents = where $allEvents "Date.Year" $yearInt }}
 {{ end }}
+
+{{/* 3. Define track display order and layout */}}
+{{ $displayTracks := slice "Software & Hardware (So-Ha)" "Data Centers / Infrastructure / Management (DIM)" "Community Track" }}
+{{ $colWidth := 3 }}
+{{ if eq (len $displayTracks) 2 }}{{ $colWidth = 5 }}{{ else if eq (len $displayTracks) 1 }}{{ $colWidth = 10 }}{{ end }}
+
+<section class="section-schedule section">
+  <div class="container">
+    <div class="row section-heading">
+      <div class="col-lg">
+        <div class="heading">
+          <span class="stroke-text">Schedule</span>
+          <div class="pl-90">
+            <h2 class="mt-2">{{ .Title }}</h2>
+            <p>Three-track program. Click a talk for details.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {{/* 4. Group events by day */}}
+    {{ range $day := sort ($allEvents.GroupByDate "2006-01-02") "Key" }}
+      {{ $dayEvents := $day.Pages }}
+      {{ $dayTalks := where $dayEvents "Type" "talk" }}
+      {{ $dayBreaks := where $dayEvents "Type" "break" }}
+
+      {{ $times := slice }}
+      {{ range $dayEvents }}{{ $times = $times | append (.Date.Format "15:04") }}{{ end }}
+      {{ $times = $times | uniq | sort }}
+
+      <div class="row mt-5"><div class="col-12"><h3 class="mb-4">{{ (time $day.Key).Format "Monday, 02 January 2006" }}</h3></div></div>
+
+      <div class="row align-items-end mb-4 d-none d-lg-flex">
+        <div class="col-lg-2"><div class="text-uppercase small font-weight-bold text-muted">Time</div></div>
+        {{ range $track := $displayTracks }}<div class="col-lg-{{ $colWidth }}"><h4 class="text-uppercase small font-weight-bold">{{ . }}</h4></div>{{ end }}
+      </div>
+
+      {{/* 5. Render rows for each time slot */}}
+      {{ range $t := $times }}
+        {{ $breakItem := slice }}
+        {{ range $dayBreaks }}{{ if eq (.Date.Format "15:04") $t }}{{ $breakItem = $breakItem | append . }}{{ end }}{{ end }}
+
+        <div class="row align-items-stretch mb-3 py-3 border-bottom">
+          <div class="col-12 col-lg-2 mb-2 mb-lg-0"><h5 class="time text-color mb-0">{{ $t }}</h5></div>
+          
+          {{ if gt (len $breakItem) 0 }}
+            {{ with index $breakItem 0 }}
+            <div class="col-12 col-lg-10">
+              <div class="card h-100 bg-light schedule-break">
+                <div class="card-body text-center d-flex align-items-center justify-content-center">
+                  <h6 class="card-title mb-0 font-weight-bold">{{ .Title }}</h6>
+                </div>
+              </div>
+            </div>
+            {{ end }}
+          {{ else }}
+            {{ range $track := $displayTracks }}
+              <div class="col-12 col-lg-{{ $colWidth }} mb-3 mb-lg-0">
+                {{ $talksForSlot_All := where $dayTalks "Params.talk_room" $track }}
+                {{ $talkForSlot := slice }}
+                {{ range $talksForSlot_All }}{{ if eq (.Date.Format "15:04") $t }}{{ $talkForSlot = $talkForSlot | append . }}{{ end }}{{ end }}
+
+                {{ with first 1 $talkForSlot }}
+                  {{ $talk := index . 0 }}
+                  <a class="d-block h-100" href="{{ $talk.RelPermalink }}">
+                    <div class="card h-100 shadow-sm schedule-card">
+                      <div class="card-body d-flex">
+                        {{ with $talk.Params.speaker_image }}
+                          <div class="mr-3 flex-shrink-0"><img src="{{ . }}" alt="{{ $talk.Params.speaker_name }}" class="rounded-circle" style="width:48px;height:48px;object-fit:cover;" loading="lazy"></div>
+                        {{ end }}
+                        <div>
+                          <h6 class="card-title mb-1">{{ $talk.Title }}</h6>
+                          <div class="text-muted small">{{ $talk.Params.speaker_name }}</div>
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                {{ end }}
+              </div>
+            {{ end }}
+          {{ end }}
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+</section>

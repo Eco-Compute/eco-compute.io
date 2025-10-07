@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "—"
 speaker_company: ""
-speaker_image : "images/logo-2.webp"
+speaker_image : ""
 speaker_link: "speaker/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 09:20"
