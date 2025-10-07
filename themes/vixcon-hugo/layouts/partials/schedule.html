@@ -2,7 +2,10 @@
 
 {{ $schedule_year := .Page.Params.schedule_year }}
 
+
 {{ $outdated := .Page.Params.outdated }}
+
+
 
 {{ with $schedule_year }}
     {{ with (index $data.schedule.schedule $schedule_year) }}
