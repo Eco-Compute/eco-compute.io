@@ -1,6 +1,6 @@
 ---
 title: "Grundlagen von IT-Nachhaltigkeit 🇩🇪"
-date: 2025-11-13T10:55:00+01:00
+date: 2025-11-13T09:45:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Hannah Herbst"
@@ -8,7 +8,7 @@ speaker_company: ""
 speaker_image : "https://cfp.eco-compute.io/media/avatars/EVMXHY_aexkg8c.png"
 speaker_link: "speaker/hannah-herbst/"
 talk_room: "Community Track"
-talk_date: "13.11.2025 10:55"
+talk_date: "13.11.2025 09:45"
 type : "talk"
 outdated: false
 ---

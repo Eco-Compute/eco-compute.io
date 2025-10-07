@@ -1,15 +1,14 @@
 ---
 title: "Rainer Karcher"
-date: 2025-09-10T13:51:25+06:00
+date: 2025-10-07T12:57:12.702833+00:00
 draft: false
 description: "Rainer Karcher"
 bg_image : "images/bg/cta-bg.webp"
-image : "images/teams/rainer-karcher.webp"
-company: "Heartprint GmbH"
-designation : "Founder & CEO"
+image: "https://cfp.eco-compute.io/media/avatars/FUUDYS_KAnxQZh.jpeg"
+company: ""
+designation : ""
 type : "speaker"
 outdated: false
-
 ---
 
 Rainer Karcher is the founder and managing director of Heartprint GmbH, a consulting firm specializing in twin transformation—the combination of digitalization and future viability. 

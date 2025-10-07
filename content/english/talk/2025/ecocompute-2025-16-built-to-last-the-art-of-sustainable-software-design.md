@@ -1,14 +1,14 @@
 ---
 title: "Built to Last: The Art of Sustainable Software Design 🇬🇧"
-date: 2025-11-14T11:10:00+01:00
+date: 2025-11-14T11:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Wilco Burggraaf"
 speaker_company: ""
 speaker_image : "https://cfp.eco-compute.io/media/avatars/SAVYPK_M6oDnfV.jpg"
 speaker_link: "speaker/wilco-burggraaf/"
-talk_room: "Data Centers / Infrastructure / Management (DIM)"
-talk_date: "14.11.2025 11:10"
+talk_room: "Software & Hardware (So-Ha)"
+talk_date: "14.11.2025 11:00"
 type : "talk"
 outdated: false
 ---

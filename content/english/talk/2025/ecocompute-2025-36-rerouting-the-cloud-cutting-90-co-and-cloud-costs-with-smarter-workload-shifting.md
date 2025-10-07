@@ -1,6 +1,6 @@
 ---
 title: "Rerouting the Cloud: Cutting 90% CO₂ and Cloud Costs with Smarter Workload Shifting 🇬🇧"
-date: 2025-11-13T10:55:00+01:00
+date: 2025-11-13T11:50:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Dryden Williams"
@@ -8,7 +8,7 @@ speaker_company: ""
 speaker_image : "https://cfp.eco-compute.io/media/avatars/FALGUX_XSBb0jL.jpeg"
 speaker_link: "speaker/dryden-williams/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
-talk_date: "13.11.2025 10:55"
+talk_date: "13.11.2025 11:50"
 type : "talk"
 outdated: false
 ---

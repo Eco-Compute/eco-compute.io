@@ -1,14 +1,14 @@
 ---
 title: "Requirements engineering as basis for architecting a green software 🇬🇧"
-date: 2025-11-14T09:55:00+01:00
+date: 2025-11-14T11:25:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Bjorna Kalaja"
 speaker_company: ""
 speaker_image : "https://cfp.eco-compute.io/media/avatars/9SMGLH_NATs47p.jpeg"
 speaker_link: "speaker/bjorna-kalaja/"
-talk_room: "Data Centers / Infrastructure / Management (DIM)"
-talk_date: "14.11.2025 09:55"
+talk_room: "Software & Hardware (So-Ha)"
+talk_date: "14.11.2025 11:25"
 type : "talk"
 outdated: false
 ---

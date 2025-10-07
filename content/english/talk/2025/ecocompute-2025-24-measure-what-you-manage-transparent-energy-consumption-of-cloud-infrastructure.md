@@ -1,6 +1,6 @@
 ---
 title: "Measure what you manage: Transparent Energy consumption of cloud infrastructure 🇬🇧"
-date: 2025-11-13T11:25:00+01:00
+date: 2025-11-13T10:55:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Josefine Kipke"
@@ -8,7 +8,7 @@ speaker_company: ""
 speaker_image : "https://cfp.eco-compute.io/media/avatars/9T7HJS_9jwdXPV.JPG"
 speaker_link: "speaker/josefine-kipke/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
-talk_date: "13.11.2025 11:25"
+talk_date: "13.11.2025 10:55"
 type : "talk"
 outdated: false
 ---

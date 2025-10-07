@@ -1,6 +1,6 @@
 ---
 title: "One year of the CO2-challenge – insights and lessons learned 🇬🇧"
-date: 2025-11-14T10:25:00+01:00
+date: 2025-11-14T11:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Aydin Mir Mohammadi"
@@ -8,7 +8,7 @@ speaker_company: ""
 speaker_image : "https://cfp.eco-compute.io/media/avatars/FHVXJN_cF8swyT.JPG"
 speaker_link: "speaker/aydin-mir-mohammadi/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
-talk_date: "14.11.2025 10:25"
+talk_date: "14.11.2025 11:00"
 type : "talk"
 outdated: false
 ---

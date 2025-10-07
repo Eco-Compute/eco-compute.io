@@ -1,6 +1,6 @@
 ---
 title: "From shy contributor to (kinda) confident community leader 🇬🇧"
-date: 2025-11-13T09:45:00+01:00
+date: 2025-11-13T13:50:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Valeria Salis"
@@ -8,7 +8,7 @@ speaker_company: ""
 speaker_image : "https://cfp.eco-compute.io/media/avatars/JDK9W3_w9TcuwP.jpeg"
 speaker_link: "speaker/valeria-salis/"
 talk_room: "Community Track"
-talk_date: "13.11.2025 09:45"
+talk_date: "13.11.2025 13:50"
 type : "talk"
 outdated: false
 ---

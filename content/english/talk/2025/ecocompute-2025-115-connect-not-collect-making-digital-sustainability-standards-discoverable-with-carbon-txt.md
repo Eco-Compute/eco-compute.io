@@ -1,14 +1,14 @@
 ---
 title: "Connect, not collect - making digital sustainability standards discoverable with carbon.txt 🇬🇧"
-date: 2025-11-14T12:10:00+01:00
+date: 2025-11-14T12:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Chris Adams"
 speaker_company: ""
-speaker_image : "images/logo-2.webp"
+speaker_image : ""
 speaker_link: "speaker/chris-adams/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
-talk_date: "14.11.2025 12:10"
+talk_date: "14.11.2025 12:00"
 type : "talk"
 outdated: false
 ---

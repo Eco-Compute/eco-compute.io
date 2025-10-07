@@ -1,6 +1,6 @@
 ---
 title: "Denis Yashin"
-date: 2025-10-06T10:51:25+06:00
+date: 2025-10-07T12:57:12.701579+00:00
 draft: false
 description: "Denis Yashin"
 bg_image : "images/bg/cta-bg.webp"

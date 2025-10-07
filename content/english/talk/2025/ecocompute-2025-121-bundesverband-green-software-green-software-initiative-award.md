@@ -1,6 +1,6 @@
 ---
 title: "Bundesverband Green Software - Green Software Initiative Award 🇩🇪"
-date: 2025-11-14T12:10:00+01:00
+date: 2025-11-14T12:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Bundesverband Green Software"
@@ -8,7 +8,7 @@ speaker_company: ""
 speaker_image : "https://cfp.eco-compute.io/media/avatars/AR8FXB_PppWVs6.png"
 speaker_link: "speaker/bundesverband-green-software/"
 talk_room: "Software & Hardware (So-Ha)"
-talk_date: "14.11.2025 12:10"
+talk_date: "14.11.2025 12:00"
 type : "talk"
 outdated: false
 ---

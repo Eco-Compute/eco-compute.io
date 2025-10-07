@@ -1,6 +1,6 @@
 ---
 title: "Elise Auvray"
-date: 2025-08-15T10:51:25+06:00
+date: 2025-10-07T12:57:12.700110+00:00
 draft: false
 description: "Elise Auvray"
 bg_image : "images/bg/cta-bg.webp"
@@ -11,4 +11,6 @@ type : "speaker"
 outdated: false
 ---
 
-I am a Product Manager for the Environmental Impact Calculator at Scaleway, where I am at the forefront of developing tools dedicated to Green IT. With expertise focused on the eco-design of digital services, my mission is to transform complex environmental challenges into clear and actionable metrics for CIOs and DevOps teams.
+I'm a Product Manager at Scaleway and lead the development of their environmental footprint calculator. This calculator provides real-world usage metrics for cloud infrastructure CO₂ emissions and water consumption. With an engineering degree and technical experience as a former developer, I bring a methodical and practical approach to creating tools that help developers and DevOps teams make informed and sustainable decisions.
+
+Driven by curiosity and sustainable development, my work aims to provide transparent and actionable information to cloud users.

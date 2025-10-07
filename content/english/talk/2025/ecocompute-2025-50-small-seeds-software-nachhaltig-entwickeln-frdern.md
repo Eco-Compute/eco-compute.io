@@ -1,6 +1,6 @@
 ---
 title: "Small Seeds: Software nachhaltig entwickeln & fördern 🇩🇪"
-date: 2025-11-13T14:50:00+01:00
+date: 2025-11-14T11:25:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Paul Robben"
@@ -8,7 +8,7 @@ speaker_company: ""
 speaker_image : "https://cfp.eco-compute.io/media/avatars/79QWFE_NvWpVht.jpeg"
 speaker_link: "speaker/paul-robben/"
 talk_room: "Community Track"
-talk_date: "13.11.2025 14:50"
+talk_date: "14.11.2025 11:25"
 type : "talk"
 outdated: false
 ---

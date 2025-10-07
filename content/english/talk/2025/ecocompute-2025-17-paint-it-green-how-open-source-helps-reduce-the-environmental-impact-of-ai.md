@@ -1,6 +1,6 @@
 ---
 title: "Paint It Green – How Open Source Helps Reduce the Environmental Impact of AI 🇬🇧"
-date: 2025-11-13T14:20:00+01:00
+date: 2025-11-13T14:50:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Danijel Soldo"
@@ -8,7 +8,7 @@ speaker_company: ""
 speaker_image : "https://cfp.eco-compute.io/media/avatars/WJAJJE_zJrlfNw.jpg"
 speaker_link: "speaker/danijel-soldo/"
 talk_room: "Community Track"
-talk_date: "13.11.2025 14:20"
+talk_date: "13.11.2025 14:50"
 type : "talk"
 outdated: false
 ---

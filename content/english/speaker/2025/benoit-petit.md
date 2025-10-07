@@ -1,6 +1,6 @@
 ---
 title: "Benoit Petit"
-date: 2025-10-06T10:51:25+06:00
+date: 2025-10-07T12:57:12.702357+00:00
 draft: false
 description: "Benoit Petit"
 bg_image : "images/bg/cta-bg.webp"

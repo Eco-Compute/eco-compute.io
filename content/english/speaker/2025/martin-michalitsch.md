@@ -1,6 +1,6 @@
 ---
 title: "Martin Michalitsch"
-date: 2025-09-10T13:51:25+06:00
+date: 2025-10-07T12:57:12.701508+00:00
 draft: false
 description: "Martin Michalitsch"
 bg_image : "images/bg/cta-bg.webp"
@@ -9,9 +9,7 @@ company: "Wien IT"
 designation : "Innovation Manager"
 type : "speaker"
 outdated: false
-
 ---
 
-Martin Michalitsch is Innovation Manager at WienIT, focusing on sustainable digitalization.
-
-As a data scientist and anthropologist, he drives GreenIT topics in various areas of the organization.
+Martin Michalitsch ist Innovationsmanager bei WienIT mit Fokus auf nachhaltige Digitalisierung.
+Als Data-Scientist und Anthropologe treibt er GreenIT Themen in unterschiedlichsten Bereichen der Organisation.

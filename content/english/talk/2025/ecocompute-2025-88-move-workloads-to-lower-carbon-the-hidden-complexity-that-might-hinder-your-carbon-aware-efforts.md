@@ -1,14 +1,14 @@
 ---
 title: "Move workloads to lower carbon ? The hidden complexity that might hinder your carbon-aware efforts 🇬🇧"
-date: 2025-11-14T11:15:00+01:00
+date: 2025-11-14T09:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Benoit Petit"
 speaker_company: ""
 speaker_image : "https://cfp.eco-compute.io/media/avatars/HHGCMW_tRLA2Xz.jpeg"
 speaker_link: "speaker/benoit-petit/"
-talk_room: "Software & Hardware (So-Ha)"
-talk_date: "14.11.2025 11:15"
+talk_room: "Data Centers / Infrastructure / Management (DIM)"
+talk_date: "14.11.2025 09:00"
 type : "talk"
 outdated: false
 ---
