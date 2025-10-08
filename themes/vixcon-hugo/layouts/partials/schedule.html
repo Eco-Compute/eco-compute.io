@@ -63,7 +63,13 @@
             <div class="col-12 col-lg-11">
               <div class="card h-100 bg-light schedule-break">
                 <div class="card-body text-center d-flex align-items-center justify-content-center">
-                  <h6 class="card-title mb-0 font-weight-bold">{{ .Title }}</h6>
+                  <h6 class="card-title mb-0 font-weight-bold">
+                      {{ if .Params.Break_link }}
+                        <a href="{{ .Params.Break_link }}">➡️ <u>{{ .Title }}</u> </a>
+                      {{ else }}
+                        {{ .Title }}
+                      {{ end}}
+                  </h6>
                 </div>
               </div>
             </div>
