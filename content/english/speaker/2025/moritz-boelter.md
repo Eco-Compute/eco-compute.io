@@ -6,7 +6,7 @@ description: "Moritz Bölter"
 bg_image : "images/bg/cta-bg.webp"
 image : "images/teams/moritz-boelter.webp"
 company: "Lufthansa Industry Solutions"
-designation : "Lufthansa Industry Solutions"
+designation : "IT Consultant"
 type : "speaker"
 outdated: false
 
