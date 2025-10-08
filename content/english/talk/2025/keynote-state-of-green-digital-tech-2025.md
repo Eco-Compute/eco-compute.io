@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Arne Tarara"
 speaker_company: "Green Coding Solutions"
-speaker_image : "images/teams/arne-tarara.webp"
+speaker_image : "images/teams/arne-tarara-small.webp"
 speaker_link: "speaker/2025/arne-tarara/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 09:20"

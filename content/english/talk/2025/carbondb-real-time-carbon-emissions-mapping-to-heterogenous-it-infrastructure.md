@@ -1,5 +1,5 @@
 ---
-title: "CarbonDB - Real Time carbon emissions mapping to heterogenous IT infrastructure 🇩🇪"
+title: "CarbonDB - Real Time carbon emissions mapping to heterogenous IT infrastructure 🇬🇧"
 date: 2025-11-13T09:45:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
