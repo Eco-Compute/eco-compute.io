@@ -12,3 +12,5 @@ outdated: false
 ---
 
 Friederike (Rike) Hildebrandt leitet die Koordinationsstelle der Bits & Bäume. Sie hat viele Jahre beim BUND zu den Themen Digitalisierung und Nachhaltigkeit sowie Ressourcenschutz gearbeitet.
+
+Photo © Ian Clothworthy

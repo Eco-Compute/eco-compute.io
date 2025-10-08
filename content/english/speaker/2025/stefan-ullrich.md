@@ -12,3 +12,5 @@ outdated: false
 ---
 
 Stefan Ullrich ist assoziierter Forscher am Weizenbaum-Institut für die vernetzte Gesellschaft und Mitglied des Trägerkreises der Bits & Bäume. Er beschäftigt sich seit 2009 mit Fragen rund um Informatik.
+
+Photo: cc-by Toni Kretschmer, newpic photography
