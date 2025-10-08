@@ -163,7 +163,7 @@ cfs:
 speaker:
   enable : true
   title_outline : "Speakers"
-  title : "ecoCompute Speakers 2025 - more TBA"
+  title : "ecoCompute Speakers 2025"
   content : ""
   # speaker content comes from "content/speaker" folder
 

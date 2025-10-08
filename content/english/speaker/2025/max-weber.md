@@ -1,6 +1,6 @@
 ---
 title: "Max Weber"
-date: 2025-09-10T13:51:25+06:00
+date: 2025-10-07T12:57:12.701714+00:00
 draft: false
 description: "Max Weber"
 bg_image : "images/bg/cta-bg.webp"
@@ -9,9 +9,6 @@ company: "Leipzig University"
 designation : "PhD Researcher"
 type : "speaker"
 outdated: false
-
 ---
 
-Max is a PhD researcher at Leipzig University focusing on performance analysis and energy consumption optimization in configurable software systems. 
-
-His work explores how software configurability can be leveraged to detect energy hot spots, guide targeted optimizations, and reduce the energy demand of complex systems.
+Max is a PhD researcher at Leipzig University focusing on performance analysis and energy consumption optimization in configurable software systems. His work explores how software configurability can be leveraged to detect energy hot spots, guide targeted optimizations, and reduce the energy demand of complex systems.

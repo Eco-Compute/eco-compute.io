@@ -1,17 +1,5 @@
----
-
-Warning: This file is outdated. We are currently using a hard-coded schedule with the pretalx widget atm
-
----
-
 schedule:
-  enable : false
-
-  year_2025:
-    title_outline : "schedule"
-    title : "The schedule will be release in mid 2025"
-    content : "Apply for our call for speakers &raquo; <b><u>[Call for Speakers](/speakers)<u></b>"
-
+  enable : true
 
   year_2024:
     title_outline : "schedule"
