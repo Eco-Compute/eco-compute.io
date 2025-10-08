@@ -79,7 +79,7 @@ link = "plugins/syotimer/syotimer.min.js"
 
     [[menu.main]]
     name = "Become a sponsor"
-    URL = "/sponsors"
+    URL = "/sponsoring"
     parent = "More"
     weight = -1
 
