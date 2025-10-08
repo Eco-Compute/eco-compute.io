@@ -18,7 +18,7 @@ schedule:
             speaker_name: "Valeria Salis"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-117-from-shy-contributor-to-kinda-confident-community-leader/"
+            talk_link: "/talk/2025/from-shy-contributor-to-kinda-confident-community-leader/"
             content : "### From shy contributor to (kinda) confident community leader"
             labels:
               - 🇬🇧
@@ -28,7 +28,7 @@ schedule:
             speaker_name: "Hannah Herbst"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-57-grundlagen-von-it-nachhaltigkeit/"
+            talk_link: "/talk/2025/grundlagen-von-it-nachhaltigkeit/"
             content : "### Grundlagen von IT-Nachhaltigkeit"
             labels:
               - 🇩🇪
@@ -38,7 +38,7 @@ schedule:
             speaker_name: "Danijel Soldo"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-17-paint-it-green-how-open-source-helps-reduce-the-environmental-impact-of-ai/"
+            talk_link: "/talk/2025/paint-it-green-how-open-source-helps-reduce-the-environmental-impact-of-ai/"
             content : "### Paint It Green – How Open Source Helps Reduce the Environmental Impact of AI"
             labels:
               - 🇬🇧
@@ -48,7 +48,7 @@ schedule:
             speaker_name: "Paul Robben"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-50-small-seeds-software-nachhaltig-entwickeln-frdern/"
+            talk_link: "/talk/2025/small-seeds-software-nachhaltig-entwickeln-frdern/"
             content : "### Small Seeds: Software nachhaltig entwickeln & fördern"
             labels:
               - 🇩🇪
@@ -60,7 +60,7 @@ schedule:
             speaker_name: "Arne Tarara"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-120-carbondb-real-time-carbon-emissions-mapping-to-heterogenous-it-infrastructure/"
+            talk_link: "/talk/2025/carbondb-real-time-carbon-emissions-mapping-to-heterogenous-it-infrastructure/"
             content : "### CarbonDB - Real Time carbon emissions mapping to heterogenous IT infrastructure"
             labels:
               - 🇩🇪
@@ -70,7 +70,7 @@ schedule:
             speaker_name: "ELISE AUVRAY"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-30-empowering-devs-to-act-bringing-environmental-metrics-into-infrastructure-decisions/"
+            talk_link: "/talk/2025/empowering-devs-to-act-bringing-environmental-metrics-into-infrastructure-decisions/"
             content : "### Empowering Devs to Act: Bringing Environmental Metrics into Infrastructure Decisions"
             labels:
               - 🇬🇧
@@ -80,7 +80,7 @@ schedule:
             speaker_name: "Dryden Williams"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-36-rerouting-the-cloud-cutting-90-co-and-cloud-costs-with-smarter-workload-shifting/"
+            talk_link: "/talk/2025/rerouting-the-cloud-cutting-90-co-and-cloud-costs-with-smarter-workload-shifting/"
             content : "### Rerouting the Cloud: Cutting 90% CO₂ and Cloud Costs with Smarter Workload Shifting"
             labels:
               - 🇬🇧
@@ -90,7 +90,7 @@ schedule:
             speaker_name: "Josefine Kipke"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-24-measure-what-you-manage-transparent-energy-consumption-of-cloud-infrastructure/"
+            talk_link: "/talk/2025/measure-what-you-manage-transparent-energy-consumption-of-cloud-infrastructure/"
             content : "### Measure what you manage: Transparent Energy consumption of cloud infrastructure"
             labels:
               - 🇬🇧
@@ -100,7 +100,7 @@ schedule:
             speaker_name: "Matthias Haymoz"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-56-flying-blind-why-datacenter-sustainability-needs-real-data-not-marketing-claims/"
+            talk_link: "/talk/2025/flying-blind-why-datacenter-sustainability-needs-real-data-not-marketing-claims/"
             content : "### Flying Blind: Why Datacenter Sustainability Needs Real Data, Not Marketing Claims"
             labels:
               - 🇬🇧
@@ -110,7 +110,7 @@ schedule:
             speaker_name: "Oliver Winks"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-71-using-generative-adversarial-networks-to-reduce-the-impact-of-website-images/"
+            talk_link: "/talk/2025/using-generative-adversarial-networks-to-reduce-the-impact-of-website-images/"
             content : "### Using Generative Adversarial Networks to Reduce the Impact of Website Images"
             labels:
               - 🇬🇧
@@ -120,7 +120,7 @@ schedule:
             speaker_name: "Edouard Guégain"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-65-ecodesign-in-mobile-development-with-devgreenops/"
+            talk_link: "/talk/2025/ecodesign-in-mobile-development-with-devgreenops/"
             content : "### Ecodesign in mobile development with DevGreenOps"
             labels:
               - 🇬🇧
@@ -130,7 +130,7 @@ schedule:
             speaker_name: "Richard Kenny"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-46-understanding-data-centre-it-efficiency-the-hidden-power-source/"
+            talk_link: "/talk/2025/understanding-data-centre-it-efficiency-the-hidden-power-source/"
             content : "### Understanding Data Centre IT efficiency - The Hidden Power Source"
             labels:
               - 🇬🇧
@@ -140,7 +140,7 @@ schedule:
             speaker_name: "Anita  Schüttler"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-39-making-spot-instances-work-for-sustainability/"
+            talk_link: "/talk/2025/making-spot-instances-work-for-sustainability/"
             content : "### Making spot instances work for sustainability"
             labels:
               - 🇬🇧
@@ -152,7 +152,7 @@ schedule:
             speaker_name: "Arne Tarara"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-118-welcome-introduction-to-the-conference/"
+            talk_link: "/talk/2025/welcome-introduction-to-the-conference/"
             content : "### Welcome & Introduction to the conference"
             labels:
               - 🇬🇧
@@ -162,7 +162,7 @@ schedule:
             speaker_name: ""
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-119-keynote-state-of-green-digital-tech-2025/"
+            talk_link: "/talk/2025/keynote-state-of-green-digital-tech-2025/"
             content : "### Keynote: State of Green Digital Tech 2025"
             labels:
               - 🇬🇧
@@ -172,7 +172,7 @@ schedule:
             speaker_name: "Kay Makowsky"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-82-green-your-code-oaklean-s-vision-for-sustainable-node-js-projects/"
+            talk_link: "/talk/2025/green-your-code-oaklean-s-vision-for-sustainable-node-js-projects/"
             content : "### Green your Code: Oaklean’s vision for sustainable Node.js projects"
             labels:
               - 🇬🇧
@@ -182,7 +182,7 @@ schedule:
             speaker_name: "Moritz Bölter"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-97-coding-smarter-for-a-greener-future-a-comparison-between-go-java/"
+            talk_link: "/talk/2025/coding-smarter-for-a-greener-future-a-comparison-between-go-java/"
             content : "### Coding Smarter for a Greener Future | A comparison between Go & Java"
             labels:
               - 🇬🇧
@@ -192,7 +192,7 @@ schedule:
             speaker_name: "Björn Ganslandt"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-40-fighting-hardware-obsolescence-with-greener-frontend-code/"
+            talk_link: "/talk/2025/fighting-hardware-obsolescence-with-greener-frontend-code/"
             content : "### Fighting hardware obsolescence with greener frontend code"
             labels:
               - 🇬🇧
@@ -202,7 +202,7 @@ schedule:
             speaker_name: "David Kopp & Jan Kirchner"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-101-green-frontend-measuring-and-understanding-the-environmental-impact-of-web-applications/"
+            talk_link: "/talk/2025/green-frontend-measuring-and-understanding-the-environmental-impact-of-web-applications/"
             content : "### Green Frontend - Measuring and understanding the environmental impact of web applications"
             labels:
               - 🇬🇧
@@ -212,7 +212,7 @@ schedule:
             speaker_name: "Anna Zagorski"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-75-blauer-engel-fr-software-award-ceremony-by-umweltbundesamt/"
+            talk_link: "/talk/2025/blauer-engel-fuer-software-award-ceremony-by-umweltbundesamt/"
             content : "### Blauer Engel für Software - Award Ceremony - by Umweltbundesamt"
             labels:
               - 🇬🇧
@@ -222,7 +222,7 @@ schedule:
             speaker_name: "Robert Keus & Cas Burggraaf"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-63-how-to-build-a-sustainable-ai-infrastructure/"
+            talk_link: "/talk/2025/how-to-build-a-sustainable-ai-infrastructure/"
             content : "### How to build a sustainable AI infrastructure"
             labels:
               - 🇬🇧
@@ -232,7 +232,7 @@ schedule:
             speaker_name: "Martin Michalitsch & Denis Yashin"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-59-greenweb-showcase-wienit/"
+            talk_link: "/talk/2025/greenweb-showcase-wienit/"
             content : "### GreenWeb Showcase WienIT"
             labels:
               - 🇬🇧
@@ -242,7 +242,7 @@ schedule:
             speaker_name: "Geerd-Dietger Hoffmann"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-54-cat-proc-energy-power-and-carbon-awareness-made-simple/"
+            talk_link: "/talk/2025/cat-proc-energy-power-and-carbon-awareness-made-simple/"
             content : "### cat /proc/energy: Power and Carbon Awareness Made Simple"
             labels:
               - 🇬🇧
@@ -252,7 +252,7 @@ schedule:
             speaker_name: "Max Weber"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-42-green-configuration-reducing-software-energy-consumption-through-configuration/"
+            talk_link: "/talk/2025/green-configuration-reducing-software-energy-consumption-through-configuration/"
             content : "### Green Configuration: Reducing Software Energy Consumption Through Configuration"
             labels:
               - 🇬🇧
@@ -268,7 +268,7 @@ schedule:
             speaker_name: "Claire Thornewill"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-10-getting-management-buy-in-building-a-business-case-for-green-it/"
+            talk_link: "/talk/2025/getting-management-buy-in-building-a-business-case-for-green-it/"
             content : "### Getting Management Buy-in: Building a Business Case for Green IT"
             labels:
               - 🇬🇧
@@ -278,7 +278,7 @@ schedule:
             speaker_name: "Bjorna Kalaja"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-20-requirements-engineering-as-basis-for-architecting-a-green-software/"
+            talk_link: "/talk/2025/requirements-engineering-as-basis-for-architecting-a-green-software/"
             content : "### Requirements engineering as basis for architecting a green software"
             labels:
               - 🇬🇧
@@ -288,7 +288,7 @@ schedule:
             speaker_name: "Aydin Mir Mohammadi"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-90-one-year-of-the-co2-challenge-insights-and-lessons-learned/"
+            talk_link: "/talk/2025/one-year-of-the-co2-challenge-insights-and-lessons-learned/"
             content : "### One year of the CO2-challenge – insights and lessons learned"
             labels:
               - 🇬🇧
@@ -298,7 +298,7 @@ schedule:
             speaker_name: "Wilco Burggraaf"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-16-built-to-last-the-art-of-sustainable-software-design/"
+            talk_link: "/talk/2025/built-to-last-the-art-of-sustainable-software-design/"
             content : "### Built to Last: The Art of Sustainable Software Design"
             labels:
               - 🇬🇧
@@ -308,7 +308,7 @@ schedule:
             speaker_name: "Prof. Dr. Henning Klaffke & Rainer Karcher"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-58-the-missing-middle-of-green-it-why-twin-transformation-fails-without-skills-development/"
+            talk_link: "/talk/2025/the-missing-middle-of-green-it-why-twin-transformation-fails-without-skills-development/"
             content : "### The 'missing middle' of green IT: Why twin transformation fails without skills development"
             labels:
               - 🇬🇧
@@ -318,7 +318,7 @@ schedule:
             speaker_name: "Chris Adams"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-115-connect-not-collect-making-digital-sustainability-standards-discoverable-with-carbon-txt/"
+            talk_link: "/talk/2025/connect-not-collect-making-digital-sustainability-standards-discoverable-with-carbon-txt/"
             content : "### Connect, not collect - making digital sustainability standards discoverable with carbon.txt"
             labels:
               - 🇬🇧
@@ -330,7 +330,7 @@ schedule:
             speaker_name: "Andreas Brunnert & Manuel Steinberg"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-22-how-accurate-are-current-tools-and-models-for-estimating-software-energy-consumption-/"
+            talk_link: "/talk/2025/how-accurate-are-current-tools-and-models-for-estimating-software-energy-consumption-/"
             content : "### How accurate are current tools and models for estimating software energy consumption?"
             labels:
               - 🇬🇧
@@ -340,7 +340,7 @@ schedule:
             speaker_name: "Holger Smolinski & Jens Gröger"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-67-methods-to-determine-the-environmental-footprint-of-software-on-the-way-to-standardisation/"
+            talk_link: "/talk/2025/methods-to-determine-the-environmental-footprint-of-software-on-the-way-to-standardisation/"
             content : "### Methods to determine the environmental footprint of software – on the way to standardisation"
             labels:
               - 🇬🇧
@@ -350,7 +350,7 @@ schedule:
             speaker_name: "Benoit Petit"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-88-move-workloads-to-lower-carbon-the-hidden-complexity-that-might-hinder-your-carbon-aware-efforts/"
+            talk_link: "/talk/2025/move-workloads-to-lower-carbon-the-hidden-complexity-that-might-hinder-your-carbon-aware-efforts/"
             content : "### Move workloads to lower carbon ? The hidden complexity that might hinder your carbon-aware efforts"
             labels:
               - 🇬🇧
@@ -360,7 +360,7 @@ schedule:
             speaker_name: "Bundesverband Green Software"
             designation: "-"
             company: ""
-            talk_link: "/talk/2025/ecocompute-2025-121-bundesverband-green-software-green-software-initiative-award/"
+            talk_link: "/talk/2025/bundesverband-green-software-green-software-initiative-award/"
             content : "### Bundesverband Green Software - Green Software Initiative Award"
             labels:
               - 🇩🇪
