@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Max Weber"
 speaker_company: "Leipzig University"
-speaker_image : "https://cfp.eco-compute.io/media/avatars/YBLZST_AQ1rQZX.jpg"
+speaker_image : "images/teams/max-weber.webp"
 speaker_link: "speaker/max-weber/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 16:20"

@@ -57,7 +57,7 @@
 
         <div class="row align-items-stretch mb-3 py-3 border-bottom">
           <div class="col-12 col-lg-1 mb-2 mb-lg-0"><h5 class="time text-color mb-0">{{ $t }}</h5></div>
-          
+
           {{ if gt (len $breakItem) 0 }}
             {{ with index $breakItem 0 }}
             <div class="col-12 col-lg-11">
@@ -81,7 +81,7 @@
                     <div class="card h-100 shadow-sm schedule-card" style="position: relative;">
                       <div class="card-body d-flex">
                         {{ with $talk.Params.speaker_image }}
-                          <div class="mr-3 flex-shrink-0"><img src="{{ . }}" alt="{{ $talk.Params.speaker_name }}" class="rounded-circle" style="width:48px;height:48px;object-fit:cover;" loading="lazy"></div>
+                          <div class="mr-3 flex-shrink-0"><img src="/{{ . }}" alt="{{ $talk.Params.speaker_name }}" class="rounded-circle" style="width:48px;height:48px;object-fit:cover;" loading="lazy"></div>
                         {{ end }}
                         <div>
                           <h6 class="card-title mb-1">{{ $talk.Title }}</h6>

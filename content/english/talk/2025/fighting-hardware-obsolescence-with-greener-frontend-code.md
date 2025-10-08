@@ -4,9 +4,9 @@ date: 2025-11-13T11:50:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Björn Ganslandt"
-speaker_company: "Freelance"
-speaker_image : "https://cfp.eco-compute.io/media/avatars/JMBNV3_pADCOkh.jpg"
-speaker_link: "speaker/björn-ganslandt/"
+speaker_company: "-"
+speaker_image : "images/teams/bjoern-ganslandt.webp"
+speaker_link: "speaker/bjoern-ganslandt/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 11:50"
 type : "talk"

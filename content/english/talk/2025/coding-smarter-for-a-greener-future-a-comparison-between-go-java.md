@@ -4,8 +4,8 @@ date: 2025-11-13T10:15:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Moritz Bölter"
-speaker_company: ""
-speaker_image : "https://cfp.eco-compute.io/media/avatars/AZQPPE_fMOsjUx.JPG"
+speaker_company: "Lufthansa Industry Solutions"
+speaker_image : "images/teams/moritz-boelter-small.webp"
 speaker_link: "speaker/moritz-bölter/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 10:15"

@@ -4,8 +4,8 @@ date: 2025-11-13T14:20:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Oliver Winks"
-speaker_company: ""
-speaker_image : "https://cfp.eco-compute.io/media/avatars/CUUWAE_BQ4gZ9c.jpg"
+speaker_company: "Cardamon"
+speaker_image : "images/teams/oliver-winks.webp"
 speaker_link: "speaker/oliver-winks/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "13.11.2025 14:20"

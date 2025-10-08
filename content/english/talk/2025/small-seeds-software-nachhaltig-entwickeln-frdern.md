@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Paul Robben"
 speaker_company: "Prototype Fund"
-speaker_image : "https://cfp.eco-compute.io/media/avatars/79QWFE_NvWpVht.jpeg"
+speaker_image : "images/teams/paul-robben.webp"
 speaker_link: "speaker/paul-robben/"
 talk_room: "Community Track"
 talk_date: "14.11.2025 11:25"

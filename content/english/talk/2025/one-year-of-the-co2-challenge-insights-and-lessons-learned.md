@@ -4,8 +4,8 @@ date: 2025-11-14T11:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Aydin Mir Mohammadi"
-speaker_company: ""
-speaker_image : "https://cfp.eco-compute.io/media/avatars/FHVXJN_cF8swyT.JPG"
+speaker_company: "Bluehands"
+speaker_image : "images/teams/aydin-mir-mohammadi.webp"
 speaker_link: "speaker/aydin-mir-mohammadi/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "14.11.2025 11:00"
@@ -13,7 +13,7 @@ type : "talk"
 outdated: false
 ---
 
-The CO2 Challenge is a lighthouse campaign run by the CyberForum in Karlsruhe. IT and software companies from the region have committed to reducing their software's emissions by 40%. 
+The CO2 Challenge is a lighthouse campaign run by the CyberForum in Karlsruhe. IT and software companies from the region have committed to reducing their software's emissions by 40%.
 
 The adventure has been going on for a year. Here's what we've learnt.
 

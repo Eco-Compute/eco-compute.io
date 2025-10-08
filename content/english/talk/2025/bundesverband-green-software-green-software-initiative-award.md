@@ -4,8 +4,8 @@ date: 2025-11-14T12:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Bundesverband Green Software"
-speaker_company: ""
-speaker_image : "https://cfp.eco-compute.io/media/avatars/AR8FXB_PppWVs6.png"
+speaker_company: "Bundesverband Green Software"
+speaker_image : "images/clients/bvgs.webp"
 speaker_link: "speaker/bundesverband-green-software/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "14.11.2025 12:00"
@@ -44,7 +44,7 @@ Carbon Pricing, nachhaltige Softwaremetriken oder Dashboards, die Entwickler:inn
 Agenda:
 
 - Vorstellung BvGS
-- Vorstellung des Awardes 
-- Vorstellung von drei interessantesten Einreichungen 
+- Vorstellung des Awardes
+- Vorstellung von drei interessantesten Einreichungen
 - Sieger Benennung mit Begründung der Wahl, Laudatio, Preisverleihung
 - Q&A Fragerunde an den Sieger

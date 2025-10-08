@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Martin Michalitsch & Denis Yashin"
 speaker_company: "Wien IT"
-speaker_image : "https://cfp.eco-compute.io/media/avatars/8GM8ER_F1s7vew.jpg"
+speaker_image : "images/teams/image-missing.webp"
 speaker_link: "speaker/martin-michalitsch-and-denis-yashin/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 14:20"

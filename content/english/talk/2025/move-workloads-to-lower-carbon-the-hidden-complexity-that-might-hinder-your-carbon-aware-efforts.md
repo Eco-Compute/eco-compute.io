@@ -4,8 +4,8 @@ date: 2025-11-14T09:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Benoit Petit"
-speaker_company: ""
-speaker_image : "https://cfp.eco-compute.io/media/avatars/HHGCMW_tRLA2Xz.jpeg"
+speaker_company: "Hubblo"
+speaker_image : "images/teams/benoit-petit.webp"
 speaker_link: "speaker/benoit-petit/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "14.11.2025 09:00"

@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Hannah Herbst"
 speaker_company: "Rewion"
-speaker_image : "https://cfp.eco-compute.io/media/avatars/EVMXHY_aexkg8c.png"
+speaker_image : "images/teams/image-missing.webp"
 speaker_link: "speaker/hannah-herbst/"
 talk_room: "Community Track"
 talk_date: "13.11.2025 09:45"

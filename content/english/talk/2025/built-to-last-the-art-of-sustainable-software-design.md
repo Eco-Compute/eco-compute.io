@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Wilco Burggraaf"
 speaker_company: "Hightech Innovators"
-speaker_image : "https://cfp.eco-compute.io/media/avatars/SAVYPK_M6oDnfV.jpg"
+speaker_image : "images/teams/wilco-burggraaf-small.webp"
 speaker_link: "speaker/wilco-burggraaf/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "14.11.2025 11:00"

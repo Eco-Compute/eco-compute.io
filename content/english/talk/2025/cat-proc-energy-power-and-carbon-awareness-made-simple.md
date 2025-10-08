@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Geerd-Dietger Hoffmann"
 speaker_company: "Green Coding Solutions"
-speaker_image : "https://cfp.eco-compute.io/media/avatars/FR9DGE_eRvFyB2.png"
+speaker_image : "images/teams/didi-hoffmann-small.webp"
 speaker_link: "speaker/geerd-dietger-hoffmann/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 15:50"

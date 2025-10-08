@@ -4,8 +4,8 @@ date: 2025-11-14T09:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Stefan Kruijer"
-speaker_company: ""
-speaker_image : "https://cfp.eco-compute.io/media/avatars/XJWNJA_SUgT8cV.jpg"
+speaker_company: "SustyDigi"
+speaker_image : "images/teams/stefan-kruijer.webp"
 speaker_link: "speaker/stefan-kruijer/"
 talk_room: "Community Track"
 talk_date: "14.11.2025 09:00"

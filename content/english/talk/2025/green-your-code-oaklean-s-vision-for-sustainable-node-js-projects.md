@@ -4,8 +4,8 @@ date: 2025-11-13T09:45:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Kay Makowsky"
-speaker_company: ""
-speaker_image : "https://cfp.eco-compute.io/media/avatars/MJAQTU_lzL79Xi.jpg"
+speaker_company: "Hitabis"
+speaker_image : "images/teams/kay-makowski.webp"
 speaker_link: "speaker/kay-makowsky/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 09:45"
@@ -19,7 +19,7 @@ In this talk, we demonstrate Oaklean’s technical workflow and share our broade
 
 The session is aimed at developers, technical decision-makers, and sustainability officers who want actionable strategies for greener software development.
 
-Software development contributes substantially to global energy use (e.g. Internet traffic alone causes ~3.7% of global CO₂ emissions). In other words, “every line of code you write has an energy signature”. 
+Software development contributes substantially to global energy use (e.g. Internet traffic alone causes ~3.7% of global CO₂ emissions). In other words, “every line of code you write has an energy signature”.
 
 Oaklean (https://www.oaklean.io) was created to help tackle this problem by bringing energy-awareness into the development process. It profiles Node.js and JavaScript/Typescript code to reveal how much CPU time and energy each function or dependency consumes. Developers can see the energy impact of their application in real time, helping to pinpoint and eliminate wasteful patterns.
 

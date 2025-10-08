@@ -4,8 +4,8 @@ date: 2025-11-13T09:45:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Arne Tarara"
-speaker_company: ""
-speaker_image : "https://cfp.eco-compute.io/media/avatars/MUQBCU_BLJkety.jpg"
+speaker_company: "Green Coding Solutions"
+speaker_image : "images/teams/arne-tarara-small.webp"
 speaker_link: "speaker/arne-tarara/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "13.11.2025 09:45"

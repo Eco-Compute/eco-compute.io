@@ -4,8 +4,8 @@ date: 2025-11-13T17:15:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Jo Walton"
-speaker_company: ""
-speaker_image : ""
+speaker_company: "Digital Humanities Lab / University of Sussex"
+speaker_image : "images/teams/jo-walton.webp"
 speaker_link: "speaker/jo-walton/"
 talk_room: "Community Track"
 talk_date: "13.11.2025 17:15"
