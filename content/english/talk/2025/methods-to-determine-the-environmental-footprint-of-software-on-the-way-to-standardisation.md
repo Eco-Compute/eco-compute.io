@@ -1,6 +1,6 @@
 ---
 title: "Methods to determine the environmental footprint of software – on the way to standardisation 🇬🇧"
-date: 2025-11-14T09:55:00+01:00
+date: 2025-11-13T10:55:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Holger Smolinski"
@@ -11,8 +11,8 @@ speaker_2_name: "Jens Gröger"
 speaker_2_company: "Öko-Institut"
 speaker_2_link: "speaker/2025/jens-groeger/"
 speaker_2_image: "images/teams/jens-groeger-small.webp"
-talk_room: "Software & Hardware (So-Ha)"
-talk_date: "14.11.2025 09:55"
+talk_room: "Data Centers / Infrastructure / Management (DIM)"
+talk_date: "13.11.2025 10:55"
 type : "talk"
 duration: "50 Minutes"
 outdated: false
