@@ -4,9 +4,9 @@ date: 2025-10-07T12:57:12.701648+00:00
 draft: false
 description: "Geerd-Dietger Hoffmann"
 bg_image : "images/bg/cta-bg.webp"
-image: "https://cfp.eco-compute.io/media/avatars/FR9DGE_eRvFyB2.png"
-company: ""
-designation : ""
+image: "images/teams/didi-hoffmann.webp"
+company: "Green Coding Solutions"
+designation : "CTO"
 type : "speaker"
 outdated: false
 ---

@@ -5,8 +5,8 @@ draft: false
 description: "Bundesverband Green Software"
 bg_image : "images/bg/cta-bg.webp"
 image: "https://cfp.eco-compute.io/media/avatars/AR8FXB_PppWVs6.png"
-company: ""
-designation : ""
+company: "Bundesverband Green Software"
+designation : "Board"
 type : "speaker"
 outdated: false
 ---

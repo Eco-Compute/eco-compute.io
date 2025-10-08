@@ -5,8 +5,8 @@ draft: false
 description: "Robert Keus"
 bg_image : "images/bg/cta-bg.webp"
 image: "https://cfp.eco-compute.io/media/avatars/WXZZDT_0qV7ISR.jpg"
-company: ""
-designation : ""
+company: "Green PT / Brthrs Agency"
+designation : "Founder"
 type : "speaker"
 outdated: false
 ---

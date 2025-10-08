@@ -4,7 +4,7 @@ date: 2025-11-13T11:50:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Dryden Williams"
-speaker_company: ""
+speaker_company: "CarbonRunner"
 speaker_image : "https://cfp.eco-compute.io/media/avatars/FALGUX_XSBb0jL.jpeg"
 speaker_link: "speaker/dryden-williams/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
@@ -27,6 +27,6 @@ In this talk we want to highlight the Problem, Solution and Learnings & Metrics 
 - More Resilient Cloud Operations: How dynamic shifting reduces load on stressed regions, improves redundancy, and builds resilience into your infrastructure.
 - Built-in Data Sovereignty: Developers and teams retain control—choose clouds, countries, or even green energy thresholds to meet compliance and sovereignty goals.
 - Not Just the Big 3: Works across hyperscalers and alternative clouds—because true sustainability means moving beyond just AWS, GCP, and Azure.
-- ESG Dashboards: ready for you enterprise teams showing the impact of your GitHub Actions and savings of shifting them. 
+- ESG Dashboards: ready for you enterprise teams showing the impact of your GitHub Actions and savings of shifting them.
 
 Expect a highly visual, data-driven session that proves you can cut cloud emissions and costs today, using existing infrastructure smarter—not by waiting for next-gen hardware or distant green pledges.

@@ -4,7 +4,7 @@ date: 2025-11-13T12:20:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Matthias Haymoz"
-speaker_company: ""
+speaker_company: "SDEA"
 speaker_image : "https://cfp.eco-compute.io/media/avatars/8RKKXN_dJ8z3cb.jpg"
 speaker_link: "speaker/matthias-haymoz/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"

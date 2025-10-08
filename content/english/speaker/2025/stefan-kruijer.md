@@ -4,9 +4,9 @@ date: 2025-10-07T12:57:12.701781+00:00
 draft: false
 description: "Stefan Kruijer"
 bg_image : "images/bg/cta-bg.webp"
-image: "https://cfp.eco-compute.io/media/avatars/XJWNJA_SUgT8cV.jpg"
-company: ""
-designation : ""
+image: "images/teams/image-missing.webp"
+company: "SustyDigi"
+designation : "Software Developer"
 type : "speaker"
 outdated: false
 ---

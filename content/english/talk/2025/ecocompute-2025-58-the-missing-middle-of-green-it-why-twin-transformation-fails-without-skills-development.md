@@ -4,7 +4,7 @@ date: 2025-11-14T11:25:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Prof. Dr. Henning Klaffke & Rainer Karcher"
-speaker_company: ""
+speaker_company: "Heartprint"
 speaker_image : "https://cfp.eco-compute.io/media/avatars/G3QXHV_Lz8ENcI.jpeg"
 speaker_link: "speaker/prof-dr-henning-klaffke-and-rainer-karcher/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"

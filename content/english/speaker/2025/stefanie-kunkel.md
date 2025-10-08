@@ -4,9 +4,9 @@ date: 2025-10-07T12:57:12.699173+00:00
 draft: false
 description: "Stefanie Kunkel"
 bg_image : "images/bg/cta-bg.webp"
-image: "https://cfp.eco-compute.io/media/avatars/DZSK9D_0cZ2nyS.png"
-company: ""
-designation : ""
+image: "images/teams/image-missing.webp"
+company: "RIFS"
+designation : "Research Associate Digitalisation & Sustainability"
 type : "speaker"
 outdated: false
 ---

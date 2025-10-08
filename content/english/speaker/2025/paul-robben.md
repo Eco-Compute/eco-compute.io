@@ -4,9 +4,9 @@ date: 2025-10-07T12:57:12.701951+00:00
 draft: false
 description: "Paul Robben"
 bg_image : "images/bg/cta-bg.webp"
-image: "https://cfp.eco-compute.io/media/avatars/79QWFE_NvWpVht.jpeg"
-company: ""
-designation : ""
+image: "images/teams/paul-robben.webp"
+company: "Prototype Fund / Open Knowledge Foundation Deutschland e.V."
+designation : "Communications"
 type : "speaker"
 outdated: false
 ---

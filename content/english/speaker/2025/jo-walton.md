@@ -5,8 +5,8 @@ draft: false
 description: "Jo Walton"
 bg_image : "images/bg/cta-bg.webp"
 image: "images/logo-2.webp"
-company: ""
-designation : ""
+company: "Digital Humanities Lab / University of Sussex"
+designation : "Principal Research Fellow in Arts, Climate and Technology"
 type : "speaker"
 outdated: false
 ---

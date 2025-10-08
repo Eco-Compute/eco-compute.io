@@ -4,7 +4,7 @@ date: 2025-11-14T09:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Andreas Brunnert & Manuel Steinberg"
-speaker_company: ""
+speaker_company: "RETIT GmbH / Hochschule München"
 speaker_image : "https://cfp.eco-compute.io/media/avatars/YKQJNQ_d24W1cN.jpg"
 speaker_link: "speaker/andreas-brunnert-and-manuel-steinberg/"
 talk_room: "Software & Hardware (So-Ha)"

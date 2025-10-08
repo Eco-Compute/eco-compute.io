@@ -4,7 +4,7 @@ date: 2025-11-13T17:15:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Anita  Schüttler"
-speaker_company: ""
+speaker_company: "Neuland - Büro für Informatik"
 speaker_image : "https://cfp.eco-compute.io/media/avatars/SEVDAG_0n4BnZ1.jpeg"
 speaker_link: "speaker/anita-schüttler/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"

@@ -4,7 +4,7 @@ date: 2025-11-13T13:50:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Robert Keus & Cas Burggraaf"
-speaker_company: ""
+speaker_company: "GreenPT / Brthrs Agency"
 speaker_image : "https://cfp.eco-compute.io/media/avatars/WXZZDT_0qV7ISR.jpg"
 speaker_link: "speaker/robert-keus-and-cas-burggraaf/"
 talk_room: "Software & Hardware (So-Ha)"

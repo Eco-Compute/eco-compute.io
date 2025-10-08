@@ -4,9 +4,9 @@ date: 2025-10-07T12:57:12.699329+00:00
 draft: false
 description: "Paloma Oliveira"
 bg_image : "images/bg/cta-bg.webp"
-image: "https://cfp.eco-compute.io/media/avatars/3WVDEW_uuAO0rP.jpeg"
-company: ""
-designation : ""
+image: "images/teams/paloma-oliveira.webp"
+company: "Sovereign Tech Agency"
+designation : "Technologist"
 type : "speaker"
 outdated: false
 ---
