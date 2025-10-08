@@ -36,29 +36,4 @@
   <link rel="shortcut icon" href="{{ `/favicon.ico` | absURL }}" type="image/x-icon">
   <link rel="icon" href="{{ `/favicon.ico` | absURL }}" type="image/x-icon">
   <script type="text/javascript" src="https://cfp.eco-compute.io/ecocompute-2025/schedule/widget/v2.en.js"></script>
-  <script type="text/javascript">
-    window.addEventListener("load", () => {
-		setTimeout(() => {
-		document.querySelector("#section-schedule pretalx-schedule").shadowRoot.querySelector('li[aria-controls="2025-11-14T00:00:00+01:00"]')
-			.addEventListener('click', () => {
-			document.querySelector("#section-schedule pretalx-schedule").shadowRoot.querySelector('[data-date="2025-11-14T09:00:00+01:00"]').scrollIntoView({
-					behavior: 'smooth',
-					block: 'center'
-			});
-		});
-		}, 1000);
-		setTimeout(() => {
-		document.querySelector("#section-schedule pretalx-schedule").shadowRoot.querySelector('li[aria-controls="2025-11-14T00:00:00+01:00"]')
-			.addEventListener('click', () => {
-				document.querySelector("#section-schedule pretalx-schedule").shadowRoot.querySelector('div.timeslice[data-slice="2025-11-14T09:00:00+01:00"]').scrollIntoView({
-				behavior: 'smooth',
-				block: 'center'
-				});
-			});
-		}, 1000);
-	});
-  </script>
-
-
-
 </head>
