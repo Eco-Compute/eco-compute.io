@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Marco Liess"
 speaker_company: "TU Munich"
-speaker_image : "images/teams/image-missing.webp"
+speaker_image : "images/teams/marco-liess-small.webp"
 speaker_link: "speakers/2025/marco-liess/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 17:15"

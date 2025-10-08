@@ -4,7 +4,7 @@ date: 2025-10-07T12:57:12.700042+00:00
 draft: false
 description: "Marco Liess"
 bg_image : "images/bg/cta-bg.webp"
-image : "images/teams/image-missing.webp"
+image : "images/teams/marco-liess.webp"
 company: "TU Munich"
 designation : "PhD researcher"
 type : "speaker"
