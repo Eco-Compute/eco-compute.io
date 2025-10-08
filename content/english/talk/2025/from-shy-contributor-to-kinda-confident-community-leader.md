@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Valeria Salis"
 speaker_company: "-"
-speaker_image : "images/teams/valeria-salis.webp"
+speaker_image : "images/teams/valeria-salis-small.webp"
 speaker_link: "speaker/2025/valeria-salis/"
 talk_room: "Community Track"
 talk_date: "13.11.2025 13:50"

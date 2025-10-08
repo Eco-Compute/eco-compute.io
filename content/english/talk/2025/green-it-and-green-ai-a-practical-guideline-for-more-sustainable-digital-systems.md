@@ -3,10 +3,14 @@ title: "Green IT and Green AI: A Practical Guideline for More Sustainable Digita
 date: 2025-11-13T10:15:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
-speaker_name: "Stefanie Kunkel & Emma Schütt"
-speaker_company: "RIFS"
-speaker_image : "images/teams/image-missing.webp"
-speaker_link: "speaker/2025/stefanie-kunkel-and-emma-schütt/"
+speaker_name: "Stefanie Kunkel"
+speaker_company: "RIFS | am GFZ Helmholtz-Zentrum Potsdam"
+speaker_image : "images/teams/stefanie-kunkel-small.webp"
+speaker_link: "speaker/2025/stefanie-kunkel/"
+speaker_2_name: "Emma Schütt"
+speaker_2_image: "images/teams/image-missing.webp"
+speaker_2_link: "speaker/2025/emma-schuett/"
+speaker_2_company: "RIFS | am GFZ Helmholtz-Zentrum Potsdam"
 talk_room: "Community Track"
 talk_date: "13.11.2025 10:15"
 type : "talk"

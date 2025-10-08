@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Dryden Williams"
 speaker_company: "CarbonRunner"
-speaker_image : "images/teams/dryden-williams.webp"
+speaker_image : "images/teams/dryden-williams-small.webp"
 speaker_link: "speaker/2025/dryden-williams/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "13.11.2025 11:50"

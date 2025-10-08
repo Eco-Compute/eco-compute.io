@@ -5,7 +5,7 @@ draft: false
 description: "Emma Schütt"
 bg_image : "images/bg/cta-bg.webp"
 image: "images/teams/image-missing.webp"
-company: "RIFS"
+company: "RIFS | am GFZ Helmholtz-Zentrum Potsdam"
 designation : "Student"
 type : "speaker"
 outdated: false

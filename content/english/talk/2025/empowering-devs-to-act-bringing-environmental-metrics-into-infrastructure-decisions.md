@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "ELISE AUVRAY"
 speaker_company: "Scaleway"
-speaker_image : "images/teams/elise-auvray.webp"
+speaker_image : "images/teams/elise-auvray-small.webp"
 speaker_link: "speaker/2025/elise-auvray/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "13.11.2025 10:15"

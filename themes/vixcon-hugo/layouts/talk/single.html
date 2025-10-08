@@ -29,13 +29,13 @@
             <div><span class="text-color">Company affiliation:</span> {{ .Params.speaker_company }}</div>
             {{ if .Params.speaker_2_name }}
             <br>
-            <div><span class="text-color">Speaker #2:</span>  <a href="{{ absURL .Params.speaker_link }}">{{.Params.speaker_name  }}</a></div>
-            <div><span class="text-color">Company affiliation:</span> {{ .Params.speaker_company }}</div>
+            <div><span class="text-color">Speaker #2:</span>  <a href="{{ absURL .Params.speaker_2_link }}">{{.Params.speaker_2_name  }}</a></div>
+            <div><span class="text-color">Company affiliation:</span> {{ .Params.speaker_2_company }}</div>
             {{ end }}
             {{ if .Params.speaker_3_name }}
            <br>
-            <div><span class="text-color">Speaker #3:</span>  <a href="{{ absURL .Params.speaker_link }}">{{.Params.speaker_name  }}</a></div>
-            <div><span class="text-color">Company affiliation:</span> {{ .Params.speaker_company }}</div>
+            <div><span class="text-color">Speaker #3:</span>  <a href="{{ absURL .Params.speaker_3_link }}">{{.Params.speaker_3_name  }}</a></div>
+            <div><span class="text-color">Company affiliation:</span> {{ .Params.speaker_3_company }}</div>
             {{ end }}
             <hr>
             <h3>Time & Room</h3>

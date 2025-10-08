@@ -95,3 +95,13 @@
 .text-color-2 {
 	color: $secondary-color;
 }
+
+.speaker-image-schedule {
+    width:48px;
+    height:48px;
+    object-fit:cover;
+}
+.speaker-image-schedule-additional {
+    margin-top: 20px;
+}
+

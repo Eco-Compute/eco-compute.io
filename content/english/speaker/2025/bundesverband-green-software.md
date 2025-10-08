@@ -4,7 +4,7 @@ date: 2025-10-07T12:57:12.703579+00:00
 draft: false
 description: "Bundesverband Green Software"
 bg_image : "images/bg/cta-bg.webp"
-image: "https://cfp.eco-compute.io/media/avatars/AR8FXB_PppWVs6.png"
+image: "images/teams/bvgs.webp"
 company: "Bundesverband Green Software"
 designation : "Board"
 type : "speaker"

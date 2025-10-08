@@ -5,11 +5,12 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Kay Makowsky"
 speaker_company: "Hitabis"
-speaker_image : "images/teams/kay-makowski.webp"
+speaker_image : "images/teams/kay-makowsky-small.webp"
 speaker_link: "speaker/2025/kay-makowsky/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 09:45"
 type : "talk"
+talk_label: "📌 Measuring"
 outdated: false
 ---
 

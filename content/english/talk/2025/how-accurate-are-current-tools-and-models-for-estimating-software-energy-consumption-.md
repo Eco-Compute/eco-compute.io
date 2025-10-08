@@ -3,10 +3,13 @@ title: "How accurate are current tools and models for estimating software energy
 date: 2025-11-14T09:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
-speaker_name: "Andreas Brunnert & Manuel Steinberg"
+speaker_name: "Andreas Brunnert"
 speaker_company: "RETIT GmbH / Hochschule München"
-speaker_image : "images/teams/image-missing.webp"
-speaker_link: "speaker/2025/andreas-brunnert-and-manuel-steinberg/"
+speaker_image : "images/teams/andreas-brunnert-small.webp"
+speaker_link: "speaker/2025/andreas-brunnert/"
+speaker_2_name: "Manuel Steinberg"
+speaker_2_image : "images/teams/manuel-steinberg-small.webp"
+speaker_2_link: "speaker/2025/manuel-steinberg/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "14.11.2025 09:00"
 type : "talk"

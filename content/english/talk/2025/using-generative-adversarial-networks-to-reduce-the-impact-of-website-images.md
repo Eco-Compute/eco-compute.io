@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Oliver Winks"
 speaker_company: "Cardamon"
-speaker_image : "images/teams/oliver-winks.webp"
+speaker_image : "images/teams/oliver-winks-small.webp"
 speaker_link: "speaker/2025/oliver-winks/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "13.11.2025 14:20"

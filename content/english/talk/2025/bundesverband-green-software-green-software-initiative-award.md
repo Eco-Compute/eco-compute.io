@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Bundesverband Green Software"
 speaker_company: "Bundesverband Green Software"
-speaker_image : "images/clients/bvgs.webp"
+speaker_image : "images/teams/bvgs-small.webp"
 speaker_link: "speaker/2025/bundesverband-green-software/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "14.11.2025 12:00"

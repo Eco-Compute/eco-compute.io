@@ -4,8 +4,8 @@ date: 2025-10-07T12:57:12.699173+00:00
 draft: false
 description: "Stefanie Kunkel"
 bg_image : "images/bg/cta-bg.webp"
-image: "images/teams/image-missing.webp"
-company: "RIFS"
+image: "images/teams/stefanie-kunkel.webp"
+company: "RIFS | am GFZ Helmholtz-Zentrum Potsdam"
 designation : "Research Associate Digitalisation & Sustainability"
 type : "speaker"
 outdated: false

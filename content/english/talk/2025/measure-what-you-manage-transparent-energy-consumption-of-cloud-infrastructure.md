@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Josefine Kipke"
 speaker_company: "Open Source Business Alliance"
-speaker_image : "images/teams/josefine-kipke.webp"
+speaker_image : "images/teams/josefine-kipke-small.webp"
 speaker_link: "speaker/2025/josefine-kipke/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "13.11.2025 10:55"

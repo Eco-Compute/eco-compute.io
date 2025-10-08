@@ -4,9 +4,9 @@ date: 2025-10-07T12:57:12.702651+00:00
 draft: false
 description: "Aydin Mir Mohammadi"
 bg_image : "images/bg/cta-bg.webp"
-image: "https://cfp.eco-compute.io/media/avatars/FHVXJN_cF8swyT.JPG"
-company: ""
-designation : ""
+image: "images/teams/aydin-mir-mohammadi.webp"
+company: "Bluehands"
+designation : "Founder & CEO"
 type : "speaker"
 outdated: false
 ---

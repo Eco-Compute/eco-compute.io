@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Benoit Petit"
 speaker_company: "Hubblo"
-speaker_image : "images/teams/benoit-petit.webp"
+speaker_image : "images/teams/benoit-petit-small.webp"
 speaker_link: "speaker/2025/benoit-petit/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "14.11.2025 09:00"

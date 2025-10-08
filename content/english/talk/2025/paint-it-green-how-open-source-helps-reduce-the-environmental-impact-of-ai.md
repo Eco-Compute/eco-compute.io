@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Danijel Soldo"
 speaker_company: "Red Hat"
-speaker_image : "images/teams/danijel-soldo.webp"
+speaker_image : "images/teams/danijel-soldo-small.webp"
 speaker_link: "speaker/2025/danijel-soldo/"
 talk_room: "Community Track"
 talk_date: "13.11.2025 14:50"

@@ -3,10 +3,14 @@ title: "Green Frontend - Measuring and understanding the environmental impact of
 date: 2025-11-13T10:55:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
-speaker_name: "David Kopp & Jan Kirchner"
+speaker_name: "David Kopp"
 speaker_company: "envite consulting"
-speaker_image : "images/teams/david-kopp.webp"
-speaker_link: "speaker/2025/david-kopp-and-jan-kirchner/"
+speaker_image : "images/teams/david-kopp-small.webp"
+speaker_link: "speaker/2025/david-kopp/"
+speaker_2_name : "Jan Kirchner"
+speaker_2_company: "envite consulting"
+speaker_2_image : "images/teams/jan-kirchner-small.webp"
+speaker_2_link: "speaker/2025/jan-kirchner/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 10:55"
 type : "talk"

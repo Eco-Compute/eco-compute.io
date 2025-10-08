@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Bjorna Kalaja"
 speaker_company: "foryouandyourcustomers Vienna"
-speaker_image : "images/teams/bjorna-kalaja.webp"
+speaker_image : "images/teams/bjorna-kalaja-small.webp"
 speaker_link: "speaker/2025/bjorna-kalaja/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "14.11.2025 11:25"

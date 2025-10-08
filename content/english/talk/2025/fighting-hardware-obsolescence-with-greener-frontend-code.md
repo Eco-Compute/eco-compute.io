@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Björn Ganslandt"
 speaker_company: "-"
-speaker_image : "images/teams/bjoern-ganslandt.webp"
+speaker_image : "images/teams/bjoern-ganslandt-small.webp"
 speaker_link: "speaker/2025/bjoern-ganslandt/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 11:50"

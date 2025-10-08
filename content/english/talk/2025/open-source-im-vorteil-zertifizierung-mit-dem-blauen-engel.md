@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Philipp Kersting"
 speaker_company: "Oktobit"
-speaker_image : "images/teams/phlipp-kersting.webp"
+speaker_image : "images/teams/philipp-kersting-small.webp"
 speaker_link: "speaker/2025/philipp-kersting/"
 talk_room: "Community Track"
 talk_date: "13.11.2025 11:50"

@@ -5,7 +5,7 @@ draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Claire Thornewill"
 speaker_company: "neoverv"
-speaker_image : "images/teams/claire-thornewill.webp"
+speaker_image : "images/teams/claire-thornewill-small.webp"
 speaker_link: "speaker/2025/claire-thornewill/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "14.11.2025 09:55"
