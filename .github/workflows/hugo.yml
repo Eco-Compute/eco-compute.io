@@ -54,6 +54,7 @@ jobs:
           hugo \
             --gc \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --buildFuture
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
