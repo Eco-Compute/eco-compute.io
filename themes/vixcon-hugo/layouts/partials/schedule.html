@@ -85,7 +85,17 @@
                         {{ end }}
                         <div>
                           <h6 class="card-title mb-1">{{ $talk.Title }}</h6>
-                          <div class="text-muted small"><b>{{ $talk.Params.speaker_name }}</b><br>{{ $talk.Params.speaker_company }}</div>
+                          <div class="text-muted small">
+                              <b>
+                                  {{ $talk.Params.speaker_name }}
+                                  {{ if $talk.Params.speaker_2_name }} | {{ $talk.Params.speaker_2_name }}{{ end }}
+                                  {{ if $talk.Params.speaker_3_name }} | {{ $talk.Params.speaker_3_name }}{{ end }}
+                              </b>
+                              <br>
+                              {{ $talk.Params.speaker_company }}
+                              {{ if and $talk.Params.speaker_2_company (ne $talk.Params.speaker_company $talk.Params.speaker_2_company) }} | {{ $talk.Params.speaker_2_company }}{{ end }}
+                              {{ if and $talk.Params.speaker_3_company (ne $talk.Params.speaker_company $talk.Params.speaker_3_company) (ne $talk.Params.speaker_2_company $talk.Params.speaker_3_company) }} | {{ $talk.Params.speaker_2_company }}{{ end }}
+                          </div>
                         </div>
                       </div>
                       {{ with $talk.Params.talk_label }}

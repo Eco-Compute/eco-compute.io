@@ -3,8 +3,10 @@ title: "Methods to determine the environmental footprint of software – on the 
 date: 2025-11-14T09:55:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
-speaker_name: "Holger Smolinski & Jens Gröger"
-speaker_company: "Bosch / Öko-Institut"
+speaker_name: "Holger Smolinski"
+speaker_company: "Bosch"
+speaker_2_name: "Jens Gröger"
+speaker_2_company: "Öko-Institut"
 speaker_image : "images/teams/image-missing.webp"
 speaker_link: "speaker/holger-smolinski/"
 talk_room: "Software & Hardware (So-Ha)"
