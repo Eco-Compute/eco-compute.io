@@ -10,6 +10,7 @@ speaker_link: ""
 talk_room: "Community Track"
 talk_date: "14.11.2025 12:00"
 type : "talk"
+duration: "25 Minutes"
 outdated: false
 ---
 

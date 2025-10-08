@@ -10,6 +10,7 @@ speaker_link: "speaker/2025/matthias-haymoz/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "13.11.2025 12:20"
 type : "talk"
+duration: "25 Minutes"
 outdated: false
 ---
 

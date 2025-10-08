@@ -13,6 +13,7 @@ speaker_2_image : "images/teams/image-missing.webp"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 14:20"
 type : "talk"
+duration: "25 Minutes"
 outdated: false
 ---
 

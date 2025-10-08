@@ -10,6 +10,7 @@ speaker_link: "speaker/2025/arne-tarara/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 09:20"
 type : "talk"
+duration: "20 Minutes"
 talk_label: "Keynote - 20 min."
 outdated: false
 ---

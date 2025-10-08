@@ -10,6 +10,7 @@ speaker_link: "speaker/2025/aydin-mir-mohammadi/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "14.11.2025 11:00"
 type : "talk"
+duration: "25 Minutes"
 outdated: false
 ---
 

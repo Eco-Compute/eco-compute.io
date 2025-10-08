@@ -10,6 +10,7 @@ speaker_link: "speaker/2025/anna-zagorski/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 12:20"
 type : "talk"
+duration: "25 Minutes"
 outdated: false
 ---
 

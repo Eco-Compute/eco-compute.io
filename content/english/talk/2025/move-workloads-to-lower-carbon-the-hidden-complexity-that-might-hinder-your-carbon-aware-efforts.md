@@ -10,6 +10,7 @@ speaker_link: "speaker/2025/benoit-petit/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "14.11.2025 09:00"
 type : "talk"
+duration: "50 Minutes"
 outdated: false
 ---
 

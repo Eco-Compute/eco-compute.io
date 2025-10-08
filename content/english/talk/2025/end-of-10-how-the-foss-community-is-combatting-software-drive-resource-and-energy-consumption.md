@@ -18,6 +18,7 @@ speaker_3_link: "speaker/2025/carolina-silva-rode/"
 talk_room: "Community Track"
 talk_date: "13.11.2025 14:20"
 type : "talk"
+duration: "25 Minutes"
 outdated: false
 ---
 

@@ -14,6 +14,7 @@ speaker_2_image: "images/teams/jens-groeger-small.webp"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "14.11.2025 09:55"
 type : "talk"
+duration: "50 Minutes"
 outdated: false
 ---
 

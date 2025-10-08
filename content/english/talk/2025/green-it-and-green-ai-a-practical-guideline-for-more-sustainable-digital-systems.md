@@ -14,6 +14,7 @@ speaker_2_company: "RIFS | am GFZ Helmholtz-Zentrum Potsdam"
 talk_room: "Community Track"
 talk_date: "13.11.2025 10:15"
 type : "talk"
+duration: "25 Minutes"
 outdated: false
 ---
 

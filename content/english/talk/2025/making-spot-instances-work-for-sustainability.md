@@ -10,6 +10,7 @@ speaker_link: "speaker/2025/anita-schuettler/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "13.11.2025 17:15"
 type : "talk"
+duration: "50 Minutes"
 outdated: false
 ---
 

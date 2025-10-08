@@ -10,6 +10,7 @@ speaker_link: "speaker/2025/julian-bothe/"
 talk_room: "Community Track"
 talk_date: "13.11.2025 15:50"
 type : "talk"
+duration: "25 Minutes"
 outdated: false
 ---
 

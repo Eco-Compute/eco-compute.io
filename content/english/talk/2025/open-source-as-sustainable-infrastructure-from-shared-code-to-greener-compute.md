@@ -10,6 +10,7 @@ speaker_link: "speaker/2025/paloma-oliveira/"
 talk_room: "Community Track"
 talk_date: "13.11.2025 10:55"
 type : "talk"
+duration: "25 Minutes"
 outdated: false
 ---
 

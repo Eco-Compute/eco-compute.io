@@ -10,6 +10,7 @@ speaker_link: "speaker/2025/josefine-kipke/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "13.11.2025 10:55"
 type : "talk"
+duration: "50 Minutes"
 outdated: false
 ---
 

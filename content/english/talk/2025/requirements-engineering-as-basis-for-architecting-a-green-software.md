@@ -10,6 +10,7 @@ speaker_link: "speaker/2025/bjorna-kalaja/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "14.11.2025 11:25"
 type : "talk"
+duration: "25 Minutes"
 outdated: false
 ---
 

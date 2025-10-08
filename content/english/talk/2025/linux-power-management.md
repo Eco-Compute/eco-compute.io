@@ -10,6 +10,7 @@ speaker_link: "speakers/2025/marco-liess/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 17:15"
 type : "talk"
+duration: "50 Minutes"
 outdated: false
 ---
 

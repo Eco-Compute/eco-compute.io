@@ -14,6 +14,7 @@ speaker_2_link: "speaker/2025/jan-kirchner/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 10:55"
 type : "talk"
+duration: "50 Minutes"
 outdated: false
 ---
 

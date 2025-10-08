@@ -45,8 +45,9 @@
             {{ end }}
             <hr>
             <h3>Time & Room</h3>
-            <div class="text-color">Time: {{ .Params.talk_date  }}</div>
-            <div class="text-color">Room: {{ .Params.talk_room }}</div>
+            <div><span class="text-color">Starting Time:</span> {{ .Params.talk_date  }}</div>
+            <div><span class="text-color">Duration:</span>  {{ .Params.duration }}</div>
+            <div><span class="text-color">Room:</span>  {{ .Params.talk_room }}</div>
             <hr>
             <h3>Talk Details</h2>
             <div class="content">{{ .Content }}</div>

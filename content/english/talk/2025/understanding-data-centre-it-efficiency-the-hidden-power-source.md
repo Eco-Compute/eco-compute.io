@@ -10,6 +10,7 @@ speaker_link: "speaker/2025/rich-kenny/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "13.11.2025 16:20"
 type : "talk"
+duration: "50 Minutes"
 outdated: false
 ---
 

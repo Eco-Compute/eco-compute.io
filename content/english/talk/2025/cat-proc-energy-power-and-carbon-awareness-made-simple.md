@@ -10,6 +10,7 @@ speaker_link: "speaker/2025/geerd-dietger-hoffmann/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 15:50"
 type : "talk"
+duration: "25 Minutes"
 outdated: false
 ---
 

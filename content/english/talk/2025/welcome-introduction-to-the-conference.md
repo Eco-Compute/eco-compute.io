@@ -16,6 +16,7 @@ speaker_3_link: "speaker/2025/friederike-hildebrandt/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 09:00"
 type : "talk"
+duration: "20 Minutes"
 outdated: false
 talk_label: "Introduction"
 ---

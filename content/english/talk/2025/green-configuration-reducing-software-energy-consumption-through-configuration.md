@@ -10,6 +10,7 @@ speaker_link: "speaker/2025/max-weber/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 16:20"
 type : "talk"
+duration: "50 Minutes"
 outdated: false
 ---
 

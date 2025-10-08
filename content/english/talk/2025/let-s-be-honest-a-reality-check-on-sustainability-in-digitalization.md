@@ -1,5 +1,5 @@
 ---
-title: "Let's be honest about digitalization as an enabler of sustainability 🇬🇧"
+title: "Let's be honest. A reality check on sustainability in digitalization 🇬🇧"
 date: 2025-11-14T09:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
@@ -10,6 +10,7 @@ speaker_link: "speaker/2025/stefan-kruijer/"
 talk_room: "Community Track"
 talk_date: "14.11.2025 09:00"
 type : "talk"
+duration: "25 Minutes"
 outdated: false
 ---
 

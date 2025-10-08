@@ -13,6 +13,7 @@ speaker_2_link: "speaker/2025/cas-burggraaf/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 13:50"
 type : "talk"
+duration: "25 Minutes"
 outdated: false
 ---
 

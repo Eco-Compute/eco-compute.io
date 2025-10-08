@@ -10,6 +10,7 @@ speaker_link: "speaker/2025/jo-walton/"
 talk_room: "Community Track"
 talk_date: "13.11.2025 17:15"
 type : "talk"
+duration: "25 Minutes"
 outdated: false
 ---
 

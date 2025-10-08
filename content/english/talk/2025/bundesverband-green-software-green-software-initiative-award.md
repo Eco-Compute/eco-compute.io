@@ -10,6 +10,7 @@ speaker_link: "speaker/2025/bundesverband-green-software/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "14.11.2025 12:00"
 type : "talk"
+duration: "30 Minutes"
 outdated: false
 ---
 
