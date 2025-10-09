@@ -114,8 +114,9 @@
                           </div>
                         </div>
                       </div>
+                      <span class="d-lg-none" style="position: absolute; bottom: 5px; right: 5px; background-color: #6c757db2; color: white; padding: 2px 8px; border-radius: 5px; font-size: 0.7rem;">{{ $track }}</span>
                       {{ with $talk.Params.talk_label }}
-                        <span style="position: absolute; bottom: 0px; right: 0px; background-color: #3d936f; color: white; padding: 0.1px 5px; border-radius: 3px; font-size: 0.5rem;">{{ . }}</span>
+                        <span class="d-none d-lg-inline" style="position: absolute; bottom: 0px; right: 0px; background-color: #3d936f; color: white; padding: 0.1px 5px; border-radius: 3px; font-size: 0.5rem;">{{ . }}</span>
                       {{ end }}
                     </div>
                   </a>

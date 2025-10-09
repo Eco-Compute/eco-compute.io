@@ -1,0 +1,37 @@
+<section id="section-workshops" class="section-workshops section">
+  <div class="container">
+    <div class="row section-heading">
+      <div class="col-lg">
+        <div class="heading">
+          <span class="stroke-text">Workshops</span>
+          <div class="pl-90">
+            <h2 class="mt-2">Workshops 2025</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+
+    <div class="row">
+      {{ $workshop_year := 2025 }}
+      {{ $path_prefix := printf "workshop/%d" $workshop_year }}
+      {{ range (sort (where .Site.RegularPages "Type" "workshop") "Title") }}
+        {{ if (strings.HasPrefix .File.Path $path_prefix) }}
+            <div class="col-lg-9">
+                <div class="speaker-info">
+                    <h4 class="mb-0 mt-3"><a href="{{ .Permalink }}"><i class="{{ .Params.Icon }}"></i> {{ .Title }}</a></h4>
+                    <p>Held by {{ .Params.Workshop_host }}<br>{{ .Description }}</p>
+                    <p><u><a href="{{ .Permalink }}">Read full details and description</a></u></p>
+                    <hr>
+                </div>
+            </div>
+            <div class="col-lg-3 d-none d-lg-block">
+                <div class="speaker-image">
+                    <img src="{{ .Params.Workshop_host_image | absURL }}" alt="{{ .Title }}" class="img-fluid rounded-circle" style="width: 100px;" loading="lazy">
+                </div>
+            </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>
