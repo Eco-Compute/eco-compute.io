@@ -6,7 +6,7 @@ description: "Valeria Salis"
 bg_image : "images/bg/cta-bg.webp"
 image: "images/teams/valeria-salis.webp"
 company: "-"
-designation : "Software developer"
+designation : "Tech Sustainability Consultant"
 type : "speaker"
 outdated: false
 ---
