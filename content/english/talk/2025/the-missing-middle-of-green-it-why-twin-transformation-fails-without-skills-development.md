@@ -1,6 +1,6 @@
 ---
 title: "The \"missing middle\" of green IT: Why twin transformation fails without skills development 🇬🇧"
-date: 2025-11-14T11:25:00+01:00
+date: 2025-11-13T13:50:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Rainer Karcher"
@@ -12,7 +12,7 @@ speaker_2_company: "Berufliche Hochschule Hamburg"
 speaker_2_image : "images/teams/henning-klaffke-small.webp"
 speaker_2_link: "speaker/2025/henning-klaffke/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
-talk_date: "14.11.2025 11:25"
+talk_date: "13.11.2025 13:50"
 type : "talk"
 duration: "25 Minutes"
 outdated: false
