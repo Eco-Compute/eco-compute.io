@@ -4,7 +4,7 @@ date: 2025-10-07T12:57:12.701781+00:00
 draft: false
 description: "Stefan Kruijer"
 bg_image : "images/bg/cta-bg.webp"
-image: "images/teams/image-missing.webp"
+image: "images/teams/stefan-kruijer.webp"
 company: "SustyDigi"
 designation : "Software Developer"
 type : "speaker"
