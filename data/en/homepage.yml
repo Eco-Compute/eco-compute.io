@@ -23,8 +23,8 @@ timer:
   # set timer
   year: "2025"
   month: "11"
-  day: "01"
-  hour: "01"
+  day: "13"
+  hour: "09"
 
 ########################## timer #################################
 newsletter:
