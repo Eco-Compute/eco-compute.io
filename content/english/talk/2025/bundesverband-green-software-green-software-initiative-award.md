@@ -1,6 +1,6 @@
 ---
 title: "Bundesverband Green Software - Green Software Initiative Award 🇩🇪"
-date: 2025-11-14T12:00:00+01:00
+date: 2025-11-14T12:05:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Bundesverband Green Software"

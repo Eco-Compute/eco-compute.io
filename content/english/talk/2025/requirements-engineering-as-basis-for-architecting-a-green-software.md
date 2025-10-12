@@ -1,6 +1,6 @@
 ---
 title: "Requirements engineering as basis for architecting a green software 🇬🇧"
-date: 2025-11-14T11:25:00+01:00
+date: 2025-11-14T11:30:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Bjorna Kalaja"
