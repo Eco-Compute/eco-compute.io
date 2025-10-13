@@ -13,17 +13,21 @@ The hotel is close by the conference location with only 10 Minutes by Taxi.
 
 ## How to book
 
-Just use the booking code **ecocompute** when you do your booking - In case you cannot book online anymore give the hotel a call.
+Just email or call the hotel and use the booking code **ecocompute** when you do your booking.
+
+Please use the contact details below.
 
 ## Where to book
 
 [art'otel Berlin Mitte](https://artotelberlinmitte.com/)\
 Wallstrasse 70 - 73, 10179 Berlin\
 📍 [Google Maps](https://maps.app.goo.gl/5L3w8yTyarVbjs4E6)\
-📞 +49 30 400 557 760\
-📧 [mailto:abmconf@artotelsgermany.com](mailto:mailto:abmconf@artotelsgermany.com)
+📞 +49 30 400 557 700\
+📧 [abmres@artotelsgermany.com](mailto:abmres@artotelsgermany.com)
 
 ---
+
+
 
 ## Why we choose the hotel
 
