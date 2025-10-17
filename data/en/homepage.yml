@@ -162,9 +162,8 @@ cfs:
 ########################## speaker ##########################
 speaker:
   enable : true
-  title_outline : "Speakers"
-  title : "ecoCompute Speakers 2025"
-  content : ""
+  title_outline : "Speakers" # do not use dates here, as it will also be rendered on outdated subpages like /speakers/2024/
+
   # speaker content comes from "content/speaker" folder
 
 ######################### organizers ##########################

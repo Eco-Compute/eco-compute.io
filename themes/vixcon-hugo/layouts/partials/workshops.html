@@ -1,3 +1,16 @@
+{{ if eq .Page.Params.outdated true  }}
+    <div class="ui warning message">
+        <h2 class="header">Warning! - Outdated content</h2>
+        <p>You are watching the speakers for a previous year!<br>
+        Please find the most current schedule under: <a href="/schedule/{{ now.Year }}" style="font-weight: bold; text-decoration: underline;">Current schedule</a></p>
+    </div>
+{{ end }}
+
+{{ $workshop_year := .Page.Params.workshop_year }}
+{{ $path_prefix := printf "workshop/%d" $workshop_year }}
+
+{{ .Content }}
+
 <section id="section-workshops" class="section-workshops section">
   <div class="container">
     <div class="row section-heading">
@@ -5,7 +18,7 @@
         <div class="heading">
           <span class="stroke-text">Workshops</span>
           <div class="pl-90">
-            <h2 class="mt-2">Workshops 2025</h2>
+            <h2 class="mt-2">Workshops {{ $workshop_year }}</h2>
           </div>
         </div>
       </div>
@@ -13,8 +26,6 @@
     <hr>
 
     <div class="row">
-      {{ $workshop_year := 2025 }}
-      {{ $path_prefix := printf "workshop/%d" $workshop_year }}
       {{ range (sort (where .Site.RegularPages "Type" "workshop") "Title") }}
         {{ if (strings.HasPrefix .File.Path $path_prefix) }}
             <div class="col-lg-9">
