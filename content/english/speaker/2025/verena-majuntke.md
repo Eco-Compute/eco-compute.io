@@ -1,8 +1,8 @@
 ---
-title: "Verena Majuntke"
+title: "Prof. Dr. Verena Majuntke"
 date: 2025-07-15T10:51:25+06:00
 draft: false
-description: "Verena Majuntke"
+description: "Prof. Dr. Verena Majuntke"
 bg_image : "images/bg/cta-bg.webp"
 image : "images/teams/verena-majuntke.webp"
 company: "HTW Berlin"

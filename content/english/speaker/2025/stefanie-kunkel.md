@@ -1,8 +1,8 @@
 ---
-title: "Stefanie Kunkel"
+title: "Dr. Stefanie Kunkel"
 date: 2025-10-07T12:57:12.699173+00:00
 draft: false
-description: "Stefanie Kunkel"
+description: "Dr. Stefanie Kunkel"
 bg_image : "images/bg/cta-bg.webp"
 image: "images/teams/stefanie-kunkel.webp"
 company: "RIFS | am GFZ Helmholtz-Zentrum Potsdam"

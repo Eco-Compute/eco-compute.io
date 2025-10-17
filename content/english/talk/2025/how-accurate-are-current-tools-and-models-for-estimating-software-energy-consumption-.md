@@ -3,7 +3,7 @@ title: "How accurate are current tools and models for estimating software energy
 date: 2025-11-14T09:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
-speaker_name: "Andreas Brunnert"
+speaker_name: "Prof. Dr. Andreas Brunnert"
 speaker_company: "RETIT GmbH / Hochschule München"
 speaker_image : "images/teams/andreas-brunnert-small.webp"
 speaker_link: "speaker/2025/andreas-brunnert/"

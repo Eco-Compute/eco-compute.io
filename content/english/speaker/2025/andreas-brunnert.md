@@ -1,8 +1,8 @@
 ---
-title: "Andreas Brunnert"
+title: "Prof. Dr. Andreas Brunnert"
 date: 2025-10-07T12:57:12.702980+00:00
 draft: false
-description: "Andreas Brunnert"
+description: "Prof. Dr. Andreas Brunnert"
 bg_image : "images/bg/cta-bg.webp"
 image : "images/teams/andreas-brunnert.webp"
 company: "RETIT GmbH"
