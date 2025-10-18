@@ -12,8 +12,11 @@ The organizers will introduce a Code of Conduct team that will be primarily resp
 
 The team can be reached on info@eco-compute.io and its members are:
 
-- Didi Hoffmann
-- Arne Tarara
+- [Didi Hoffmann](/speaker/2025/geerd-dietger-hoffmann)
+- [Arne Tarara](/speaker/2025/arne-tarara)
+
+During the conference you can also find these people on site and approach them if you feel that you need assistance of any kind.
+The awareness team can be reached by phone via: +49 160 947 930 24 on the days of the conference.
 
 We would like to thank the [DjangoCon Europe 2019 CoC](https://2022.djangocon.eu/conduct/code_of_conduct/) team for the awesome CoC (which we adapted with some minor modifications).
 
