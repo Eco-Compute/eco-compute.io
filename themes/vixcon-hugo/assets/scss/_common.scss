@@ -153,3 +153,25 @@ a {
 .bold {
     font-weight: bold
 }
+
+
+table {
+  border-collapse: collapse; /* ensures borders don’t double up */
+  width: 100%; /* optional, full width */
+  margin: 20px 0; /* spacing above and below */
+  font-family: Arial, sans-serif;
+}
+
+th, td {
+  border: 1px solid #333; /* table cell borders */
+  padding: 12px 15px;      /* spacing inside cells */
+  text-align: left;         /* left-align text */
+}
+
+thead {
+  background-color: #f2f2f2; /* header background */
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafafa; /* striped rows for readability */
+}
