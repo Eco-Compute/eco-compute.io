@@ -1,5 +1,5 @@
 ---
-title: "GreenWeb Showcase WienIT 🇬🇧"
+title: "GreenWeb Showcase WienIT 🇩🇪"
 date: 2025-11-13T14:20:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
