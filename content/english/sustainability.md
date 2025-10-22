@@ -65,7 +65,7 @@ All estimated speaker travel emissions will be **calculated after the event and 
 
 ## Continuous Improvement
 
-Sustainability is not a checkbox — it’s a process. Starting in 2025 after each edition of ecoCompute, we will evaluate our impact and publicly share:
+Starting in 2025 after each edition of ecoCompute, we will evaluate our impact and publicly share:
 
 * A **Sustainability Report** with CO₂ figures  
 * **Lessons learned & new commitments** for future editions  
@@ -79,7 +79,7 @@ Sustainability is not a checkbox — it’s a process. Starting in 2025 after ea
 
 Sustainability is a team effort. Every attendee, partner and speaker contributes.
 
-At ecoCompute, sustainability is a shared mission. Every participant plays a role in reducing the event’s environmental impact — and even small actions add up. Here’s how you can make your conference experience as climate-conscious as possible.
+Every participant plays a role in reducing the event’s environmental impact — and even small actions add up. Here’s how you can make your conference experience as climate-conscious as possible.
 
 👉 <u>[Learn how you can make your experience at ecoCompute conference more sustainable](/sustainability-attendees)</u>
 
