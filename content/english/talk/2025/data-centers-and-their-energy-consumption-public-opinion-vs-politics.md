@@ -4,8 +4,8 @@ date: 2025-11-13T15:50:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Julian Bothe"
-speaker_company: "-"
-speaker_image : "images/teams/image-missing-small.webp"
+speaker_company: "AlgorithmWatch"
+speaker_image : "images/teams/julian-bothe-small.webp"
 speaker_link: "speaker/2025/julian-bothe/"
 talk_room: "Community Track"
 talk_date: "13.11.2025 15:50"
