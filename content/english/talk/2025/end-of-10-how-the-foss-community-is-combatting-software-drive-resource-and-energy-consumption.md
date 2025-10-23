@@ -1,5 +1,5 @@
 ---
-title: "End Of 10”: How the FOSS Community is Combatting Software-Drive Resource and Energy Consumption 🇬🇧"
+title: "End Of 10”: How the FOSS Community is Combatting Software-Driven Resource and Energy Consumption 🇬🇧"
 date: 2025-11-13T14:20:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
