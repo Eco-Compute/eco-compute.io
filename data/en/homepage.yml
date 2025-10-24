@@ -179,10 +179,6 @@ partners:
           link : "https://www.green-coding.io"
           background: "#2b3e50"
 
-        # - logo : "images/clients/RS.webp"
-        #   link : "https://www.rohde-schwarz.com"
-        #   background: "#fff"
-
         - name: "Gesellschaft für Information Logo"
           logo : "images/clients/gi.webp"
           link : "https://gi.de/"
@@ -344,6 +340,10 @@ sponsor:
           logo : "images/clients/forum-csr.webp"
           logo_2x : "images/clients/forum-csr-2x.webp"
           link : "https://www.forum-csr.net/"
+          background: "#fff"
+        - name: "Rohde & Schwarz"
+          logo : "images/clients/RS.webp"
+          link : "https://www.rohde-schwarz.com"
           background: "#fff"
 
 
