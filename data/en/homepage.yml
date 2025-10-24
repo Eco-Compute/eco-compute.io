@@ -345,6 +345,11 @@ sponsor:
           logo_2x : "images/clients/forum-csr-2x.webp"
           link : "https://www.forum-csr.net/"
           background: "#fff"
+        - name: "Resilio"
+          logo : "images/clients/resilio.webp"
+          link : "https://www.resilio.tech/"
+          background: "#fff"
+
 
 
   # call to action in sponsor
