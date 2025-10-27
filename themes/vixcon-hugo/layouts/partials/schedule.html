@@ -14,6 +14,7 @@
 
 
 {{ $page := . }}
+{{ $isDebug := false}}
 
 {{/* 1. Collect all schedule items and filter */}}
 {{ $allEvents := where site.RegularPages "Type" "in" (slice "talk" "break") }}
@@ -79,6 +80,20 @@
       </div>
     </div>
 
+    {{ if $isDebug }}
+    <div class="row justify-content-center my-4">
+      <div class="col-md-6">
+        <div class="input-group">
+          <input type="text" id="debug-time-input" class="form-control" placeholder="YYYY-MM-DD HH:mm">
+          <div class="input-group-append">
+            <button class="btn btn-primary" type="button" id="debug-time-button">Update</button>
+          </div>
+        </div>
+        <small class="form-text text-muted">Enter a date and time, then click Update to test the schedule highlighting.</small>
+      </div>
+    </div>
+    {{ end }}
+
     {{ if gt (len $days) 1 }}
     <div class="row justify-content-center my-4">
     {{ range $day := $days }}
@@ -105,11 +120,17 @@
       </div>
 
       {{/* 5. Render rows for each time slot */}}
-      {{ range $t := $times }}
+      {{ range $i, $t := $times }}
+        {{ $nextIndex := add $i 1 }}
+        {{ $endTime := "" }}
+        {{ if lt $nextIndex (len $times) }}
+          {{ $endTime = index $times $nextIndex }}
+        {{ end }}
+
         {{ $breakItem := slice }}
         {{ range $dayBreaks }}{{ if eq (.Date.Format "15:04") $t }}{{ $breakItem = $breakItem | append . }}{{ end }}{{ end }}
 
-        <div class="row align-items-stretch mb-3 py-3 border-bottom">
+        <div class="row align-items-stretch mb-3 py-3 border-bottom schedule-row" data-date="{{ $day.Key }}" data-start-time="{{ $t }}" data-end-time="{{ $endTime }}">
           <div class="col-12 col-lg-1 mb-2 mb-lg-0"><h5 class="time text-color mb-0">{{ $t }}</h5></div>
 
           {{ if gt (len $breakItem) 0 }}
@@ -182,3 +203,67 @@
     {{ end }}
   </div>
 </section>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const debugInput = document.getElementById('debug-time-input');
+  const debugButton = document.getElementById('debug-time-button');
+
+  function highlightSchedule() {
+    // Clear previous highlights
+    document.querySelectorAll('.schedule-row').forEach(row => {
+      row.style.backgroundColor = '';
+    });
+
+    let now;
+    if (debugInput && debugInput.value) {
+      const dateTimeString = debugInput.value.replace(' ', 'T');
+      now = new Date(dateTimeString);
+    } else {
+      now = new Date();
+    }
+
+    if (isNaN(now)) {
+      return null;
+    }
+
+    let highlightedRow = null;
+    const rows = document.querySelectorAll('.schedule-row');
+    rows.forEach(row => {
+      const date = row.dataset.date;
+      const startTimeStr = row.dataset.startTime;
+      const endTimeStr = row.dataset.endTime;
+
+      if (date && startTimeStr && endTimeStr) {
+        const startDateTime = new Date(`${date}T${startTimeStr}`);
+        const endDateTime = new Date(`${date}T${endTimeStr}`);
+
+        if (now >= startDateTime && now < endDateTime) {
+          row.style.backgroundColor = '#f0fff0';
+          highlightedRow = row;
+        }
+      }
+    });
+    return highlightedRow;
+  }
+
+  // Initial highlight and scroll
+  const initialHighlightedRow = highlightSchedule();
+  if (initialHighlightedRow && !(debugInput && debugInput.value)) {
+    initialHighlightedRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+
+  // Event listener for debug button
+  if (debugButton) {
+    debugButton.addEventListener('click', () => {
+      const highlightedRow = highlightSchedule();
+      if (highlightedRow) {
+        highlightedRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    });
+  }
+
+  // Set interval to update highlight every 30 seconds (without scrolling)
+  setInterval(highlightSchedule, 30000);
+});
+</script>
