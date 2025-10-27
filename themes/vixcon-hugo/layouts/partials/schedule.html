@@ -4,20 +4,64 @@
   - Supports `type: "break"` for full-width items like coffee breaks.
 */}}
 
+{{ if eq .Page.Params.outdated true  }}
+    <div class="ui warning message">
+        <h2 class="header">Warning! - Outdated content</h2>
+        <p>You are watching the speakers for a previous year!<br>
+        Please find the most current schedule under: <a href="/schedule/{{ now.Year }}" style="font-weight: bold; text-decoration: underline;">Current schedule</a></p>
+    </div>
+{{ end }}
+
+
 {{ $page := . }}
 
 {{/* 1. Collect all schedule items and filter */}}
 {{ $allEvents := where site.RegularPages "Type" "in" (slice "talk" "break") }}
 {{ $allEvents = where $allEvents "Draft" "ne" true }}
 
-{{ $scheduleYearParam := .Params.schedule_year }}
-{{ if $scheduleYearParam }}
-  {{ $yearInt := int (strings.TrimPrefix "year_" $scheduleYearParam) }}
+{{ $.Scratch.Set "yearInt" 0 }}
+{{ with .Params.schedule_year }}
+  {{ $.Scratch.Set "yearInt" (int (strings.TrimPrefix "year_" .)) }}
+{{ end }}
+{{ $yearInt := $.Scratch.Get "yearInt" }}
+
+{{ if ne $yearInt 0 }}
   {{ $allEvents = where $allEvents "Date.Year" $yearInt }}
 {{ end }}
 
-{{/* 3. Define track display order and layout */}}
-{{ $displayTracks := slice "Software & Hardware (So-Ha)" "Data Centers / Infrastructure / Management (DIM)" "Community Track" }}
+{{/* 3. Dynamically discover and sort tracks from content */}}
+{{ $talksForTracks := where $allEvents "Type" "talk" }}
+{{ $trackNames := slice }}
+{{ range $talksForTracks }}
+  {{ with .Params.talk_room }}
+    {{ $trackNames = $trackNames | append . }}
+  {{ end }}
+{{ end }}
+{{ $discoveredTracks := $trackNames | uniq }}
+
+{{ $trackOrders := dict
+  "2024" (slice "Track 1" "Track 2")
+  "2025" (slice "Software & Hardware (So-Ha)" "Data Centers / Infrastructure / Management (DIM)" "Community Track") 
+}}
+{{ $trackOrder := index $trackOrders (string $yearInt) }}
+
+{{ $displayTracks := slice }}
+{{ if $trackOrder }}
+  {{ range $track := $trackOrder }}
+    {{ if in $discoveredTracks $track }}
+      {{ $displayTracks = $displayTracks | append $track }}
+    {{ end }}
+  {{ end }}
+  {{/* Add any tracks not in the predefined order to the end, sorted alphabetically */}}
+  {{ $sortedDiscovered := $discoveredTracks | sort }}
+  {{ range $track := $sortedDiscovered }}
+      {{ if not (in $displayTracks $track) }}
+          {{ $displayTracks = $displayTracks | append $track }}
+      {{ end }}
+  {{ end }}
+{{ else }}
+  {{ $displayTracks = $discoveredTracks | sort }}
+{{ end }}
 
 <section id="section-schedule" class="section-schedule section">
   <div class="container">
