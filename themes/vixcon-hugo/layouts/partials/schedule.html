@@ -74,7 +74,7 @@
           <span class="stroke-text">Schedule</span>
           <div class="pl-90">
             <h2 class="mt-2">{{ .Title }}</h2>
-            <p>Three-track program. Click a talk for details.</p>
+            <p>Our program. Click a talk for details.</p>
           </div>
         </div>
       </div>
@@ -96,6 +96,7 @@
 
     {{ if gt (len $days) 1 }}
     <div class="row justify-content-center my-4">
+        <button id="jump-to-current-talk" class="btn btn-secondary mx-">Jump to Current Talks</button>
     {{ range $day := $days }}
         <a href="#schedule-{{ $day.Key }}" class="btn btn-secondary mx-2">{{ (time $day.Key).Format "Monday, 02 Jan" }}</a>
     {{ end }}
@@ -245,6 +246,17 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     });
     return highlightedRow;
+  }
+
+  // Event listener for jump to current talk button
+  const jumpButton = document.getElementById('jump-to-current-talk');
+  if(jumpButton) {
+    jumpButton.addEventListener('click', function() {
+      const highlightedRow = highlightSchedule();
+      if (highlightedRow) {
+        highlightedRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    });
   }
 
   // Initial highlight and scroll
