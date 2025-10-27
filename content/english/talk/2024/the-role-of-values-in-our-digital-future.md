@@ -1,6 +1,6 @@
 ---
 title: "The Role of Values in Our Digital Future - What's important to us and how do we embed values in our digital products? 🇬🇧"
-date: 2024-01-25T00:00:00+01:00
+date: 2024-04-25T11:30:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Max Schulze"

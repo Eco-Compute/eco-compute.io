@@ -1,6 +1,6 @@
 ---
 title: "Energieeffizienz verschiedener Backend-Architekturstile: Monolith vs. Microservices 🇩🇪"
-date: 2024-01-25T00:00:00+01:00
+date: 2024-04-25T15:45:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "David Kopp"

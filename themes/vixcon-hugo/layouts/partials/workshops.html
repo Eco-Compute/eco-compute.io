@@ -11,6 +11,14 @@
 
 {{ .Content }}
 
+{{ $workshops_to_show := slice }}
+{{ range (where .Site.RegularPages "Type" "workshop") }}
+    {{ if (strings.HasPrefix .File.Path $path_prefix) }}
+        {{ $workshops_to_show = $workshops_to_show | append . }}
+    {{ end }}
+{{ end }}
+
+{{ if gt (len $workshops_to_show) 0 }}
 <section id="section-workshops" class="section-workshops section">
   <div class="container">
     <div class="row section-heading">
@@ -26,23 +34,22 @@
     <hr>
 
     <div class="row">
-      {{ range (sort (where .Site.RegularPages "Type" "workshop") "Title") }}
-        {{ if (strings.HasPrefix .File.Path $path_prefix) }}
-            <div class="col-lg-9">
-                <div class="speaker-info">
-                    <h4 class="mb-0 mt-3"><a href="{{ .Permalink }}"><i class="{{ .Params.Icon }}"></i> {{ .Title }}</a></h4>
-                    <p>Held by {{ .Params.Workshop_host }}<br>{{ .Description }}</p>
-                    <p><u><a href="{{ .Permalink }}">Read full details and description</a></u></p>
-                    <hr>
-                </div>
+      {{ range (sort $workshops_to_show "Title") }}
+        <div class="col-lg-9">
+            <div class="speaker-info">
+                <h4 class="mb-0 mt-3"><a href="{{ .Permalink }}"><i class="{{ .Params.Icon }}"></i> {{ .Title }}</a></h4>
+                <p>Held by {{ .Params.Workshop_host }}<br>{{ .Description }}</p>
+                <p><u><a href="{{ .Permalink }}">Read full details and description</a></u></p>
+                <hr>
             </div>
-            <div class="col-lg-3 d-none d-lg-block">
-                <div class="speaker-image">
-                    <img src="{{ .Params.Workshop_host_image | absURL }}" alt="{{ .Title }}" class="img-fluid rounded-circle" style="width: 100px;" loading="lazy">
-                </div>
+        </div>
+        <div class="col-lg-3 d-none d-lg-block">
+            <div class="speaker-image">
+                <img src="{{ .Params.Workshop_host_image | absURL }}" alt="{{ .Title }}" class="img-fluid rounded-circle" style="width: 100px;" loading="lazy">
             </div>
-        {{ end }}
+        </div>
       {{ end }}
     </div>
   </div>
 </section>
+{{ end }}

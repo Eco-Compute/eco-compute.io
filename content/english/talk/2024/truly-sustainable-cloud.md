@@ -1,6 +1,6 @@
 ---
 title: "How to build truly sustainable cloud, the easy way 🇬🇧"
-date: 2024-01-25T00:00:00+01:00
+date: 2024-04-26T09:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "David Kohnstamm"

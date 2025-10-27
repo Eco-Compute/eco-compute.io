@@ -1,6 +1,6 @@
 ---
 title: "Linux Power Management Analysis for Embedded Systems 🇬🇧"
-date: 2024-01-20T13:51:25+01:00
+date: 2024-04-25T09:30:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Hagen Pfeifer"
