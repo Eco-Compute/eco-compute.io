@@ -63,6 +63,8 @@
   {{ $displayTracks = $discoveredTracks | sort }}
 {{ end }}
 
+{{ $days := sort ($allEvents.GroupByDate "2006-01-02") "Key" }}
+
 <section id="section-schedule" class="section-schedule section">
   <div class="container">
     <div class="row section-heading">
@@ -77,8 +79,16 @@
       </div>
     </div>
 
+    {{ if gt (len $days) 1 }}
+    <div class="row justify-content-center my-4">
+    {{ range $day := $days }}
+        <a href="#schedule-{{ $day.Key }}" class="btn btn-secondary mx-2">{{ (time $day.Key).Format "Monday, 02 Jan" }}</a>
+    {{ end }}
+    </div>
+    {{ end }}
+
     {{/* 4. Group events by day */}}
-    {{ range $day := sort ($allEvents.GroupByDate "2006-01-02") "Key" }}
+    {{ range $day := $days }}
       {{ $dayEvents := $day.Pages }}
       {{ $dayTalks := where $dayEvents "Type" "talk" }}
       {{ $dayBreaks := where $dayEvents "Type" "break" }}
@@ -87,7 +97,7 @@
       {{ range $dayEvents }}{{ $times = $times | append (.Date.Format "15:04") }}{{ end }}
       {{ $times = $times | uniq | sort }}
 
-      <div class="row mt-5"><div class="col-12"><h3 class="mb-4">{{ (time $day.Key).Format "Monday, 02 January 2006" }}</h3></div></div>
+      <div class="row mt-5" id="schedule-{{ $day.Key }}"><div class="col-12"><h3 class="mb-4">{{ (time $day.Key).Format "Monday, 02 January 2006" }}</h3></div></div>
 
       <div class="row align-items-end mb-4 d-none d-lg-flex">
         <div class="col-lg-1"><div class="text-uppercase small font-weight-bold text-muted">Time</div></div>
