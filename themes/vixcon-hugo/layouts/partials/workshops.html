@@ -7,7 +7,7 @@
 {{ end }}
 
 {{ $workshop_year := .Page.Params.workshop_year }}
-{{ $path_prefix := printf "workshop/%d" $workshop_year }}
+{{ $path_prefix := printf "workshop/%s" $workshop_year }}
 
 {{ .Content }}
 
