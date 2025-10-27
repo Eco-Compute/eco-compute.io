@@ -327,6 +327,11 @@ sponsor:
           logo_2x : "images/clients/neuland-2x.webp"
           link : "https://www.neuland-bfi.de/"
           background: "#fff"
+        - name: "mittwald - Hosting neu gedacht"
+          logo : "images/clients/mittwald.webp"
+          logo_2x : "images/clients/mittwald-2x.webp"
+          link : "https://www.mittwald.de/"
+          background: "#fff"
 
 
     - title : "Bronze Sponsors 🥉"
