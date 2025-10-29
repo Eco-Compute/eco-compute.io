@@ -6,7 +6,7 @@ description: "Chris Adams"
 bg_image : "images/bg/cta-bg.webp"
 image : "images/teams/chris-adams.webp"
 company: "Green Web Foundation"
-designation : "Executive Director"
+designation : "Director of Tech & Policy"
 type : "speaker"
 outdated: false
 ---
