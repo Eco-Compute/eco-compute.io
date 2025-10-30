@@ -1,5 +1,5 @@
 ---
-title: "Blauer Engel für Software - Award Ceremony - by Umweltbundesamt 🇬🇧"
+title: "Blauer Engel für Software - Award Ceremony - by Umweltbundesamt 🇬🇧/🇩🇪"
 date: 2025-11-13T12:20:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
@@ -16,6 +16,6 @@ outdated: false
 
 Join us in celebrating the new holders of the Blue Angel for Software label (DE-UZ 215).
 
-Anna Zagorski from the German Environment Agency (Umweltbundesamt) will officially present the certificates, and the awardees will showcase their certified software solutions.
+Anna Zagorski from the German Environment Agency (Umweltbundesamt) will officially present the certificates, and the awardees will showcase their certified software solutions. This part will be held in English 🇬🇧.
 
-This is your chance to meet pioneering software companies that are driving sustainable software development and achieving certification under the Blue Angel’s resource efficiency criteria.
+Afterwards it is your chance to meet pioneering software companies that are driving sustainable software development and achieving certification under the Blue Angel’s resource efficiency criteria. The individual presentations by the awardees will be selectively in English 🇬🇧 / German 🇩🇪.
