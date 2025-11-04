@@ -3,7 +3,7 @@ title: "Scaling the ability to experiment with digital product eco-design ğŸ‡¬ğŸ
 date: 2025-11-14T10:25:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
-speaker_name: "Amael Parreaux-E"
+speaker_name: "Amael Parreaux-Ey"
 speaker_company: "Resilio"
 speaker_image : "images/teams/amael-parreaux-ey-small.webp"
 speaker_link: "speaker/2025/amael-parreaux-ey/"
