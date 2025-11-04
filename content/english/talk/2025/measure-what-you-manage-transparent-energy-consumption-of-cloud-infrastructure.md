@@ -10,18 +10,11 @@ speaker_link: "speaker/2025/josefine-kipke/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "14.11.2025 09:55"
 type : "talk"
-duration: "50 Minutes"
+duration: "25 Minutes"
 outdated: false
 ---
 
-The ECO:DIGIT research project develops open-source methods for the holistic measurement of the ecological footprint  of digital systems. This talk presents the eco-digit balancer, a sustainability runtime monitoring system for OpenStack based SCS compliant cloud infrastructure. It links software workloads with actual source usage and provides both lifecycle and runtime reporting for cloud admins and tenants. The monitoring solution integrates bills of material from asset management tools, hardware sensors, and exporters. Technical challenges such as heterogenous hardware, attribution of consumption to tenants and workloads, and proportional allocation to control plane components will be addressed. Participants will see a highly technical talk with a live demo, our architecture blueprint, and learn how to apply these methods to make their own infrastructure more transparent.
+The ECO:DIGIT research project is developing comprehensive methods for measuring the ecological footprint of digital systems. As part of this work, we have created Leaf, an open-source solution that reports environmental impacts for providers and tenants in Sovereign Cloud Stack (SCS) compliant clouds.
+In this talk, we will present how Leaf combines runtime metrics and data centre inventory data to calculate operational emissions and embedded emissions from the manufacturing phase, enabling holistic emissions reporting across our IaaS clouds.
 
-The ECO:DIGIT research project is developing methods for measuring the ecological footprint of digital systems in a holistic way. The aim is to correlate software workload with actual resource consumption, and quantify the resulting impact.  As part of this work, we have created a sustainability runtime monitoring solution for Sovereign Cloud Stack (SCS)-compliant Infrastructure as a Service (IaaS) clouds.
-
-In this talk, we will present ECO:DIGIT Balancer, our open-source sustainability monitoring solution for OpenStack-based IaaS environments. We will also present our technology-stack agnostic architecture blueprint, which can be applied across distributed cloud environments.
-
-We will demonstrate its implementation, including load tests and resulting reports, to illustrate the blueprint's practical application. The blueprint is intended as a reusable model for sustainability monitoring, providing a clear separation between metric definition and collection. This enables operators to select the most suitable sensors, exporters, or database systems for their environment.
-
-Our monitoring solution combines data from hardware sensors and asset management sources, such as NetBox and Snipe-IT, with runtime exporters to generate consistent power and energy metrics. Device bills of material, created using asset management tools, are used to integrate life-cycle data for the manufacturing and disposal phases. We will address technical challenges such as heterogeneous hardware, attributing energy and resource consumption to tenant workloads and proportionally allocating control plane overhead in detail. Next to this we will focus on reporting strategies.
-
-This will be a highly technical talk where participants can expect to gain concrete insights into the current architecture and implementation status. Learn from our experience and find out how you can follow our lead to make infrastructure more transparent from an environmental perspective.
+Participants will gain insight into our current architecture and model, which illustrate ways to improve transparency of emissions reporting in cloud infrastructure.

@@ -1,6 +1,6 @@
 ---
 title: "Place-conscious-poetic: Grounding the Cloud 🇬🇧"
-date: 2025-11-14T09:55:00+01:00
+date: 2025-11-13T17:15:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "David Mahoney"
@@ -8,9 +8,9 @@ speaker_company: "University of Edinburgh"
 speaker_image : "images/teams/david-mahoney-small.webp"
 speaker_link: "speaker/2025/david-mahoney/"
 talk_room: "Community Track"
-talk_date: "14.11.2025 09:55"
+talk_date: "13.11.2025 17:15"
 type : "talk"
-duration: "40 Minutes"
+duration: "50 Minutes"
 outdated: false
 ---
 

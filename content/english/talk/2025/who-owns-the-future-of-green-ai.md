@@ -1,6 +1,6 @@
 ---
 title: "Who Owns The Future of Green AI? 🇬🇧"
-date: 2025-11-13T17:15:00+01:00
+date: 2025-11-14T11:00:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Jo Walton"
@@ -8,7 +8,7 @@ speaker_company: "Digital Humanities Lab / University of Sussex"
 speaker_image : "images/teams/jo-walton-small.webp"
 speaker_link: "speaker/2025/jo-walton/"
 talk_room: "Community Track"
-talk_date: "13.11.2025 17:15"
+talk_date: "14.11.2025 11:00"
 type : "talk"
 duration: "25 Minutes"
 outdated: false
