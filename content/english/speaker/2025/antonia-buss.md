@@ -11,4 +11,6 @@ type : "speaker"
 outdated: false
 ---
 
-TBD
+Antonia Buß is a developer at adesso SE with a background in business informatics and experience in the healthcare sector.
+
+In the research project ECO:DIGIT, she works as a Scrum Master and developer on measurement methods for analyzing the resource consumption of software. She is committed to advancing the project’s goals and raising awareness of sustainable IT.
