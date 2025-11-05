@@ -1,6 +1,6 @@
 ---
 title: "Linux Power Management"
-date: 2025-11-13T17:15:00+01:00
+date: 2025-11-13T16:20:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Marco Liess"
@@ -8,7 +8,7 @@ speaker_company: "TU Munich"
 speaker_image : "images/teams/marco-liess-small.webp"
 speaker_link: "speakers/2025/marco-liess/"
 talk_room: "Software & Hardware (So-Ha)"
-talk_date: "13.11.2025 17:15"
+talk_date: "13.11.2025 16:20"
 type : "talk"
 duration: "50 Minutes"
 outdated: false
