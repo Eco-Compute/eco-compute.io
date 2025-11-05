@@ -1,5 +1,5 @@
 ---
-title: "Explainable AI (XAI) and it's sustainability impact 🇬🇧"
+title: "XAI: Fairness, Robustness, and Sustainability 🇬🇧"
 date: 2025-11-14T09:55:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
