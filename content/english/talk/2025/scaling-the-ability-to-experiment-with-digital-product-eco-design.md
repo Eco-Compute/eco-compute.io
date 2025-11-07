@@ -14,7 +14,7 @@ duration: "25 Minutes"
 outdated: false
 ---
 
-To scale ecological design practices across large teams, Airbus offers a self-guided experiment framework. 
+To scale eco-design practices across large teams, we will see how a large aircraft industry leader offers a self-guided experiment framework.
 
 Product owners evaluate their products with built-in LCA tools, using metrics like CPU and storage. Users then experiment with their own scenarios to lower environmental footprints, driving community-driven adoption through hands-on discovery and peer learning.
 
