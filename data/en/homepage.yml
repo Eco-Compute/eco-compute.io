@@ -1,6 +1,7 @@
 ############################# banner ################################
 banner:
   enable : true
+  sold_out: true
   title : "<span class='bold'>eco</span><span class='slim'>Compute</span> conference"
   date_time : "13 & 14 November 2025"
   location : "[📍bUm - Berlin, Germany](/#venue)"
@@ -58,7 +59,7 @@ cta:
   image : "images/banner/rev-slider-09.webp"
   button:
     enable : true
-    label : "get your ticket"
+    label : "Join the Waiting List"
     link : "/#pricing"
 
 ############################# Feature ###########################
