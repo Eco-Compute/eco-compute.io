@@ -11,6 +11,7 @@
             <div class="col-lg-7 mr-auto">
                 <div class="banner-content">
                     <h1 class="mt-3 mb-5">{{ .title | markdownify }}</h1>
+                    <img style="padding: 0; margin-left: 150px; margin-top: -40px;" width=300 src="/images/sold-out.webp">
                     <h2>{{ .date_time }}</h2>
                     <h3 class="primary-color">{{ .location | markdownify }}</h2>
                     </div>
@@ -32,17 +33,7 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-12">
-                <div class="cta-content" style="
-    position: relative;
-    padding: 0;
-    text-align: right;
-    background-image: url('http://localhost:1313/images/soldout.webp');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 250px;
-    background-position: left;
-  ">
+                <div class="cta-content" >
                     <span class="lead">{{ .subtitle | markdownify }}</span>
                     <h2 class="mt-3 mb-4 text-md title">{{ .title | markdownify }}</h2>
                     {{ if .button.enable }}
