@@ -1,6 +1,6 @@
 ---
 title: "Built to Last: The Art of Sustainable Software Design 🇬🇧"
-date: 2025-11-14T11:00:00+01:00
+date: 2025-11-14T11:05:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Wilco Burggraaf"
@@ -8,7 +8,7 @@ speaker_company: "Hightech Innovators"
 speaker_image : "images/teams/wilco-burggraaf-small.webp"
 speaker_link: "speaker/2025/wilco-burggraaf/"
 talk_room: "Software & Hardware (So-Ha)"
-talk_date: "14.11.2025 11:00"
+talk_date: "14.11.2025 11:05"
 type : "talk"
 duration: "25 Minutes"
 outdated: false

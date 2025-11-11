@@ -1,6 +1,6 @@
 ---
 title: "Green Configuration: Reducing Software Energy Consumption Through Configuration 🇬🇧"
-date: 2025-11-13T17:15:00+01:00
+date: 2025-11-13T17:10:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Max Weber"
@@ -8,7 +8,7 @@ speaker_company: "Leipzig University"
 speaker_image : "images/teams/max-weber-small.webp"
 speaker_link: "speaker/2025/max-weber/"
 talk_room: "Software & Hardware (So-Ha)"
-talk_date: "13.11.2025 17:15"
+talk_date: "13.11.2025 17:10"
 type : "talk"
 duration: "50 Minutes"
 outdated: false

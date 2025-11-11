@@ -1,6 +1,6 @@
 ---
 title: "A look inside the engine room: Measuring sustainability in software systems 🇬🇧"
-date: 2025-11-14T10:25:00+01:00
+date: 2025-11-14T11:35:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Antonia Buß"
@@ -8,7 +8,7 @@ speaker_company: "Adesso SE"
 speaker_image : "images/teams/antonia-buss-small.webp"
 speaker_link: "speaker/2025/antonia-buss/"
 talk_room: "Software & Hardware (So-Ha)"
-talk_date: "14.11.2025 10:25"
+talk_date: "14.11.2025 11:35"
 type : "talk"
 duration: "25 Minutes"
 outdated: false

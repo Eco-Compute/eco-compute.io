@@ -1,6 +1,6 @@
 ---
 title: "Sustainable hosting & data center insights: experiences & challenges of a web hoster 🇬🇧🇩🇪"
-date: 2025-11-13T15:50:00+01:00
+date: 2025-11-13T15:45:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Marvin Hötger"
@@ -12,7 +12,7 @@ speaker_2_company: "Mittwald"
 speaker_2_image : "images/teams/olaf-quade-small.webp"
 speaker_2_link: "speaker/2025/olaf-quade/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
-talk_date: "13.11.2025 15:50"
+talk_date: "13.11.2025 15:45"
 type : "talk"
 duration: "25 Minutes"
 outdated: false

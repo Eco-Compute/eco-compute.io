@@ -1,6 +1,6 @@
 ---
 title: "Understanding Data Centre IT efficiency - The Hidden Power Source 🇬🇧"
-date: 2025-11-13T16:20:00+01:00
+date: 2025-11-13T16:15:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Richard Kenny"
@@ -8,7 +8,7 @@ speaker_company: "Interact DC"
 speaker_image : "images/teams/rich-kenny-small.webp"
 speaker_link: "speaker/2025/rich-kenny/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
-talk_date: "13.11.2025 16:20"
+talk_date: "13.11.2025 16:15"
 type : "talk"
 duration: "50 Minutes"
 outdated: false

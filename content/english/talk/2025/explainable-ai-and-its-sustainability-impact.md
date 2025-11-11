@@ -1,6 +1,6 @@
 ---
 title: "XAI: Fairness, Robustness, and Sustainability 🇬🇧"
-date: 2025-11-14T09:55:00+01:00
+date: 2025-11-14T10:25:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Prof. Dr. Anne Schwerk"
@@ -8,7 +8,7 @@ speaker_company: "IU International University of Applied Sciences / Accenture"
 speaker_image : "images/teams/anne-schwerk-small.webp"
 speaker_link: "speaker/2025/anne-schwerk/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
-talk_date: "14.11.2025 09:55"
+talk_date: "14.11.2025 10:25"
 type : "talk"
 duration: "25 Minutes"
 outdated: false

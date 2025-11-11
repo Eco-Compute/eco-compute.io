@@ -1,6 +1,6 @@
 ---
 title: "Beware of green AI – or what Big Tech likes to make of it"
-date: 2025-11-13T16:20:00+01:00
+date: 2025-11-13T16:15:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Dr. Anne Mollen"
@@ -8,7 +8,7 @@ speaker_company: "University of Münster"
 speaker_image : "images/teams/anne-mollen-small.webp"
 speaker_link: "speaker/2025/anne-mollen/"
 talk_room: "Community Track"
-talk_date: "13.11.2025 16:20"
+talk_date: "13.11.2025 16:15"
 type : "talk"
 duration: "50 Minutes"
 outdated: false

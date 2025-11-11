@@ -1,6 +1,6 @@
 ---
 title: "One year of the CO2-challenge – insights and lessons learned 🇬🇧"
-date: 2025-11-14T11:00:00+01:00
+date: 2025-11-14T11:05:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Aydin Mir Mohammadi"
@@ -8,7 +8,7 @@ speaker_company: "Bluehands"
 speaker_image : "images/teams/aydin-mir-mohammadi-small.webp"
 speaker_link: "speaker/2025/aydin-mir-mohammadi/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
-talk_date: "14.11.2025 11:00"
+talk_date: "14.11.2025 11:05"
 type : "talk"
 duration: "25 Minutes"
 outdated: false

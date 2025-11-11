@@ -1,6 +1,6 @@
 ---
 title: "Datacenter Degrowth and Decentralization as a Chance for Europe 🇬🇧"
-date: 2025-11-14T11:30:00+01:00
+date: 2025-11-14T11:35:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Thomas Fricke"
@@ -8,7 +8,7 @@ speaker_company: "Freelance Cloud Security Architect"
 speaker_image : "images/teams/thomas-fricke-small.webp"
 speaker_link: "speaker/2025/thomas-fricke/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
-talk_date: "14.11.2025 11:30"
+talk_date: "14.11.2025 11:35"
 type : "talk"
 duration: "30 Minutes"
 outdated: false

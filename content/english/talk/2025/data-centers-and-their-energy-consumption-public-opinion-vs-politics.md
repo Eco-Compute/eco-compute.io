@@ -1,6 +1,6 @@
 ---
 title: "Data centers and their energy consumption: public opinion vs. politics 🇬🇧"
-date: 2025-11-13T15:50:00+01:00
+date: 2025-11-13T15:45:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Julian Bothe"
@@ -8,7 +8,7 @@ speaker_company: "AlgorithmWatch"
 speaker_image : "images/teams/julian-bothe-small.webp"
 speaker_link: "speaker/2025/julian-bothe/"
 talk_room: "Community Track"
-talk_date: "13.11.2025 15:50"
+talk_date: "13.11.2025 15:45"
 type : "talk"
 duration: "25 Minutes"
 outdated: false

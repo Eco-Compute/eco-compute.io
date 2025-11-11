@@ -1,6 +1,6 @@
 ---
 title: "Measure what you manage: Transparent Energy consumption of cloud infrastructure 🇬🇧"
-date: 2025-11-14T09:55:00+01:00
+date: 2025-11-14T10:25:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Josefine Kipke"
@@ -8,7 +8,7 @@ speaker_company: "Open Source Business Alliance"
 speaker_image : "images/teams/josefine-kipke-small.webp"
 speaker_link: "speaker/2025/josefine-kipke/"
 talk_room: "Software & Hardware (So-Ha)"
-talk_date: "14.11.2025 09:55"
+talk_date: "14.11.2025 10:25"
 type : "talk"
 duration: "25 Minutes"
 outdated: false

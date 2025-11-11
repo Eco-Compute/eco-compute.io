@@ -1,6 +1,6 @@
 ---
 title: "Scaling the ability to experiment with digital product eco-design 🇬🇧"
-date: 2025-11-14T10:25:00+01:00
+date: 2025-11-14T09:55:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Amael Parreaux-Ey"
@@ -8,7 +8,7 @@ speaker_company: "Resilio"
 speaker_image : "images/teams/amael-parreaux-ey-small.webp"
 speaker_link: "speaker/2025/amael-parreaux-ey/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
-talk_date: "14.11.2025 10:25"
+talk_date: "14.11.2025 09:55"
 type : "talk"
 duration: "25 Minutes"
 outdated: false

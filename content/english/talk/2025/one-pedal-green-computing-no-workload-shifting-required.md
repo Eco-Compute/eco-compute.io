@@ -1,6 +1,6 @@
 ---
 title: "One-pedal green computing: no (workload) shifting required 🇬🇧"
-date: 2025-11-14T11:30:00+01:00
+date: 2025-11-13T14:50:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Dr. Oleksiy Kozlov"
@@ -8,7 +8,7 @@ speaker_company: "HITS gGmbH"
 speaker_image : "images/teams/oleksiy-kozlov-small.webp"
 speaker_link: "speaker/2025/oleksiy-kozlov/"
 talk_room: "Software & Hardware (So-Ha)"
-talk_date: "14.11.2025 11:30"
+talk_date: "13.11.2025 14:50"
 type : "talk"
 duration: "25 Minutes"
 outdated: false

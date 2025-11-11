@@ -1,6 +1,6 @@
 ---
 title: "Making spot instances work for sustainability 🇬🇧"
-date: 2025-11-13T17:15:00+01:00
+date: 2025-11-13T17:10:00+01:00
 draft: false
 bg_image : "images/bg/cta-bg.webp"
 speaker_name: "Anita  Schüttler"
@@ -8,7 +8,7 @@ speaker_company: "Neuland - Büro für Informatik"
 speaker_image : "images/teams/anita-schuettler-small.webp"
 speaker_link: "speaker/2025/anita-schuettler/"
 talk_room: "Data Centers / Infrastructure / Management (DIM)"
-talk_date: "13.11.2025 17:15"
+talk_date: "13.11.2025 17:10"
 type : "talk"
 duration: "50 Minutes"
 outdated: false
