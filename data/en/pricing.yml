@@ -29,9 +29,9 @@ pricing:
         link : "#"
 
     # pricing table loop
-    - title : "Regular"
+    - title : "Waiting List"
       style : "1"
-      price : "360 EUR"
+      price : "Sold Out"
       icon : "tf-ion-play"
       bg_image : "images/bg/page-header.webp"
       services:
@@ -41,7 +41,7 @@ pricing:
         - "Conference Dinner 🍝 (limited addon)"
         - "See our <a href='/grants'><u>grants page</u></a> for reduced price options<br><br>"
       button:
-        label : "Buy Ticket"
+        label : "Join the Waiting List"
         # Note: This should NOT be a tracking link as it will overwrite all
         # campaigns that we make that use tracking links with our website landing page as target
         # as last cookie counts
