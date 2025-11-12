@@ -14,4 +14,6 @@ duration: "25 Minutes"
 outdated: false
 ---
 
-TBA
+ For Nextcloud, full transparency – both in data handling and sustainability – is a guiding principle. This year, the company became the first cloud software provider to receive the Blauer Engel certification for environmentally friendly digital infrastructure.
+
+ In his talk, Frank Karlitschek explains what this recognition means for an open source company, provides insights into the comprehensive sustainability analyses behind the certification, and discusses how transparent, responsible technology can help reduce the environmental footprint of IT.
