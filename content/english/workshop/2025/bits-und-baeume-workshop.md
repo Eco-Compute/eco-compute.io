@@ -3,6 +3,7 @@ title: "Bits & Bäume Community Workshop / Meetup"
 date: 2025-08-25T10:51:25+06:00
 draft: false
 description: "Bits & Bäume Community Workshop / Meetup"
+room: "Community Space"
 bg_image : "images/bg/cta-bg.webp"
 type : "workshop"
 icon: "tf-tools-2"
