@@ -16,38 +16,6 @@
 
     {{ .Content }}
 
+    {{ partial "workshops.html" . }}
 
-    <section id="workshops" class="section-workshops section">
-      <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-                <h2 class="mb-4 text-lg title">Workshops {{ $workshop_year }}</h2>
-                <p>One core part of ecoCompute is hands-on workshops by industry leaders in their field. This year we bring you a selection from deep-tech workshops on the hardware side with conversational workshops to explore how to bring sustainability into their organziation along with community building and problem solving.</p>
-            </div>
-          </div>
-          <hr>
-          <img src="/images/workshops.webp" alt="Workshops at ecoCompute" class="img-fluid" loading="lazy">
-          <hr>
-
-        <div class="row">
-          {{ range (sort (where .Site.RegularPages "Type" "workshop") "Title") }}
-            {{ if (strings.HasPrefix .File.Path $path_prefix) }}
-            	<div class="col-lg-9">
-                    <div class="speaker-info">
-                        <h4 class="mb-0 mt-3"><a href="{{ .Permalink }}"><i class="{{ .Params.Icon }}"></i> {{ .Title }}</a></h4>
-                        <p>Held by {{ .Params.Workshop_host }}<br>{{ .Description }}</p>
-                        <p><u><a href="{{ .Permalink }}">Read full details and description</a></u></p>
-                        <hr>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="speaker-image">
-                        <img src="{{ .Params.Workshop_host_image | absURL }}" alt="{{ $.Title }}" class="img-fluid rounded-circle" style="width: 100px;" loading="lazy">
-                    </div>
-                </div>
-            {{ end }}
-          {{ end }}
-        </div>
-      </div>
-    </section>
 {{ end }}
