@@ -42,12 +42,20 @@ workshop_host_image : "images/clients/bits-und-baeume.webp"
 
 ### Description
 
-Die Bits & Bäume Community kommt zusammen und stellt sich allen Interessierten vor. Ihr habt die Gelegenheit bei Kaffee und guten Keksen in gemütlicher Athmosphäre zu Netzwerken und auch in einer Blitzlichrunde euer Projekt kurz vorzustellen.
+🌿Bits & Bäume Community Meetup- offen für alle! 👾🌿
 
-Der Space befindet sich im Untergeschoss. Folgt einfach der Ausschilderung im Treppenhaus.
+Zum Ende der Ecoompute kommen wir noch einmal zusammen, um unsere Eindrücke von der Konferenz, dem Zusammenspiel von Politik und IT-Praxis und Chancen für eine ökologischere und gerechtere digitale Zukunft zu diskutieren.
 
-/ 
+Kommt vorbei in den Bits & Bäume Community Space!
 
-The Bits & Bäume community is coming together to introduce itself to everyone interested. You'll have the opportunity to network over coffee and delicious cookies in a relaxed atmosphere and also briefly present your project in a short round of introductions.
+Es gibt Kaffee und köstliche Kekse. 
 
-The space is located in the basement. Simply follow the signs in the stairwell.
+---
+
+🌿Bits & Bäume Community Meetup: 👾🌿
+
+Toward the end of the conference, we will come together again to discuss our impressions of EcoCompute, the intersection of politics and IT practice, and ideas for a more ecological and just digital future.
+
+Join us at the Bits & Bäume Community Space!
+
+We'll have delicious coffee and cookies. The meetup is open to everyone.
