@@ -3,6 +3,7 @@ title: "Blue Angel Certification - Workshop"
 date: 2025-08-25T10:51:25+06:00
 draft: false
 description: "A workshop to understand, the impact of digital technologies on the environment and how to reduce it."
+room: Semniar Room - Downstairs
 bg_image : "images/bg/cta-bg.webp"
 type : "workshop"
 icon: "tf-ion-android-document"

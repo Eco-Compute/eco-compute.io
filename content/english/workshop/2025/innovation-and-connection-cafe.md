@@ -3,6 +3,7 @@ title: "Innovation & Connection Café"
 date: 2025-08-25T10:51:25+06:00
 draft: false
 description: "A workshop to connect and learn from peers to solve current engineering challenges around green software."
+room: "Main Room"
 bg_image : "images/bg/cta-bg.webp"
 type : "workshop"
 icon: "tf-ion-happy-outline"

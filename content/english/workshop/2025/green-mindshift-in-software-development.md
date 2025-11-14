@@ -3,6 +3,7 @@ title: "Green Mindshift in Software Development - Workshop"
 date: 2025-08-25T10:51:25+06:00
 draft: false
 description: "A workshop to evaluate how to integrate sustainability in software design and development processes"
+room: Community Track Room, Downstairs
 bg_image : "images/bg/cta-bg.webp"
 type: "workshop"
 icon: "tf-genius"

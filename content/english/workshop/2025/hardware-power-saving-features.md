@@ -3,6 +3,7 @@ title: "Deep Sleep by Design - Building Linux Products that truly Sleep - Worksh
 date: 2025-08-25T10:51:25+06:00
 draft: false
 description: "A workshop to engineer low power linux systems to be used in mobile or embedded systems"
+room: "bUm Box, Upstairs"
 bg_image : "images/bg/cta-bg.webp"
 type : "workshop"
 icon: "tf-tools-2"

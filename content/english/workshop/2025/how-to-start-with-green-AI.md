@@ -3,6 +3,7 @@ title: "How to start with Green AI - Workshop"
 date: 2025-10-01T08:51:25+02:00
 draft: false
 description: "Discuss and evaluate hands-on sustainability and efficiency criteria of off-the-shelf AI products"
+room: "Seminar Room, Downstairs"
 bg_image : "images/bg/cta-bg.webp"
 type: "workshop"
 icon: "tf-ion-help-circled"
