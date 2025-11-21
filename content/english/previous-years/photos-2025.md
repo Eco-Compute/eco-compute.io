@@ -6,11 +6,6 @@ description: "Photos from ecoCompute 2025"
 bg_image : "images/bg/cta-bg.webp"
 ---
 
-
-
-
-## Impressions from previous years
-
 <a href="/images/previous-years/2025/eCC_Hagen_13112025_0045.webp"><img loading="lazy" class="conference-image" src="/images/previous-years/2025/eCC_Hagen_13112025_0045-300.webp"></a>
 <a href="/images/previous-years/2025/ecc2025_13112025_0004.webp"><img loading="lazy" class="conference-image" src="/images/previous-years/2025/ecc2025_13112025_0004-300.webp"></a>
 <a href="/images/previous-years/2025/ecc2025_13112025_0015.webp"><img loading="lazy" class="conference-image" src="/images/previous-years/2025/ecc2025_13112025_0015-300.webp"></a>
@@ -58,3 +53,5 @@ bg_image : "images/bg/cta-bg.webp"
 <a href="/images/previous-years/2025/ecc2025_14112025_0676.webp"><img loading="lazy" class="conference-image" src="/images/previous-years/2025/ecc2025_14112025_0676-300.webp"></a>
 <a href="/images/previous-years/2025/ecc2025_14112025_1465.webp"><img loading="lazy" class="conference-image" src="/images/previous-years/2025/ecc2025_14112025_1465-300.webp"></a>
 <a href="/images/previous-years/2025/ecc2025_14112025_1491.webp"><img loading="lazy" class="conference-image" src="/images/previous-years/2025/ecc2025_14112025_1491-300.webp"></a>
+
+All photos done by <a href="https://www.instagram.com/mike_auerbach/">Mike Auerbach</a> - Many thanks for the great shots ❤️! 
