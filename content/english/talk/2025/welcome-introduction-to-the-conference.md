@@ -15,7 +15,7 @@ speaker_3_company: "Bits & Bäume"
 speaker_3_link: "speaker/2025/friederike-hildebrandt/"
 talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 09:00"
-download_link: "/files/slides_2025/01_Thursday/01_SoHa/01_EcoCompute_Welcome.pdf"
+slide_link: "/files/slides_2025/01_Thursday/01_SoHa/01_EcoCompute_Welcome.pdf"
 type : "talk"
 duration: "20 Minutes"
 outdated: false

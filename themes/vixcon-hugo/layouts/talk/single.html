@@ -48,7 +48,7 @@
             <div><span class="text-color">Starting Time:</span> {{ .Params.talk_date  }}</div>
             <div><span class="text-color">Duration:</span>  {{ .Params.duration }}</div>
             <div><span class="text-color">Room:</span>  {{ .Params.talk_room }}</div>
-            {{ with .Params.Download_link}}<div><span class="text-color">Slides:</span>  <a href="{{ . }}">Download ⬇️</a></div>{{ end }}
+            {{ with .Params.Slide_Link}}<div><span class="text-color">Slides:</span>  <a href="{{ . }}">Download ⬇️</a></div>{{ end }}
 
             <hr>
             <h3>Talk Details</h2>

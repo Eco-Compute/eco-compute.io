@@ -11,6 +11,7 @@ talk_room: "Community Track"
 talk_date: "13.11.2025 09:45"
 type : "talk"
 duration: "25 Minutes"
+slide_link: "/files/slides_2025/01_Thursday/03_Community/03_Herbst_Grundlagen%20von%20IT-Nachhaltigkeit.pdf"
 outdated: false
 ---
 
