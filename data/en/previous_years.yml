@@ -1,7 +1,14 @@
 ################## about #################################
 previous_years:
+  - year: "2025"
+    date: "November 13-14"
+    location: "bUm, Berlin, Germany"
+    title : "The follow up - Bigger, Better, More Exciting!"
+    content: ""
+    photos_link : "/previous-years/photos-2025/"
   - year: "2024"
     date: "April 25-26"
     location: "House of Communication, Munich, Germany"
     title : "This was our first confernce, and it was a blast!"
-    content : ""
+    content: ""
+    photos_link : "/previous-years/photos-2024/"
