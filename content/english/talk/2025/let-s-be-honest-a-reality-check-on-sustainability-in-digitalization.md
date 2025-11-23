@@ -11,6 +11,7 @@ talk_room: "Community Track"
 talk_date: "14.11.2025 09:00"
 type : "talk"
 duration: "25 Minutes"
+slide_link: "/files/slides_2025/02_Friday/03_Community/01_Kruijer.pdf"
 outdated: false
 ---
 

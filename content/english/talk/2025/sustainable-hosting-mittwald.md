@@ -15,6 +15,7 @@ talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "13.11.2025 15:45"
 type : "talk"
 duration: "25 Minutes"
+slide_link: "/files/slides_2025/01_Thursday/02_DIM/11_Hoetger_Sustainable_Hosting.pdf"
 outdated: false
 ---
 

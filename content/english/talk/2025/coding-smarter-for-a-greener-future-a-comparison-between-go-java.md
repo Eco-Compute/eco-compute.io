@@ -11,6 +11,7 @@ talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 10:15"
 type : "talk"
 duration: "25 Minutes"
+slide_link: "/files/slides_2025/01_Thursday/01_SoHa/04_Boelter_LHIND_MB_Ecocompute_Java_vs_Go.pdf"
 outdated: false
 ---
 

@@ -11,6 +11,7 @@ talk_room: "Software & Hardware (So-Ha)"
 talk_date: "14.11.2025 11:05"
 type : "talk"
 duration: "25 Minutes"
+slide_link: "/files/slides_2025/02_Friday/01_SoHa/04_Burggraaf_Built_to_Last.pdf"
 outdated: false
 ---
 

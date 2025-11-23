@@ -11,6 +11,7 @@ talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "14.11.2025 10:25"
 type : "talk"
 duration: "25 Minutes"
+slide_link: "/files/slides_2025/02_Friday/02_DIM/03_Schwerk_XAI_ecocompute.pdf"
 outdated: false
 ---
 

@@ -11,6 +11,7 @@ talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "13.11.2025 17:10"
 type : "talk"
 duration: "50 Minutes"
+slide_link: "/files/slides_2025/01_Thursday/02_DIM/13_Schuettler.pdf"
 outdated: false
 ---
 

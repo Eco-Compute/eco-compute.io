@@ -11,6 +11,7 @@ talk_room: "Software & Hardware (So-Ha)"
 talk_date: "14.11.2025 09:00"
 type : "talk"
 duration: "50 Minutes"
+slide_link: "/files/slides_2025/02_Friday/01_SoHa/01_BrunnerT_How_accurate_are_current_tools_and_models_for_estimating_software_energy_consumption.pdf"
 outdated: false
 ---
 

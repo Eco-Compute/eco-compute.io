@@ -11,6 +11,7 @@ talk_room: "Software & Hardware (So-Ha)"
 talk_date: "14.11.2025 09:55"
 type : "talk"
 duration: "25 Minutes"
+slide_link: "/files/slides_2025/02_Friday/01_SoHa/02_Karlitschek_Nextcloud.pdf"
 outdated: false
 ---
 

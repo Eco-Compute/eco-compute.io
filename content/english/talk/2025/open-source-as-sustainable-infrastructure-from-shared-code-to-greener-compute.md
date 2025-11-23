@@ -11,6 +11,7 @@ talk_room: "Community Track"
 talk_date: "13.11.2025 10:55"
 type : "talk"
 duration: "25 Minutes"
+slide_link: "/files/slides_2025/01_Thursday/03_Community/05_Oliveira.pdf"
 outdated: false
 ---
 

@@ -11,6 +11,7 @@ talk_room: "Data Centers / Infrastructure / Management (DIM)"
 talk_date: "13.11.2025 16:15"
 type : "talk"
 duration: "50 Minutes"
+slide_link: "/files/slides_2025/01_Thursday/02_DIM/12_Kenny_Rich_Understanding_Data_Center_Efficiency.pdf"
 outdated: false
 ---
 

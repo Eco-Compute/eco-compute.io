@@ -19,6 +19,7 @@ talk_room: "Community Track"
 talk_date: "13.11.2025 14:20"
 type : "talk"
 duration: "25 Minutes"
+slide_link: "/files/slides_2025/01_Thursday/03_Community/09_Geiss_endof10.pdf"
 outdated: false
 ---
 

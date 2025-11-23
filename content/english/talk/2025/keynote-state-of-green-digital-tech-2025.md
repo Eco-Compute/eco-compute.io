@@ -12,6 +12,7 @@ talk_date: "13.11.2025 09:20"
 type : "talk"
 duration: "20 Minutes"
 talk_label: "Keynote - 20 min."
+slide_link: "/files/slides_2025/01_Thursday/01_SoHa/02_State_of_Digital_Green_Tech.pdf"
 outdated: false
 ---
 

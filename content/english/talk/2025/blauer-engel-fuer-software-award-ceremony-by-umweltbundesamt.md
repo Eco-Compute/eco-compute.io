@@ -11,6 +11,7 @@ talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 12:20"
 type : "talk"
 duration: "30 Minutes"
+slide_link: "/files/slides_2025/01_Thursday/01_SoHa/07_BE_Deck.pdf"
 outdated: false
 ---
 

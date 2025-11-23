@@ -15,6 +15,7 @@ talk_room: "Software & Hardware (So-Ha)"
 talk_date: "13.11.2025 10:55"
 type : "talk"
 duration: "50 Minutes"
+slide_link: "/files/slides_2025/01_Thursday/01_SoHa/05_Kopp_Green_Frontend.pdf"
 outdated: false
 ---
 
