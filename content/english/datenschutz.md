@@ -13,10 +13,10 @@ bg_image : "images/bg/cta-bg.webp"
 <h6 id="wer-ist-verantwortlich-für-die-datenerfassung-auf-dieser-website">WER IST VERANTWORTLICH FÜR DIE DATENERFASSUNG AUF DIESER WEBSITE?</h6>
 <p>Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Abschnitt „Hinweis zur Verantwortlichen Stelle“ in dieser Datenschutzerklärung entnehmen.</p>
 <h6 id="wie-erfassen-wir-ihre-daten">WIE ERFASSEN WIR IHRE DATEN?</h6>
-<p>Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um Daten handeln, die Sie in ein Kontaktformular eingeben.</p>
+<p>Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um Daten handeln, die Sie in ein Kontaktformular eingeben oder bei der Bestellung des Tickets angeben oder wenn Sie über denn Call for Speakers einen Vorschlag einreichen.</p>
 <p>Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.</p>
 <h6 id="wofür-nutzen-wir-ihre-daten">WOFÜR NUTZEN WIR IHRE DATEN?</h6>
-<p>Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.</p>
+<p>Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden. Daten aus dem Ticketsystem werden dazu verwendet um Ihnen eine Eintrittskarte für die Konferenz auszustellen und die Zahlung abzuwickeln. Informationen aus dem Call for Speakers System werden dafür verwendet um mit Ihnen in Kontakt zu treten bei Rückfragen zu dem Vortrags-Vorschlag.</p>
 <h6 id="welche-rechte-haben-sie-bezüglich-ihrer-daten">WELCHE RECHTE HABEN SIE BEZÜGLICH IHRER DATEN?</h6>
 <p>Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.</p>
 <p>Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden.</p>
@@ -29,8 +29,8 @@ bg_image : "images/bg/cta-bg.webp"
 <p>Der Einsatz des Hosters erfolgt zum Zwecke der Vertragserfüllung gegenüber unseren potenziellen und bestehenden Kunden (Art. 6 Abs. 1 lit. b DSGVO) und im Interesse einer sicheren, schnellen und effizienten Bereitstellung unseres Online-Angebots durch einen professionellen Anbieter (Art. 6 Abs. 1 lit. f DSGVO).</p>
 <p>Unser Hoster wird Ihre Daten nur insoweit verarbeiten, wie dies zur Erfüllung seiner Leistungspflichten erforderlich ist und unsere Weisungen in Bezug auf diese Daten befolgen.</p>
 <p>Wir setzen folgenden Hoster ein:</p>
-<p>Cloudflare, Inc.</p>
-<p>101 Townsend St,</p>
+<p>GitHub, Inc.</p>
+<p> 88 Colin P. Kelly Jr. St.</p>
 <p>San Francisco, CA 94107</p>
 <p>USA</p>
 <h6 id="abschluss-eines-vertrages-über-auftragsverarbeitung">ABSCHLUSS EINES VERTRAGES ÜBER AUFTRAGSVERARBEITUNG</h6>
@@ -45,7 +45,7 @@ bg_image : "images/bg/cta-bg.webp"
 <p>Arne Tarara</p>
 <p>Jablonskistr. 24</p>
 <p>10405 Berlin</p>
-<p>Telefon: 030 / 30 265 945 57</p>
+<p>Telefon: +49 (0) 30 375-811-15</p>
 <p>arne@green-coding.berlin</a></p>
 <p>Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.</p>
 <h5 id="speicherdauer">SPEICHERDAUER</h5>
@@ -96,4 +96,24 @@ bg_image : "images/bg/cta-bg.webp"
 <p>Wir verwenden den in der EU ansässigen Drittanbieter Plausible.io zum Tracking unserer Webseiten-Benutzer.</p>
 <p>Das Tracking Script setzt keine Cookies und speichert keine personenbezogenen Daten.</p>
 <p>Hier finden Sie finden die [Datenschutzerklärung](https://plausible.io/privacy) und die [Data-Policy](https://plausible.io/data-policy) des Anbieters.</p>
-<p>https://www.e-recht24.de</a></p>
+
+<h3 id="6-ticketing">6. TICKETING</h3>
+<h5 id="pretix">Pretix.eu</h5>
+<p>Wir verwenden den in der EU ansässigen Drittanbieter Pretix.eu um Ihre Daten für die Ticketbestellung aufzunehmen und mit Ihnen bei Rückfragen zum Ticket Kontakt aufzunehmen.</p>
+<p>Hierbei werden personenbezogene Daten erhoben inkl. der E-Mail Adresse.</p>
+<p>Hier finden Sie finden die [Datenschutzerklärung](https://pretix.eu/about/de/privacy) des Anbieters.</p>
+
+<h3 id="7-payment">7. ZAHLUNGSABWICKLUNG</h3>
+<h5 id="mollie">Mollie.eu</h5>
+<p>Wir verwenden den in der EU ansässigen Drittanbieter Mollie um Ihre Daten für Zahlung der Ticketbestellung zu verarbeiten.</p>
+<p>Hierbei werden personenbezogene Daten erhoben inkl. der Kreditkarten oder Bankdaten.</p>
+<p>Hier finden Sie finden die [Datenschutzerklärung](https://www.mollie.com/legal/privacy) des Anbieters.</p>
+
+<h3 id="8-payment">8. CALL FOR SPEAKERS</h3>
+<h5 id="pretalx">Pretalx</h5>
+<p>Wir verwenden eine eigene gehostete Lösung auf cfp.eco-compute.io um ihren Vorschlag für einen Vortrag bei der ecoCompute Konferenz aufzunehmen und zu bewerten.</p>
+<p>Hierbei werden personenbezogene Daten erhoben wie Name und E-Mail Adresse.</p>
+<p>Das Hosting findet ebenfalls auf Hetzner statt und es gilt die Datenschutzerklärung und Information zu dem Anbieter, siehe oben.</p>
+
+
+<p>Tool das bei der Erstellung mitgeholfen hat: https://www.e-recht24.de</a></p>
