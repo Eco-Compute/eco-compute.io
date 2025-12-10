@@ -58,8 +58,8 @@ cta:
   title : "Meet top **experts** <br> & industry heads in a unique **2-days** experience."
   image : "images/banner/rev-slider-09.webp"
   button:
-    enable : true
-    label : "Join the Waiting List"
+    enable : false
+    label : "Get your ticket"
     link : "/#pricing"
 
 ############################# Feature ###########################
@@ -145,7 +145,7 @@ schedule:
 
 ####################### pricing #############################
 pricing:
-  enable : true
+  enable : false
   # pricing data comes from "pricing.yml" file
 
 ########################## speaker ##########################
